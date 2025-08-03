@@ -1,0 +1,4 @@
+https://www.aquare.la/o-que-e-ciencia-de-dados-data-science-para-negocios/
+
+Preparar os Slides para o conceito de ciência de dados com python..
+

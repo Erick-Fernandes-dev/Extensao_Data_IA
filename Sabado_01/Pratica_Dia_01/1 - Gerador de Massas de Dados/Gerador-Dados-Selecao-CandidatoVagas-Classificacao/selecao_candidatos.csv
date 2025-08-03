@@ -1,0 +1,3127 @@
+id_candidato,cargo,tempo_experiencia,num_projetos,certificacoes,escolaridade,avaliacao_tecnica,avaliacao_comportamental,candidato_apto
+965,Programador,16,32,7,Pós-graduação,8.9,6.6,1
+6376,Programador,7,22,2,Graduação,7.2,9.0,1
+2593,Programador,7,1,7,Doutorado,6.2,2.3,0
+5636,Cientista de Dados,4,48,0,Mestrado,6.7,7.4,1
+1229,Cientista de Dados,16,38,9,Mestrado,7.0,8.4,1
+407,Programador,16,12,3,Graduação,2.9,2.4,0
+4534,Analista de Dados,14,16,5,Pós-graduação,6.0,9.9,1
+8012,Analista de Dados,13,23,8,Pós-graduação,8.7,7.5,1
+229,Analista de Dados,1,6,4,Doutorado,7.1,1.4,0
+8142,Analista de Dados,13,18,7,Graduação,1.5,4.6,0
+7347,Cientista de Dados,12,13,2,Mestrado,7.1,6.1,1
+8038,Cientista de Dados,5,22,9,Pós-graduação,7.0,6.0,1
+2070,Cientista de Dados,7,27,2,Mestrado,9.6,6.7,1
+5114,Analista de Dados,9,31,6,Pós-graduação,6.9,6.8,1
+1218,Analista de Dados,2,40,6,Mestrado,9.1,5.1,0
+723,Programador,4,29,2,Pós-graduação,7.0,9.5,1
+9809,Programador,16,35,2,Graduação,9.6,1.4,0
+1997,Analista de Dados,9,36,2,Graduação,4.4,5.0,0
+6501,Programador,5,12,3,Doutorado,4.8,1.9,0
+335,Analista de Dados,16,33,9,Doutorado,8.7,8.5,1
+1145,Cientista de Dados,11,12,8,Mestrado,8.2,6.4,1
+2942,Analista de Dados,15,3,9,Doutorado,8.2,1.3,0
+7998,Programador,3,33,0,Graduação,7.1,4.7,0
+4193,Programador,10,34,6,Graduação,9.8,7.3,1
+5877,Analista de Dados,14,41,0,Mestrado,6.4,6.1,1
+1068,Programador,4,47,3,Graduação,9.1,7.2,1
+8384,Programador,12,49,8,Doutorado,1.3,7.8,0
+9685,Analista de Dados,6,5,5,Graduação,7.1,9.2,1
+6215,Analista de Dados,7,39,3,Doutorado,6.8,6.5,1
+4613,Programador,3,13,6,Pós-graduação,6.0,7.3,1
+1232,Analista de Dados,2,14,2,Mestrado,2.6,5.0,0
+3125,Programador,19,44,1,Doutorado,4.0,9.2,0
+8488,Cientista de Dados,11,18,7,Pós-graduação,7.4,6.5,1
+7325,Programador,18,43,8,Doutorado,7.4,9.7,1
+9941,Programador,12,31,7,Graduação,1.2,9.7,0
+5053,Analista de Dados,4,8,6,Graduação,8.2,1.0,0
+2788,Cientista de Dados,12,39,2,Doutorado,8.0,8.2,1
+2690,Cientista de Dados,3,21,9,Mestrado,9.6,2.4,0
+5349,Cientista de Dados,12,3,2,Doutorado,7.7,7.9,0
+2343,Analista de Dados,6,35,0,Doutorado,6.9,7.2,1
+6144,Programador,2,32,5,Mestrado,7.4,8.6,0
+7916,Cientista de Dados,9,5,7,Graduação,3.8,1.4,0
+5833,Programador,7,40,2,Mestrado,2.9,4.0,0
+7224,Cientista de Dados,11,28,9,Doutorado,9.5,8.1,1
+7097,Programador,4,17,3,Graduação,10.0,9.2,1
+5111,Analista de Dados,6,15,3,Doutorado,3.8,3.0,0
+1280,Cientista de Dados,10,20,9,Pós-graduação,7.9,6.3,1
+2298,Analista de Dados,17,8,5,Pós-graduação,6.3,9.7,1
+7727,Cientista de Dados,11,38,0,Pós-graduação,6.8,9.3,1
+7303,Analista de Dados,11,21,3,Pós-graduação,2.6,6.9,0
+8145,Analista de Dados,10,49,8,Pós-graduação,7.9,7.0,1
+7983,Programador,3,31,1,Graduação,6.2,8.8,1
+2564,Analista de Dados,7,6,1,Graduação,7.7,5.3,0
+3063,Analista de Dados,13,9,6,Doutorado,6.5,7.5,1
+1949,Cientista de Dados,14,19,3,Mestrado,6.3,6.7,1
+9075,Programador,19,38,1,Graduação,9.4,6.1,1
+8371,Analista de Dados,10,19,4,Graduação,8.4,9.8,1
+5678,Analista de Dados,15,42,8,Mestrado,8.6,7.1,1
+6939,Cientista de Dados,18,44,0,Mestrado,2.9,9.9,0
+1554,Cientista de Dados,12,20,5,Doutorado,6.4,7.4,1
+1421,Cientista de Dados,5,46,6,Graduação,6.8,7.7,1
+7110,Cientista de Dados,18,49,4,Graduação,6.7,7.3,1
+1435,Programador,3,5,1,Pós-graduação,7.0,2.9,0
+683,Cientista de Dados,16,37,5,Doutorado,6.9,8.0,1
+3419,Programador,19,11,5,Pós-graduação,4.3,8.4,0
+9574,Analista de Dados,16,13,1,Graduação,1.8,6.8,0
+7573,Programador,16,27,7,Doutorado,7.3,7.6,1
+3925,Analista de Dados,13,36,4,Graduação,3.0,6.5,0
+8471,Programador,0,40,5,Graduação,5.1,4.1,0
+6528,Cientista de Dados,6,16,2,Mestrado,5.9,3.0,0
+4084,Cientista de Dados,3,49,5,Doutorado,8.0,3.2,0
+9483,Programador,8,3,6,Mestrado,2.2,1.5,0
+4637,Cientista de Dados,5,12,4,Pós-graduação,8.2,9.3,1
+3690,Programador,13,19,8,Graduação,8.5,7.1,1
+9109,Analista de Dados,17,7,8,Doutorado,8.5,6.3,1
+1020,Analista de Dados,15,16,2,Pós-graduação,2.3,9.0,0
+6245,Analista de Dados,17,16,0,Pós-graduação,8.4,2.0,0
+8696,Programador,15,9,5,Graduação,10.0,6.1,1
+7819,Cientista de Dados,11,31,3,Mestrado,6.4,4.5,0
+3752,Analista de Dados,12,44,4,Graduação,8.1,9.8,1
+9868,Programador,11,31,5,Graduação,7.5,3.2,0
+6069,Programador,10,22,1,Doutorado,8.3,6.4,1
+1511,Cientista de Dados,18,24,8,Pós-graduação,4.5,7.1,0
+3798,Programador,15,31,6,Doutorado,1.2,3.7,0
+536,Cientista de Dados,14,27,1,Pós-graduação,8.7,1.3,0
+1819,Programador,3,33,4,Graduação,6.5,4.4,0
+7732,Analista de Dados,16,6,5,Graduação,8.1,8.1,1
+9697,Cientista de Dados,19,19,4,Mestrado,6.6,6.6,1
+2409,Cientista de Dados,3,11,2,Mestrado,7.8,7.7,1
+6196,Programador,5,44,2,Doutorado,7.1,9.7,1
+8685,Cientista de Dados,7,44,2,Mestrado,6.8,8.7,1
+5188,Cientista de Dados,4,47,2,Doutorado,6.0,6.9,1
+1673,Analista de Dados,4,40,9,Graduação,4.9,1.8,0
+8485,Programador,13,1,1,Graduação,3.7,7.9,0
+7351,Programador,12,6,0,Doutorado,6.2,8.9,1
+3462,Analista de Dados,11,43,7,Graduação,8.0,7.5,1
+4811,Analista de Dados,13,19,2,Pós-graduação,4.5,1.3,0
+2485,Cientista de Dados,9,46,3,Mestrado,5.8,2.0,0
+6130,Cientista de Dados,15,41,6,Graduação,9.9,6.9,1
+6328,Programador,5,12,0,Mestrado,7.9,6.4,1
+2206,Cientista de Dados,10,24,0,Graduação,7.0,5.3,0
+1036,Cientista de Dados,0,0,2,Mestrado,2.5,9.3,0
+4010,Programador,4,48,5,Mestrado,7.7,9.6,1
+1191,Programador,17,40,5,Mestrado,6.3,7.4,1
+181,Programador,9,48,2,Pós-graduação,7.4,7.4,1
+4112,Programador,19,40,3,Doutorado,9.3,8.7,1
+7007,Analista de Dados,19,12,8,Graduação,6.6,8.3,1
+1858,Programador,8,24,6,Mestrado,7.6,9.8,1
+4231,Programador,15,15,0,Mestrado,5.6,6.2,0
+3524,Cientista de Dados,4,46,0,Pós-graduação,6.3,7.6,1
+5945,Programador,6,29,3,Mestrado,6.2,7.0,1
+820,Analista de Dados,17,26,8,Graduação,7.4,9.8,1
+1506,Cientista de Dados,9,40,1,Graduação,8.3,9.4,1
+5180,Cientista de Dados,11,7,9,Doutorado,5.1,4.2,0
+6554,Cientista de Dados,9,21,4,Pós-graduação,2.4,2.9,0
+7403,Cientista de Dados,9,29,2,Pós-graduação,7.9,6.9,1
+8329,Cientista de Dados,12,37,2,Pós-graduação,10.0,7.8,1
+6769,Programador,11,48,4,Doutorado,6.3,6.9,1
+5321,Cientista de Dados,5,19,4,Pós-graduação,6.4,7.4,1
+7663,Analista de Dados,6,31,5,Doutorado,6.6,9.2,1
+8825,Programador,14,40,5,Pós-graduação,6.5,7.0,1
+2427,Programador,8,10,6,Doutorado,2.5,1.2,0
+3531,Cientista de Dados,7,42,9,Pós-graduação,9.0,5.8,0
+1428,Analista de Dados,13,10,2,Pós-graduação,8.4,7.8,1
+2366,Cientista de Dados,19,25,9,Pós-graduação,8.7,8.2,1
+4522,Analista de Dados,8,49,1,Doutorado,7.7,5.3,0
+3048,Analista de Dados,1,5,2,Mestrado,8.6,1.9,0
+4406,Analista de Dados,6,17,7,Doutorado,8.6,4.8,0
+1864,Cientista de Dados,9,44,6,Mestrado,7.2,9.5,1
+8860,Programador,4,28,0,Graduação,6.5,6.6,1
+1953,Cientista de Dados,6,49,7,Doutorado,6.1,9.5,1
+82,Programador,11,38,5,Pós-graduação,9.3,7.6,1
+1571,Analista de Dados,5,9,8,Pós-graduação,3.7,8.0,0
+470,Analista de Dados,8,28,4,Doutorado,1.3,2.9,0
+5476,Programador,6,17,0,Graduação,9.8,5.3,0
+492,Cientista de Dados,13,16,1,Doutorado,9.2,10.0,1
+7277,Cientista de Dados,17,14,1,Pós-graduação,10.0,9.5,1
+9414,Analista de Dados,11,19,5,Mestrado,8.8,6.6,1
+1566,Analista de Dados,2,6,8,Graduação,7.0,2.1,0
+8748,Cientista de Dados,9,18,5,Mestrado,6.8,9.2,1
+9316,Analista de Dados,3,13,2,Mestrado,7.5,3.7,0
+5708,Programador,16,31,6,Doutorado,8.0,7.7,1
+5432,Programador,7,30,5,Graduação,1.3,5.8,0
+1121,Cientista de Dados,9,24,0,Doutorado,6.8,6.8,1
+2289,Analista de Dados,11,10,6,Mestrado,6.3,8.9,1
+3418,Programador,11,36,6,Graduação,3.5,8.7,0
+9012,Programador,1,43,4,Graduação,6.7,5.8,0
+2575,Cientista de Dados,11,31,1,Doutorado,9.5,7.4,1
+4384,Programador,1,4,3,Doutorado,6.5,9.5,0
+9359,Analista de Dados,13,34,4,Pós-graduação,9.1,6.2,1
+8675,Programador,19,10,9,Graduação,6.1,6.0,1
+1508,Analista de Dados,6,32,4,Doutorado,7.9,9.0,1
+469,Programador,2,21,1,Pós-graduação,7.7,2.1,0
+6608,Analista de Dados,15,26,5,Mestrado,6.4,9.7,1
+70,Programador,16,27,5,Graduação,9.7,9.0,1
+1777,Programador,16,45,4,Graduação,8.9,8.3,1
+2399,Cientista de Dados,1,31,1,Doutorado,6.3,9.2,0
+6170,Analista de Dados,12,33,5,Doutorado,8.3,7.2,1
+8593,Analista de Dados,11,49,8,Graduação,2.2,7.8,0
+4904,Programador,12,30,3,Doutorado,1.4,2.0,0
+62,Programador,1,15,6,Mestrado,2.5,9.7,0
+1640,Analista de Dados,18,29,9,Pós-graduação,9.8,7.3,1
+3496,Programador,4,24,7,Pós-graduação,8.9,6.2,1
+7920,Programador,9,21,7,Graduação,6.4,8.3,1
+5084,Programador,7,20,8,Graduação,9.8,8.8,1
+8784,Analista de Dados,10,23,8,Doutorado,7.7,7.1,1
+2295,Programador,16,20,3,Graduação,8.9,7.5,1
+3441,Cientista de Dados,4,27,5,Graduação,7.1,6.8,1
+7420,Analista de Dados,7,29,4,Pós-graduação,8.6,9.4,1
+616,Programador,17,28,8,Graduação,8.6,8.6,1
+9463,Analista de Dados,11,13,5,Doutorado,6.5,7.4,1
+9927,Analista de Dados,7,37,3,Doutorado,3.9,6.6,0
+424,Programador,11,21,2,Graduação,6.4,9.1,1
+4504,Cientista de Dados,1,15,0,Pós-graduação,8.0,2.1,0
+1831,Programador,13,34,2,Mestrado,8.7,9.1,1
+7958,Cientista de Dados,4,24,3,Pós-graduação,2.7,3.0,0
+5299,Cientista de Dados,0,20,6,Graduação,6.5,10.0,0
+3313,Cientista de Dados,12,24,0,Doutorado,7.7,3.6,0
+6322,Cientista de Dados,19,14,6,Pós-graduação,9.0,7.5,1
+2975,Programador,16,11,1,Mestrado,7.9,8.6,1
+5266,Analista de Dados,12,18,5,Graduação,1.7,8.0,0
+1717,Cientista de Dados,9,9,0,Doutorado,6.8,6.5,1
+8891,Programador,9,19,9,Mestrado,6.9,7.0,1
+9358,Cientista de Dados,13,14,2,Doutorado,8.9,6.1,1
+9705,Analista de Dados,6,21,7,Pós-graduação,4.8,5.7,0
+909,Cientista de Dados,9,35,4,Graduação,6.2,8.5,1
+9815,Cientista de Dados,4,43,5,Mestrado,10.0,8.1,1
+4865,Programador,3,43,4,Doutorado,9.4,6.8,1
+9226,Cientista de Dados,15,42,6,Pós-graduação,9.9,7.8,1
+2614,Programador,9,35,6,Pós-graduação,7.7,7.3,1
+19,Cientista de Dados,18,23,6,Pós-graduação,8.1,7.7,1
+7867,Analista de Dados,13,11,1,Doutorado,6.0,7.4,1
+4737,Analista de Dados,8,6,3,Pós-graduação,8.7,8.7,1
+3969,Programador,3,29,9,Doutorado,8.8,7.1,1
+7016,Analista de Dados,7,12,4,Doutorado,8.1,9.0,1
+6778,Analista de Dados,6,42,1,Graduação,7.7,7.3,1
+6924,Cientista de Dados,7,36,7,Graduação,1.9,6.2,0
+6965,Cientista de Dados,11,5,2,Doutorado,5.0,3.6,0
+9100,Programador,5,3,5,Graduação,5.2,8.7,0
+5562,Programador,13,35,6,Doutorado,7.6,7.0,1
+8407,Cientista de Dados,15,13,3,Pós-graduação,9.2,8.5,1
+3011,Programador,4,47,9,Mestrado,2.7,2.8,0
+499,Cientista de Dados,3,29,5,Pós-graduação,3.2,4.5,0
+9777,Analista de Dados,14,8,4,Pós-graduação,9.9,8.3,1
+274,Cientista de Dados,15,27,6,Doutorado,7.2,8.3,1
+9498,Programador,3,27,5,Graduação,7.4,8.4,1
+9702,Programador,12,14,6,Pós-graduação,6.8,7.4,1
+2644,Programador,18,47,3,Mestrado,6.6,9.0,1
+793,Programador,12,38,9,Mestrado,2.5,1.8,0
+1836,Analista de Dados,8,30,5,Mestrado,4.3,2.1,0
+4200,Cientista de Dados,7,36,7,Graduação,7.5,9.9,1
+540,Cientista de Dados,13,43,0,Mestrado,8.3,7.0,1
+4047,Programador,8,25,1,Pós-graduação,4.6,4.1,0
+5177,Cientista de Dados,14,46,3,Mestrado,1.3,7.5,0
+5276,Cientista de Dados,9,43,4,Doutorado,6.1,6.7,1
+1215,Programador,11,26,0,Pós-graduação,1.7,2.7,0
+1676,Programador,19,16,1,Doutorado,4.1,1.7,0
+1459,Cientista de Dados,18,32,3,Graduação,3.9,6.8,0
+1254,Programador,7,47,1,Mestrado,2.0,7.1,0
+1468,Analista de Dados,17,6,6,Pós-graduação,9.7,6.0,1
+8816,Analista de Dados,5,37,9,Pós-graduação,9.0,9.2,1
+3456,Programador,1,27,4,Graduação,3.0,1.7,0
+855,Programador,11,18,5,Doutorado,7.4,9.9,1
+2803,Cientista de Dados,5,49,0,Mestrado,3.1,2.5,0
+4302,Cientista de Dados,17,21,4,Graduação,7.5,7.1,1
+6353,Programador,6,11,9,Pós-graduação,6.5,7.5,1
+7088,Cientista de Dados,0,37,9,Graduação,8.2,9.9,0
+1384,Programador,8,11,8,Graduação,9.8,1.7,0
+8575,Programador,7,41,8,Doutorado,9.0,4.1,0
+8917,Analista de Dados,2,22,2,Doutorado,5.2,9.0,0
+4944,Cientista de Dados,4,24,0,Pós-graduação,9.5,6.5,1
+3527,Cientista de Dados,5,38,6,Doutorado,8.5,4.1,0
+1165,Analista de Dados,8,16,8,Doutorado,6.9,9.9,1
+1367,Analista de Dados,18,7,1,Graduação,9.8,9.9,1
+5317,Cientista de Dados,9,48,7,Doutorado,3.6,6.8,0
+9817,Cientista de Dados,8,37,0,Graduação,2.1,3.7,0
+254,Programador,17,42,8,Mestrado,4.7,7.5,0
+9375,Cientista de Dados,10,12,1,Pós-graduação,9.9,9.8,1
+6772,Cientista de Dados,7,27,8,Pós-graduação,1.9,1.1,0
+8722,Programador,15,12,7,Mestrado,3.3,4.3,0
+8620,Programador,4,19,7,Graduação,2.5,4.4,0
+1561,Analista de Dados,4,48,7,Graduação,5.4,7.6,0
+7833,Programador,5,1,3,Graduação,1.1,2.2,0
+8815,Programador,10,7,9,Graduação,5.5,9.9,0
+3771,Cientista de Dados,14,12,2,Graduação,6.4,7.6,1
+4286,Programador,16,35,5,Graduação,3.5,9.9,0
+3818,Analista de Dados,10,43,6,Pós-graduação,6.5,7.0,1
+7362,Cientista de Dados,4,40,6,Doutorado,8.2,7.4,1
+3446,Programador,16,25,0,Mestrado,2.5,9.2,0
+6535,Analista de Dados,0,17,1,Pós-graduação,3.0,8.3,0
+1101,Cientista de Dados,8,48,4,Doutorado,8.8,6.6,1
+932,Analista de Dados,6,43,0,Doutorado,6.3,8.0,1
+4144,Cientista de Dados,2,47,9,Doutorado,6.8,3.4,0
+8674,Analista de Dados,8,10,0,Mestrado,9.0,6.2,1
+876,Analista de Dados,10,44,3,Graduação,7.7,6.4,1
+9473,Cientista de Dados,10,32,0,Doutorado,4.8,1.8,0
+8606,Cientista de Dados,17,10,8,Doutorado,8.1,9.5,1
+4536,Cientista de Dados,19,33,6,Mestrado,9.2,8.2,1
+5492,Programador,8,34,7,Pós-graduação,7.7,7.5,1
+3095,Analista de Dados,11,34,9,Pós-graduação,7.9,7.6,1
+1291,Analista de Dados,6,45,1,Pós-graduação,9.0,4.7,0
+3841,Programador,15,9,4,Pós-graduação,5.9,3.5,0
+5638,Cientista de Dados,14,43,5,Doutorado,9.9,6.1,1
+5171,Programador,4,18,0,Doutorado,7.7,8.8,1
+572,Programador,0,37,0,Doutorado,2.6,8.7,0
+4276,Programador,14,29,8,Doutorado,6.1,8.2,1
+5865,Cientista de Dados,10,12,3,Pós-graduação,7.0,8.7,1
+7310,Cientista de Dados,5,30,2,Pós-graduação,7.8,7.8,1
+5666,Programador,15,28,8,Mestrado,8.2,3.9,0
+5158,Cientista de Dados,13,49,3,Pós-graduação,4.5,3.7,0
+8449,Programador,4,13,7,Pós-graduação,9.0,9.2,1
+1098,Programador,1,30,8,Doutorado,9.0,2.8,0
+2827,Analista de Dados,5,0,2,Pós-graduação,6.7,4.3,0
+4983,Cientista de Dados,18,16,6,Pós-graduação,5.6,6.0,0
+619,Cientista de Dados,6,33,6,Doutorado,6.7,9.8,1
+8997,Cientista de Dados,7,2,3,Graduação,6.3,4.7,0
+3586,Analista de Dados,15,45,3,Doutorado,9.9,8.0,1
+4791,Cientista de Dados,17,44,2,Doutorado,8.2,6.8,1
+207,Cientista de Dados,17,22,1,Doutorado,3.3,5.5,0
+6819,Programador,6,43,1,Mestrado,9.7,7.1,1
+621,Programador,7,17,7,Mestrado,9.7,7.0,1
+5520,Cientista de Dados,5,15,1,Graduação,6.2,7.8,1
+2585,Programador,7,25,6,Pós-graduação,6.1,5.8,0
+2764,Cientista de Dados,12,42,2,Pós-graduação,8.3,5.9,0
+9183,Analista de Dados,17,15,7,Pós-graduação,2.9,2.7,0
+3458,Programador,15,46,3,Mestrado,6.4,7.9,1
+6237,Analista de Dados,9,34,2,Graduação,6.0,9.7,1
+1013,Programador,18,34,1,Graduação,1.5,3.5,0
+491,Cientista de Dados,11,32,2,Mestrado,6.2,6.9,1
+1735,Programador,18,35,1,Pós-graduação,8.8,9.2,1
+9636,Analista de Dados,3,7,7,Doutorado,7.6,8.7,1
+4321,Analista de Dados,1,18,5,Doutorado,8.5,1.0,0
+5671,Cientista de Dados,8,1,4,Pós-graduação,4.1,5.3,0
+6209,Analista de Dados,17,42,1,Mestrado,5.8,5.3,0
+4546,Programador,10,47,6,Graduação,1.3,5.2,0
+7281,Analista de Dados,1,32,3,Graduação,6.9,7.0,0
+3715,Programador,7,15,9,Pós-graduação,8.8,8.2,1
+5554,Analista de Dados,11,35,0,Doutorado,9.3,3.3,0
+557,Programador,16,10,8,Mestrado,8.6,7.9,1
+7440,Programador,19,8,5,Pós-graduação,6.0,7.5,1
+3693,Programador,3,15,3,Doutorado,3.4,3.3,0
+484,Cientista de Dados,18,3,7,Pós-graduação,7.9,6.8,0
+4856,Analista de Dados,0,38,7,Pós-graduação,9.6,6.5,0
+6590,Programador,9,28,6,Pós-graduação,2.5,5.4,0
+8837,Cientista de Dados,12,30,0,Mestrado,6.5,8.9,1
+8074,Analista de Dados,7,31,3,Pós-graduação,1.0,6.3,0
+2679,Programador,6,0,1,Mestrado,8.0,7.9,0
+2236,Analista de Dados,14,40,9,Pós-graduação,2.3,6.6,0
+278,Analista de Dados,18,32,1,Doutorado,7.7,9.9,1
+6750,Programador,18,36,8,Graduação,5.1,8.6,0
+7369,Cientista de Dados,2,45,8,Graduação,8.5,3.5,0
+9155,Cientista de Dados,8,27,0,Pós-graduação,9.1,9.1,1
+6329,Programador,10,14,1,Doutorado,10.0,6.7,1
+5245,Cientista de Dados,17,20,3,Pós-graduação,6.7,8.9,1
+3930,Programador,3,39,0,Pós-graduação,8.5,9.7,1
+1722,Programador,8,29,5,Graduação,6.4,6.7,1
+6385,Programador,4,44,6,Graduação,8.4,8.3,1
+4677,Analista de Dados,5,16,9,Mestrado,8.6,6.6,1
+4997,Cientista de Dados,13,4,6,Doutorado,1.4,2.8,0
+6235,Analista de Dados,3,43,7,Mestrado,3.8,4.3,0
+7296,Analista de Dados,19,25,8,Doutorado,3.7,6.0,0
+505,Programador,11,23,3,Mestrado,7.9,7.4,1
+5832,Cientista de Dados,16,26,4,Doutorado,8.0,5.7,0
+6228,Analista de Dados,10,6,0,Graduação,5.1,3.5,0
+6931,Analista de Dados,0,19,8,Mestrado,7.2,2.9,0
+6592,Analista de Dados,9,20,2,Pós-graduação,6.0,6.9,1
+1134,Programador,16,46,4,Doutorado,1.7,5.6,0
+783,Cientista de Dados,14,37,1,Pós-graduação,9.4,9.7,1
+6062,Analista de Dados,14,45,7,Doutorado,6.4,7.9,1
+588,Programador,19,42,2,Pós-graduação,4.2,5.4,0
+2072,Programador,13,34,4,Mestrado,8.2,5.9,0
+1288,Cientista de Dados,7,45,9,Pós-graduação,2.3,7.6,0
+7121,Programador,10,10,7,Graduação,3.3,5.0,0
+871,Analista de Dados,12,22,7,Graduação,6.6,6.3,1
+9204,Cientista de Dados,8,33,0,Doutorado,8.7,7.5,1
+2501,Analista de Dados,13,22,5,Graduação,9.6,5.8,0
+7197,Analista de Dados,17,43,2,Pós-graduação,8.6,9.4,1
+6877,Cientista de Dados,14,44,1,Doutorado,1.5,6.4,0
+5430,Analista de Dados,8,12,5,Graduação,2.0,5.3,0
+7776,Cientista de Dados,16,40,5,Mestrado,9.5,7.3,1
+3387,Cientista de Dados,16,35,3,Pós-graduação,6.8,6.2,1
+318,Cientista de Dados,8,35,8,Doutorado,9.7,9.6,1
+8484,Programador,17,40,6,Pós-graduação,2.1,9.8,0
+4114,Analista de Dados,9,25,3,Mestrado,7.6,7.9,1
+9147,Programador,5,25,8,Mestrado,8.7,8.9,1
+6733,Analista de Dados,17,25,1,Graduação,7.8,8.5,1
+3764,Programador,3,39,8,Mestrado,8.4,9.4,1
+8397,Cientista de Dados,16,11,4,Mestrado,3.5,5.5,0
+5980,Programador,16,7,9,Mestrado,5.0,4.9,0
+6423,Analista de Dados,10,45,9,Doutorado,4.8,9.7,0
+6762,Programador,17,17,1,Mestrado,6.3,7.6,1
+5098,Programador,19,34,1,Graduação,7.7,6.5,1
+6971,Cientista de Dados,13,33,5,Graduação,9.5,7.3,1
+9648,Cientista de Dados,2,21,3,Pós-graduação,8.4,2.8,0
+9945,Cientista de Dados,17,27,9,Graduação,9.9,4.0,0
+5414,Analista de Dados,3,49,2,Graduação,5.1,9.2,0
+8927,Cientista de Dados,16,8,9,Pós-graduação,9.6,6.6,1
+1445,Programador,15,34,2,Mestrado,2.0,5.7,0
+7795,Analista de Dados,11,11,1,Mestrado,8.2,6.4,1
+2971,Analista de Dados,17,44,4,Graduação,2.2,8.1,0
+2929,Programador,2,2,5,Graduação,6.7,2.7,0
+4531,Programador,9,46,5,Pós-graduação,1.9,8.4,0
+5199,Cientista de Dados,1,4,6,Doutorado,3.6,1.5,0
+3029,Cientista de Dados,16,41,7,Doutorado,3.7,1.8,0
+7982,Programador,6,13,8,Graduação,9.6,8.0,1
+3352,Cientista de Dados,15,41,1,Pós-graduação,3.2,6.5,0
+329,Programador,18,14,4,Mestrado,7.9,7.7,1
+4554,Cientista de Dados,6,14,8,Pós-graduação,3.3,9.3,0
+6662,Analista de Dados,6,46,7,Mestrado,1.8,8.3,0
+4860,Cientista de Dados,12,27,0,Doutorado,3.5,9.9,0
+9427,Programador,3,38,4,Graduação,8.2,8.0,1
+1759,Analista de Dados,12,14,5,Mestrado,2.0,5.6,0
+7085,Cientista de Dados,14,47,8,Graduação,9.3,6.8,1
+7619,Cientista de Dados,18,4,7,Mestrado,7.9,2.4,0
+9264,Cientista de Dados,12,42,3,Mestrado,5.7,2.1,0
+9841,Programador,7,41,1,Mestrado,8.5,9.7,1
+135,Analista de Dados,8,10,3,Doutorado,9.6,6.3,1
+8465,Programador,9,16,8,Graduação,7.3,6.7,1
+7425,Analista de Dados,19,26,2,Graduação,6.3,8.7,1
+8344,Analista de Dados,10,3,9,Pós-graduação,1.9,3.6,0
+9460,Analista de Dados,10,3,3,Mestrado,1.8,5.9,0
+2166,Programador,5,2,4,Mestrado,7.2,5.3,0
+9272,Programador,14,6,9,Doutorado,8.2,9.0,1
+6597,Programador,19,45,7,Doutorado,9.3,7.1,1
+4750,Analista de Dados,8,37,8,Mestrado,2.5,3.9,0
+378,Programador,12,25,5,Graduação,7.1,6.3,1
+253,Analista de Dados,17,16,1,Doutorado,1.8,5.3,0
+3067,Programador,0,0,6,Graduação,9.5,6.7,0
+981,Analista de Dados,9,32,0,Graduação,6.2,8.3,1
+9244,Cientista de Dados,16,26,6,Pós-graduação,7.7,6.6,1
+5439,Programador,5,24,6,Pós-graduação,9.0,8.0,1
+4813,Cientista de Dados,16,31,7,Doutorado,7.6,6.9,1
+2613,Analista de Dados,13,10,3,Pós-graduação,4.0,9.4,0
+5362,Programador,7,14,0,Mestrado,8.2,6.1,1
+7764,Programador,1,0,7,Graduação,8.0,8.3,0
+5283,Cientista de Dados,5,10,5,Doutorado,9.9,6.6,1
+5679,Cientista de Dados,8,29,0,Mestrado,7.0,8.6,1
+4741,Programador,18,47,7,Mestrado,6.7,3.3,0
+9851,Programador,16,17,8,Doutorado,7.4,6.7,1
+2843,Cientista de Dados,18,21,0,Graduação,8.0,9.7,1
+8867,Cientista de Dados,19,24,7,Doutorado,9.6,6.1,1
+5488,Programador,19,41,3,Mestrado,4.4,5.3,0
+3554,Cientista de Dados,16,46,3,Pós-graduação,8.9,7.4,1
+3731,Cientista de Dados,14,40,7,Pós-graduação,9.7,8.0,1
+4790,Programador,12,10,5,Doutorado,8.7,7.0,1
+375,Cientista de Dados,18,7,7,Mestrado,2.0,4.9,0
+4122,Programador,5,27,3,Mestrado,9.7,6.6,1
+1150,Programador,18,29,4,Pós-graduação,6.6,7.7,1
+6657,Analista de Dados,12,46,2,Pós-graduação,7.5,9.9,1
+7453,Programador,9,32,5,Mestrado,7.0,9.8,1
+2200,Analista de Dados,18,38,5,Mestrado,3.1,8.6,0
+7616,Cientista de Dados,7,35,6,Pós-graduação,9.8,8.8,1
+4950,Cientista de Dados,2,11,0,Doutorado,9.9,9.5,0
+1750,Cientista de Dados,0,1,2,Mestrado,3.1,1.6,0
+9198,Cientista de Dados,9,19,2,Doutorado,4.1,6.9,0
+7678,Analista de Dados,16,29,9,Graduação,6.0,8.0,1
+1841,Analista de Dados,10,1,9,Mestrado,1.9,1.4,0
+6163,Analista de Dados,2,45,2,Doutorado,1.7,9.2,0
+9942,Programador,13,45,3,Graduação,4.3,3.9,0
+2245,Cientista de Dados,6,18,8,Mestrado,8.4,8.4,1
+74,Cientista de Dados,18,41,8,Doutorado,8.4,6.2,1
+8951,Analista de Dados,15,19,3,Pós-graduação,8.0,6.3,1
+166,Programador,17,33,0,Mestrado,10.0,9.8,1
+7990,Programador,14,35,2,Mestrado,6.0,6.4,1
+8281,Programador,18,9,6,Doutorado,6.6,6.1,1
+5176,Programador,9,22,9,Graduação,5.2,3.7,0
+7400,Analista de Dados,10,8,1,Pós-graduação,7.3,7.4,1
+8056,Analista de Dados,3,11,2,Pós-graduação,7.1,9.9,1
+3074,Programador,9,30,2,Doutorado,8.0,6.2,1
+1938,Programador,9,43,7,Graduação,9.7,7.5,1
+5464,Cientista de Dados,16,26,7,Mestrado,8.8,6.5,1
+7864,Programador,4,34,8,Mestrado,7.2,1.2,0
+366,Cientista de Dados,11,34,0,Graduação,7.1,4.4,0
+4640,Programador,5,43,6,Doutorado,4.9,7.3,0
+7797,Analista de Dados,4,7,4,Graduação,9.4,3.8,0
+7162,Cientista de Dados,16,20,1,Pós-graduação,8.6,5.2,0
+7632,Cientista de Dados,16,49,6,Pós-graduação,6.4,8.4,1
+3885,Cientista de Dados,6,41,9,Pós-graduação,9.3,8.8,1
+5732,Cientista de Dados,10,9,5,Graduação,9.6,9.3,1
+7720,Programador,18,7,6,Graduação,1.5,3.8,0
+8549,Cientista de Dados,8,29,7,Doutorado,5.2,4.8,0
+5797,Cientista de Dados,10,36,3,Pós-graduação,9.8,1.4,0
+1826,Analista de Dados,13,27,3,Mestrado,8.8,7.0,1
+6799,Analista de Dados,16,36,2,Pós-graduação,7.2,1.1,0
+4629,Programador,7,44,9,Graduação,9.3,8.3,1
+3907,Cientista de Dados,8,10,6,Doutorado,9.3,7.7,1
+4477,Cientista de Dados,5,37,1,Mestrado,1.1,1.1,0
+650,Analista de Dados,5,18,6,Doutorado,7.3,6.4,1
+5814,Analista de Dados,13,48,3,Mestrado,7.2,2.8,0
+7342,Cientista de Dados,7,12,2,Mestrado,6.3,6.5,1
+6027,Cientista de Dados,12,33,0,Pós-graduação,6.3,7.9,1
+46,Analista de Dados,16,19,4,Doutorado,6.5,8.3,1
+7887,Analista de Dados,7,49,6,Doutorado,9.0,8.5,1
+260,Programador,9,42,9,Graduação,6.0,8.2,1
+1749,Analista de Dados,18,30,2,Pós-graduação,4.0,7.2,0
+5472,Programador,6,29,1,Graduação,9.7,8.1,1
+142,Analista de Dados,5,47,6,Pós-graduação,7.1,7.1,1
+5524,Analista de Dados,11,29,4,Doutorado,8.0,5.2,0
+3377,Cientista de Dados,11,17,8,Doutorado,8.6,9.1,1
+3823,Cientista de Dados,17,33,8,Pós-graduação,6.1,7.1,1
+6326,Programador,9,3,8,Pós-graduação,7.9,1.9,0
+8408,Cientista de Dados,9,35,6,Pós-graduação,9.7,5.2,0
+4054,Programador,18,43,7,Graduação,9.4,8.8,1
+4068,Analista de Dados,11,1,1,Mestrado,9.6,2.1,0
+5095,Analista de Dados,18,43,5,Doutorado,9.8,4.1,0
+2963,Cientista de Dados,8,5,9,Mestrado,9.4,6.3,1
+8111,Cientista de Dados,3,2,8,Mestrado,2.4,4.1,0
+3861,Programador,1,22,2,Mestrado,7.7,3.0,0
+4037,Cientista de Dados,15,31,0,Graduação,4.0,4.2,0
+7679,Cientista de Dados,4,30,4,Mestrado,7.3,9.6,1
+646,Analista de Dados,13,38,4,Mestrado,8.3,9.8,1
+5835,Programador,16,44,5,Pós-graduação,2.0,5.7,0
+2824,Analista de Dados,6,32,0,Pós-graduação,2.4,9.0,0
+1007,Cientista de Dados,10,27,3,Doutorado,6.9,7.5,1
+7454,Programador,10,31,7,Graduação,3.5,4.9,0
+5471,Cientista de Dados,5,39,9,Graduação,7.2,7.4,1
+7567,Cientista de Dados,11,25,7,Doutorado,3.5,2.4,0
+5037,Analista de Dados,9,15,1,Doutorado,4.4,6.9,0
+6624,Cientista de Dados,11,41,4,Pós-graduação,9.4,7.6,1
+467,Programador,19,15,5,Pós-graduação,9.9,9.0,1
+706,Cientista de Dados,16,45,1,Mestrado,5.7,7.7,0
+1212,Cientista de Dados,12,17,6,Pós-graduação,1.3,8.9,0
+2095,Analista de Dados,12,25,4,Doutorado,7.5,6.1,1
+3516,Cientista de Dados,15,42,2,Mestrado,8.9,9.5,1
+5225,Analista de Dados,13,20,4,Pós-graduação,7.7,8.3,1
+3523,Analista de Dados,5,32,4,Graduação,8.8,9.2,1
+1259,Cientista de Dados,12,49,7,Mestrado,5.9,2.1,0
+5085,Programador,0,34,3,Graduação,1.6,3.1,0
+5860,Programador,9,36,9,Mestrado,2.2,6.9,0
+4768,Programador,13,10,1,Graduação,4.2,1.6,0
+9742,Analista de Dados,11,40,9,Pós-graduação,6.0,8.6,1
+3801,Programador,16,27,9,Mestrado,8.4,6.8,1
+5310,Analista de Dados,9,23,3,Pós-graduação,7.5,9.4,1
+7858,Analista de Dados,5,30,7,Mestrado,8.4,8.9,1
+5643,Programador,3,26,4,Graduação,7.3,1.9,0
+1106,Analista de Dados,18,11,6,Graduação,7.7,8.0,1
+9011,Programador,2,43,7,Doutorado,2.1,3.5,0
+2,Programador,17,37,1,Mestrado,9.5,8.7,1
+6504,Cientista de Dados,12,26,9,Doutorado,6.6,3.6,0
+1152,Cientista de Dados,19,37,7,Mestrado,6.0,8.5,1
+1524,Analista de Dados,11,34,3,Pós-graduação,7.1,4.3,0
+8123,Analista de Dados,10,16,1,Mestrado,7.6,9.4,1
+960,Programador,19,15,1,Doutorado,2.4,6.8,0
+7568,Cientista de Dados,15,15,1,Pós-graduação,1.4,9.1,0
+4716,Programador,3,43,2,Doutorado,7.9,8.1,1
+9329,Cientista de Dados,13,10,5,Doutorado,7.6,7.5,1
+6777,Analista de Dados,16,35,3,Mestrado,8.8,6.9,1
+8631,Cientista de Dados,13,14,9,Mestrado,4.2,2.2,0
+9182,Analista de Dados,4,47,2,Pós-graduação,9.4,9.9,1
+4977,Cientista de Dados,0,41,4,Doutorado,9.0,4.8,0
+5589,Cientista de Dados,12,38,1,Pós-graduação,9.6,10.0,1
+2881,Cientista de Dados,8,38,3,Doutorado,7.8,8.2,1
+4373,Programador,6,31,5,Pós-graduação,4.1,3.7,0
+7238,Cientista de Dados,14,11,6,Graduação,9.7,7.4,1
+3536,Analista de Dados,11,1,6,Mestrado,5.3,4.0,0
+8730,Programador,10,20,6,Doutorado,8.8,7.6,1
+8190,Analista de Dados,15,18,4,Mestrado,8.1,9.0,1
+4802,Analista de Dados,12,27,8,Pós-graduação,2.0,3.5,0
+4966,Programador,15,18,4,Mestrado,9.3,9.9,1
+9324,Analista de Dados,17,9,9,Doutorado,9.3,1.9,0
+3061,Analista de Dados,3,47,0,Pós-graduação,7.8,7.1,1
+8641,Programador,11,9,9,Pós-graduação,1.9,6.8,0
+5385,Cientista de Dados,10,39,0,Mestrado,6.6,2.1,0
+523,Cientista de Dados,4,2,6,Doutorado,4.1,7.2,0
+7684,Cientista de Dados,14,21,5,Mestrado,8.6,8.9,1
+6289,Analista de Dados,8,25,4,Doutorado,8.0,8.8,1
+5068,Cientista de Dados,17,24,2,Doutorado,5.8,8.1,0
+4214,Programador,19,9,8,Pós-graduação,3.4,3.1,0
+7745,Programador,7,14,8,Pós-graduação,9.0,6.6,1
+699,Programador,17,6,3,Doutorado,7.5,6.1,1
+1398,Cientista de Dados,7,27,2,Mestrado,3.4,5.9,0
+8736,Cientista de Dados,10,27,3,Pós-graduação,7.2,9.1,1
+8890,Programador,16,40,6,Graduação,6.1,6.7,1
+3656,Programador,10,37,8,Doutorado,8.2,8.8,1
+9993,Programador,18,7,6,Mestrado,5.7,2.1,0
+3651,Programador,16,16,4,Pós-graduação,9.9,2.6,0
+3570,Analista de Dados,11,21,2,Doutorado,5.7,6.7,0
+8436,Programador,6,31,1,Doutorado,10.0,6.2,1
+2028,Cientista de Dados,18,37,0,Graduação,8.2,3.9,0
+8698,Programador,18,21,6,Mestrado,4.0,3.6,0
+154,Analista de Dados,15,24,5,Graduação,4.6,8.2,0
+4569,Cientista de Dados,8,48,1,Pós-graduação,8.6,6.6,1
+1400,Cientista de Dados,10,9,2,Mestrado,6.9,7.4,1
+8496,Programador,5,21,5,Doutorado,2.5,3.6,0
+8491,Cientista de Dados,10,21,4,Graduação,9.4,3.2,0
+9180,Analista de Dados,2,11,2,Mestrado,4.2,5.3,0
+1090,Analista de Dados,18,24,2,Doutorado,6.6,8.9,1
+7137,Analista de Dados,16,9,4,Pós-graduação,2.2,6.6,0
+3577,Programador,10,35,1,Graduação,9.7,7.8,1
+2509,Analista de Dados,15,20,6,Mestrado,2.7,4.5,0
+4886,Programador,1,16,4,Doutorado,6.1,3.2,0
+5509,Programador,4,7,2,Mestrado,7.4,7.3,1
+6357,Programador,12,12,1,Graduação,7.8,3.8,0
+122,Analista de Dados,6,29,4,Doutorado,3.7,3.9,0
+1905,Cientista de Dados,14,30,0,Doutorado,4.1,6.7,0
+7784,Programador,0,7,3,Mestrado,9.0,3.3,0
+8744,Programador,16,41,6,Mestrado,9.0,9.0,1
+5411,Analista de Dados,3,44,2,Pós-graduação,6.4,7.5,1
+4705,Cientista de Dados,6,30,6,Doutorado,6.1,6.3,1
+448,Analista de Dados,14,32,2,Mestrado,6.7,8.9,1
+440,Analista de Dados,19,6,9,Doutorado,8.6,7.0,1
+7382,Programador,18,9,8,Graduação,7.3,6.8,1
+7694,Analista de Dados,8,43,1,Doutorado,5.2,1.0,0
+6833,Analista de Dados,17,11,7,Doutorado,9.4,6.2,1
+4365,Programador,7,18,7,Graduação,1.8,7.4,0
+3381,Analista de Dados,10,30,3,Mestrado,9.2,8.9,1
+7006,Analista de Dados,19,0,3,Doutorado,1.6,6.7,0
+3970,Analista de Dados,13,24,5,Doutorado,9.5,6.9,1
+4703,Analista de Dados,5,36,9,Graduação,9.3,8.6,1
+1573,Programador,11,34,5,Pós-graduação,5.8,8.9,0
+892,Programador,3,10,5,Doutorado,9.6,8.3,1
+4829,Programador,3,39,9,Pós-graduação,5.8,9.1,0
+7484,Analista de Dados,12,49,0,Mestrado,3.9,8.3,0
+7244,Programador,3,35,8,Doutorado,10.0,9.8,1
+5393,Cientista de Dados,13,35,7,Graduação,6.3,6.6,1
+7556,Cientista de Dados,14,32,8,Graduação,5.2,1.6,0
+3528,Programador,1,42,1,Doutorado,8.1,3.7,0
+5764,Programador,12,40,6,Mestrado,6.9,7.6,1
+8764,Cientista de Dados,11,38,2,Doutorado,7.9,6.1,1
+2116,Analista de Dados,10,1,9,Pós-graduação,8.6,1.3,0
+1356,Cientista de Dados,16,8,6,Graduação,4.8,6.5,0
+4604,Analista de Dados,3,23,4,Mestrado,7.0,7.4,1
+7449,Cientista de Dados,4,49,4,Doutorado,1.6,7.2,0
+2109,Analista de Dados,19,29,6,Graduação,8.4,6.1,1
+759,Analista de Dados,3,1,5,Mestrado,9.4,4.8,0
+6820,Programador,17,46,5,Graduação,9.2,7.0,1
+6121,Analista de Dados,3,18,0,Graduação,2.1,3.3,0
+1276,Analista de Dados,12,37,4,Graduação,8.7,9.9,1
+7451,Programador,18,1,3,Pós-graduação,7.5,8.2,0
+7028,Cientista de Dados,1,47,6,Mestrado,9.6,1.1,0
+2167,Cientista de Dados,7,36,8,Graduação,6.9,6.4,1
+568,Programador,9,42,4,Graduação,8.1,7.2,1
+6227,Programador,7,44,4,Doutorado,9.1,5.1,0
+9475,Analista de Dados,16,26,6,Mestrado,7.8,9.6,1
+5071,Analista de Dados,13,49,5,Mestrado,8.8,8.9,1
+401,Cientista de Dados,19,31,2,Pós-graduação,7.1,7.2,1
+1312,Programador,8,46,1,Doutorado,9.5,7.2,1
+2101,Cientista de Dados,11,27,4,Graduação,6.0,10.0,1
+6579,Analista de Dados,13,8,7,Mestrado,9.3,4.4,0
+8192,Programador,9,5,2,Doutorado,8.9,6.1,1
+2652,Programador,16,48,5,Mestrado,9.9,8.1,1
+2906,Analista de Dados,16,37,8,Graduação,5.6,8.9,0
+7385,Programador,12,6,3,Doutorado,6.2,9.0,1
+513,Analista de Dados,8,11,9,Doutorado,6.5,4.9,0
+8155,Cientista de Dados,14,37,8,Pós-graduação,6.1,4.7,0
+8643,Programador,18,24,9,Pós-graduação,8.8,7.5,1
+2632,Analista de Dados,5,8,1,Graduação,7.9,8.9,1
+5096,Programador,12,5,9,Doutorado,5.4,6.9,0
+5779,Analista de Dados,6,3,2,Doutorado,4.7,3.7,0
+8649,Programador,2,7,3,Doutorado,1.2,8.0,0
+5565,Cientista de Dados,18,5,5,Graduação,4.2,7.0,0
+641,Programador,19,32,4,Pós-graduação,5.8,4.2,0
+8510,Programador,16,20,0,Doutorado,6.1,9.5,1
+2009,Cientista de Dados,9,17,7,Graduação,1.1,8.6,0
+5839,Programador,8,21,5,Graduação,6.4,8.5,1
+7487,Cientista de Dados,19,35,4,Pós-graduação,8.3,3.9,0
+5920,Programador,17,27,8,Mestrado,4.9,5.7,0
+5939,Cientista de Dados,8,24,9,Pós-graduação,4.2,8.2,0
+7610,Analista de Dados,3,36,9,Pós-graduação,2.2,6.2,0
+9736,Analista de Dados,12,19,3,Mestrado,8.2,9.6,1
+3728,Cientista de Dados,13,30,3,Doutorado,7.5,1.2,0
+4069,Analista de Dados,16,36,3,Graduação,8.2,8.3,1
+3594,Analista de Dados,9,10,7,Graduação,9.5,8.9,1
+4134,Cientista de Dados,9,15,4,Mestrado,7.0,7.5,1
+8902,Cientista de Dados,3,11,9,Graduação,6.2,3.5,0
+9387,Analista de Dados,8,25,9,Graduação,6.9,9.9,1
+7430,Cientista de Dados,7,3,4,Graduação,3.5,1.6,0
+5696,Analista de Dados,4,25,1,Mestrado,6.1,6.3,1
+6100,Cientista de Dados,7,3,3,Pós-graduação,3.3,9.0,0
+4243,Programador,18,20,0,Pós-graduação,8.0,2.1,0
+9303,Cientista de Dados,13,12,9,Mestrado,7.0,8.0,1
+6013,Programador,19,27,6,Mestrado,5.2,6.7,0
+8746,Programador,15,26,6,Mestrado,1.6,1.9,0
+1024,Programador,16,35,3,Pós-graduação,4.5,1.6,0
+9902,Analista de Dados,13,10,0,Pós-graduação,7.9,9.8,1
+4744,Analista de Dados,9,17,9,Mestrado,8.3,7.8,1
+69,Cientista de Dados,13,41,8,Doutorado,8.4,7.6,1
+8232,Cientista de Dados,19,10,9,Graduação,5.4,3.8,0
+3495,Cientista de Dados,15,38,4,Pós-graduação,3.5,4.1,0
+6050,Programador,10,44,4,Graduação,9.7,9.5,1
+4921,Programador,19,5,4,Mestrado,8.3,6.8,1
+6698,Analista de Dados,10,30,9,Graduação,4.8,3.3,0
+3640,Programador,12,40,6,Pós-graduação,1.2,3.8,0
+2541,Cientista de Dados,7,4,2,Pós-graduação,3.4,2.5,0
+9327,Cientista de Dados,10,44,6,Mestrado,7.9,7.0,1
+8871,Analista de Dados,17,19,6,Pós-graduação,7.5,2.3,0
+5823,Cientista de Dados,7,28,9,Mestrado,6.9,6.7,1
+6813,Programador,9,43,0,Doutorado,9.6,6.5,1
+1729,Cientista de Dados,7,19,4,Pós-graduação,6.1,2.4,0
+6219,Programador,5,10,8,Doutorado,8.0,9.4,1
+5246,Cientista de Dados,8,9,5,Graduação,8.6,7.5,1
+2721,Analista de Dados,17,6,7,Graduação,1.3,8.1,0
+7704,Cientista de Dados,18,30,1,Mestrado,5.4,7.0,0
+4907,Cientista de Dados,11,8,9,Graduação,9.8,9.0,1
+3936,Programador,3,26,8,Graduação,7.2,7.0,1
+9008,Analista de Dados,19,30,9,Mestrado,9.4,9.0,1
+689,Cientista de Dados,15,17,4,Mestrado,6.7,9.4,1
+7752,Analista de Dados,11,47,6,Graduação,8.6,8.6,1
+5484,Analista de Dados,19,17,7,Doutorado,6.0,9.0,1
+1278,Analista de Dados,13,12,0,Doutorado,5.1,1.2,0
+5228,Programador,19,2,3,Mestrado,6.9,5.7,0
+6989,Analista de Dados,18,16,5,Mestrado,7.8,7.3,1
+7268,Cientista de Dados,8,12,5,Pós-graduação,9.1,6.5,1
+3098,Cientista de Dados,14,24,6,Doutorado,7.1,3.7,0
+2157,Analista de Dados,12,49,2,Pós-graduação,7.8,8.4,1
+8208,Programador,1,41,2,Mestrado,6.0,4.6,0
+1419,Analista de Dados,9,21,3,Pós-graduação,5.0,1.4,0
+6771,Analista de Dados,17,37,0,Doutorado,6.9,6.5,1
+4385,Cientista de Dados,18,33,6,Mestrado,9.5,8.4,1
+9434,Programador,6,33,2,Graduação,10.0,8.8,1
+3632,Programador,16,43,6,Graduação,8.6,9.5,1
+1253,Programador,12,49,9,Mestrado,2.2,7.4,0
+3398,Cientista de Dados,2,40,1,Graduação,8.5,6.7,0
+5115,Programador,9,27,8,Pós-graduação,4.0,3.7,0
+642,Programador,18,37,9,Pós-graduação,5.7,6.9,0
+1929,Cientista de Dados,4,40,0,Mestrado,8.7,8.5,1
+2941,Analista de Dados,6,44,0,Pós-graduação,5.0,9.3,0
+3956,Analista de Dados,19,14,7,Mestrado,6.2,9.2,1
+373,Analista de Dados,6,18,7,Doutorado,1.7,7.6,0
+7323,Cientista de Dados,14,32,8,Pós-graduação,7.4,7.1,1
+7923,Cientista de Dados,8,18,0,Mestrado,9.1,9.5,1
+852,Programador,14,17,2,Pós-graduação,7.6,7.3,1
+1665,Cientista de Dados,10,10,9,Pós-graduação,6.0,9.2,1
+8731,Analista de Dados,12,44,3,Graduação,4.3,1.3,0
+1405,Programador,12,42,9,Mestrado,7.8,8.1,1
+3966,Programador,0,18,1,Mestrado,3.1,8.4,0
+2391,Programador,19,2,7,Graduação,8.4,3.4,0
+4545,Programador,5,48,6,Doutorado,3.9,6.8,0
+241,Programador,7,36,2,Mestrado,5.2,9.5,0
+9895,Analista de Dados,15,1,5,Pós-graduação,5.5,7.0,0
+3338,Programador,5,31,2,Doutorado,9.2,8.6,1
+5912,Cientista de Dados,11,47,3,Pós-graduação,2.5,5.8,0
+725,Programador,19,17,8,Pós-graduação,6.6,3.0,0
+6894,Programador,5,23,2,Doutorado,5.8,8.5,0
+8235,Cientista de Dados,10,15,8,Doutorado,7.7,7.9,1
+2400,Analista de Dados,8,10,9,Doutorado,9.9,9.6,1
+9436,Cientista de Dados,3,34,8,Mestrado,1.0,5.9,0
+495,Cientista de Dados,3,38,2,Graduação,8.7,8.3,1
+2174,Programador,19,30,4,Pós-graduação,6.2,6.6,1
+8476,Analista de Dados,12,38,9,Doutorado,8.4,6.8,1
+3732,Analista de Dados,14,9,0,Pós-graduação,8.0,4.7,0
+4148,Cientista de Dados,19,44,9,Doutorado,9.5,7.3,1
+8382,Programador,7,35,0,Doutorado,6.1,9.6,1
+2634,Cientista de Dados,4,38,0,Pós-graduação,4.7,9.8,0
+7228,Analista de Dados,5,24,6,Pós-graduação,8.6,7.2,1
+3905,Cientista de Dados,17,33,9,Pós-graduação,2.3,5.1,0
+532,Cientista de Dados,13,16,1,Doutorado,7.0,7.0,1
+6810,Analista de Dados,3,13,9,Doutorado,6.9,6.2,1
+8908,Analista de Dados,10,14,7,Doutorado,8.8,6.6,1
+4709,Programador,9,31,8,Graduação,10.0,6.0,1
+8337,Analista de Dados,12,11,1,Doutorado,4.8,2.2,0
+9934,Cientista de Dados,5,23,9,Pós-graduação,3.6,6.2,0
+1621,Cientista de Dados,5,17,6,Doutorado,9.8,9.4,1
+3924,Programador,0,20,8,Pós-graduação,4.3,3.5,0
+9549,Analista de Dados,19,21,6,Pós-graduação,5.9,1.1,0
+7259,Programador,6,6,1,Pós-graduação,2.3,10.0,0
+2364,Cientista de Dados,3,0,6,Graduação,4.8,2.6,0
+6116,Programador,19,19,3,Doutorado,10.0,8.1,1
+2607,Programador,14,37,2,Graduação,2.2,2.3,0
+3684,Analista de Dados,15,12,2,Graduação,8.6,3.6,0
+7553,Analista de Dados,13,23,6,Graduação,5.6,3.0,0
+8194,Cientista de Dados,17,49,3,Doutorado,5.2,8.0,0
+3641,Programador,17,20,8,Mestrado,5.3,9.6,0
+6231,Programador,14,30,9,Mestrado,9.8,7.5,1
+4833,Cientista de Dados,2,44,8,Graduação,4.8,1.7,0
+8351,Cientista de Dados,11,18,6,Doutorado,9.9,2.1,0
+2163,Cientista de Dados,8,22,9,Pós-graduação,6.8,3.6,0
+3347,Analista de Dados,10,47,3,Pós-graduação,9.3,7.7,1
+381,Cientista de Dados,12,32,2,Graduação,1.7,5.5,0
+5460,Programador,14,18,7,Doutorado,7.0,2.4,0
+9142,Analista de Dados,0,19,1,Graduação,5.2,1.7,0
+7746,Programador,10,48,6,Pós-graduação,8.2,8.1,1
+9437,Cientista de Dados,10,5,5,Doutorado,6.0,9.6,1
+4936,Cientista de Dados,13,16,4,Doutorado,1.9,2.8,0
+6507,Cientista de Dados,1,49,1,Pós-graduação,1.8,5.4,0
+9275,Programador,14,1,8,Mestrado,9.0,6.5,0
+9997,Programador,8,36,5,Pós-graduação,8.5,6.6,1
+7995,Analista de Dados,16,35,9,Doutorado,7.2,9.9,1
+5838,Cientista de Dados,8,43,9,Mestrado,9.2,7.5,1
+1160,Programador,19,35,3,Doutorado,1.6,3.1,0
+6709,Analista de Dados,14,0,7,Doutorado,1.3,4.5,0
+9479,Programador,18,24,8,Graduação,4.7,1.7,0
+1470,Analista de Dados,1,12,1,Pós-graduação,9.3,3.0,0
+825,Analista de Dados,3,37,0,Graduação,9.3,4.3,0
+3251,Programador,4,29,0,Pós-graduação,7.4,5.6,0
+2887,Programador,18,14,3,Mestrado,9.0,7.9,1
+8632,Analista de Dados,11,26,2,Doutorado,7.0,8.8,1
+1285,Programador,4,15,1,Mestrado,8.5,5.1,0
+8300,Cientista de Dados,3,33,5,Mestrado,7.7,6.6,1
+3428,Cientista de Dados,15,34,5,Mestrado,7.8,8.6,1
+3928,Analista de Dados,17,34,4,Pós-graduação,5.3,3.7,0
+6970,Analista de Dados,13,16,3,Mestrado,9.9,8.0,1
+3154,Programador,19,41,3,Doutorado,3.8,5.4,0
+521,Programador,7,5,1,Graduação,8.9,6.3,1
+5986,Analista de Dados,4,47,9,Doutorado,8.3,9.0,1
+4180,Programador,5,12,5,Pós-graduação,9.6,6.5,1
+3329,Programador,7,44,9,Pós-graduação,8.2,1.2,0
+387,Analista de Dados,14,9,4,Doutorado,9.0,9.1,1
+7131,Cientista de Dados,8,40,2,Graduação,4.0,6.3,0
+3665,Programador,4,9,8,Doutorado,7.5,6.1,1
+8855,Cientista de Dados,14,20,4,Mestrado,2.9,6.7,0
+6008,Cientista de Dados,13,7,7,Pós-graduação,4.4,8.8,0
+8388,Cientista de Dados,17,14,0,Mestrado,8.9,7.0,1
+2873,Analista de Dados,8,2,3,Mestrado,9.8,4.2,0
+2482,Cientista de Dados,3,1,5,Doutorado,3.3,9.5,0
+8264,Programador,10,13,2,Doutorado,9.5,6.1,1
+1977,Analista de Dados,4,16,0,Pós-graduação,7.6,7.7,1
+3645,Analista de Dados,9,20,7,Doutorado,9.5,7.8,1
+3039,Cientista de Dados,2,2,9,Mestrado,2.1,5.2,0
+4350,Cientista de Dados,7,24,1,Mestrado,8.3,9.7,1
+3551,Programador,12,19,7,Doutorado,6.0,6.5,1
+5711,Cientista de Dados,17,33,7,Graduação,6.6,8.8,1
+6844,Programador,0,6,4,Graduação,5.7,9.6,0
+2996,Analista de Dados,18,38,8,Graduação,5.4,5.9,0
+7719,Programador,14,10,6,Doutorado,8.6,2.2,0
+2965,Analista de Dados,3,39,1,Pós-graduação,8.9,7.8,1
+2423,Cientista de Dados,14,43,3,Doutorado,2.7,4.6,0
+4734,Analista de Dados,7,26,5,Mestrado,6.9,9.9,1
+295,Programador,15,43,1,Pós-graduação,3.0,2.4,0
+6580,Cientista de Dados,14,8,4,Pós-graduação,7.0,7.9,1
+6432,Analista de Dados,5,40,7,Graduação,8.1,6.5,1
+1447,Programador,8,28,5,Doutorado,7.5,4.7,0
+2135,Analista de Dados,17,5,5,Graduação,8.7,5.9,0
+5899,Cientista de Dados,7,35,5,Graduação,8.4,9.9,1
+7717,Analista de Dados,8,2,6,Mestrado,7.7,1.6,0
+7297,Analista de Dados,13,18,8,Mestrado,6.0,4.2,0
+182,Analista de Dados,19,40,1,Doutorado,3.2,7.8,0
+7217,Programador,19,15,5,Graduação,8.1,8.5,1
+1083,Programador,19,48,6,Graduação,7.7,9.5,1
+5856,Analista de Dados,7,12,1,Mestrado,8.4,6.3,1
+7327,Cientista de Dados,3,26,5,Doutorado,10.0,9.0,1
+6258,Analista de Dados,16,33,5,Graduação,4.9,3.0,0
+3201,Programador,5,31,7,Pós-graduação,6.4,9.3,1
+9940,Programador,17,41,2,Graduação,4.6,9.2,0
+2553,Analista de Dados,14,16,5,Doutorado,6.6,1.1,0
+9266,Analista de Dados,10,14,5,Pós-graduação,1.3,3.4,0
+866,Analista de Dados,10,6,2,Mestrado,6.9,5.8,0
+2502,Cientista de Dados,18,3,8,Graduação,3.3,5.1,0
+5737,Programador,4,45,5,Mestrado,8.9,6.7,1
+3790,Analista de Dados,7,32,0,Pós-graduação,5.9,8.7,0
+2925,Analista de Dados,5,24,4,Pós-graduação,7.7,1.4,0
+5316,Cientista de Dados,8,29,2,Mestrado,6.7,7.3,1
+1402,Programador,16,46,1,Pós-graduação,2.3,6.6,0
+4203,Cientista de Dados,8,11,5,Doutorado,9.4,6.8,1
+3241,Analista de Dados,15,24,7,Graduação,7.8,7.3,1
+2456,Analista de Dados,2,36,5,Graduação,5.6,2.7,0
+1239,Cientista de Dados,9,0,2,Graduação,1.1,7.5,0
+3880,Cientista de Dados,10,15,9,Doutorado,5.4,7.3,0
+8013,Analista de Dados,2,43,8,Graduação,9.8,1.1,0
+7572,Analista de Dados,17,39,7,Graduação,5.3,4.6,0
+872,Cientista de Dados,10,35,6,Pós-graduação,1.8,9.6,0
+5360,Programador,19,42,6,Graduação,6.2,8.5,1
+2038,Programador,4,23,3,Doutorado,7.2,8.0,1
+7800,Analista de Dados,19,4,3,Mestrado,1.7,4.8,0
+9127,Programador,10,14,2,Mestrado,5.6,9.0,0
+180,Programador,6,17,3,Mestrado,4.7,4.5,0
+5105,Programador,9,39,8,Mestrado,6.4,6.4,1
+2367,Analista de Dados,8,33,3,Graduação,7.8,6.1,1
+3265,Programador,3,29,6,Doutorado,6.9,2.7,0
+5082,Cientista de Dados,9,31,8,Graduação,1.5,1.1,0
+9085,Analista de Dados,10,26,4,Pós-graduação,2.6,3.6,0
+8813,Programador,0,20,9,Mestrado,8.1,6.4,0
+9661,Cientista de Dados,18,34,5,Doutorado,1.0,6.1,0
+5511,Cientista de Dados,16,3,0,Doutorado,8.3,6.5,0
+218,Analista de Dados,3,13,8,Pós-graduação,5.6,5.4,0
+8884,Programador,15,11,3,Pós-graduação,8.6,7.6,1
+9625,Cientista de Dados,13,11,0,Pós-graduação,7.7,9.5,1
+8314,Programador,15,46,9,Graduação,8.7,6.0,1
+127,Analista de Dados,14,48,3,Doutorado,3.2,7.0,0
+1860,Analista de Dados,15,26,4,Doutorado,7.8,5.1,0
+9416,Cientista de Dados,15,26,1,Graduação,7.3,9.4,1
+8709,Programador,16,2,6,Doutorado,7.8,3.0,0
+9481,Cientista de Dados,1,33,0,Pós-graduação,2.7,6.4,0
+5763,Cientista de Dados,11,18,1,Pós-graduação,6.4,7.2,1
+9195,Analista de Dados,17,8,7,Pós-graduação,6.8,7.6,1
+9410,Analista de Dados,3,8,2,Doutorado,7.0,4.4,0
+9364,Cientista de Dados,15,36,6,Mestrado,6.7,8.8,1
+550,Analista de Dados,7,10,6,Pós-graduação,4.8,4.0,0
+80,Cientista de Dados,8,35,4,Mestrado,1.9,6.6,0
+1002,Analista de Dados,4,24,3,Graduação,6.9,7.8,1
+3894,Cientista de Dados,17,29,8,Mestrado,8.0,3.4,0
+9610,Cientista de Dados,15,25,4,Pós-graduação,2.6,8.9,0
+549,Programador,16,29,6,Doutorado,6.0,5.4,0
+3179,Programador,2,42,5,Mestrado,6.3,9.9,0
+2480,Programador,1,10,8,Pós-graduação,2.2,9.5,0
+307,Programador,14,19,8,Doutorado,3.0,2.3,0
+5770,Analista de Dados,12,44,1,Pós-graduação,7.1,9.2,1
+7116,Programador,18,17,6,Doutorado,4.2,7.1,0
+7415,Analista de Dados,3,30,7,Doutorado,7.4,2.2,0
+8029,Analista de Dados,12,48,4,Pós-graduação,6.1,7.2,1
+9215,Analista de Dados,5,40,3,Doutorado,2.4,8.8,0
+933,Analista de Dados,15,8,4,Graduação,2.8,7.9,0
+3209,Analista de Dados,2,6,0,Graduação,7.0,2.7,0
+8280,Programador,14,23,9,Doutorado,7.2,8.9,1
+9922,Programador,17,35,7,Doutorado,6.2,1.1,0
+8332,Cientista de Dados,7,49,8,Mestrado,7.1,6.3,1
+8633,Cientista de Dados,10,48,9,Mestrado,9.6,9.8,1
+1693,Programador,17,32,2,Mestrado,9.7,6.4,1
+7073,Programador,4,39,9,Pós-graduação,7.3,7.3,1
+9555,Cientista de Dados,1,42,5,Doutorado,6.3,8.9,0
+9984,Analista de Dados,12,9,9,Mestrado,6.9,6.0,1
+9667,Cientista de Dados,5,22,5,Doutorado,9.1,1.8,0
+9449,Analista de Dados,14,25,9,Graduação,6.0,6.7,1
+2276,Cientista de Dados,19,34,4,Pós-graduação,7.7,8.4,1
+4110,Analista de Dados,19,42,9,Pós-graduação,9.1,8.6,1
+9538,Cientista de Dados,11,22,9,Pós-graduação,6.0,6.9,1
+1388,Cientista de Dados,0,8,3,Pós-graduação,5.7,2.9,0
+608,Cientista de Dados,9,48,8,Graduação,1.9,2.3,0
+91,Programador,6,13,9,Pós-graduação,5.1,5.5,0
+1177,Analista de Dados,8,47,9,Mestrado,6.9,6.2,1
+553,Programador,9,46,0,Pós-graduação,7.2,8.0,1
+4938,Programador,13,30,7,Mestrado,6.5,8.0,1
+8594,Programador,12,25,3,Pós-graduação,3.3,8.7,0
+5132,Programador,16,28,0,Pós-graduação,7.2,3.6,0
+1493,Cientista de Dados,12,12,4,Mestrado,1.3,8.8,0
+4691,Cientista de Dados,19,9,4,Graduação,9.2,9.9,1
+8258,Programador,11,34,1,Pós-graduação,9.2,2.8,0
+2249,Analista de Dados,5,17,8,Graduação,9.9,2.3,0
+7897,Programador,13,6,3,Graduação,7.5,7.5,1
+2413,Cientista de Dados,4,26,2,Graduação,7.1,7.9,1
+1955,Analista de Dados,2,4,2,Pós-graduação,9.4,9.5,0
+5656,Cientista de Dados,14,22,1,Mestrado,6.4,8.3,1
+5815,Analista de Dados,19,37,2,Doutorado,7.9,9.2,1
+889,Programador,12,2,3,Mestrado,7.7,3.9,0
+2497,Programador,2,31,1,Pós-graduação,5.2,5.2,0
+3815,Cientista de Dados,3,47,2,Graduação,6.6,7.8,1
+6325,Programador,17,27,3,Graduação,8.4,7.5,1
+1252,Programador,10,41,4,Doutorado,2.1,2.4,0
+3175,Programador,9,42,6,Pós-graduação,8.6,7.0,1
+7196,Programador,11,4,6,Doutorado,9.4,3.1,0
+1181,Analista de Dados,16,15,9,Mestrado,2.3,1.6,0
+7164,Cientista de Dados,11,4,9,Doutorado,9.5,3.8,0
+4742,Programador,12,24,0,Doutorado,7.4,7.7,1
+9616,Cientista de Dados,2,30,9,Pós-graduação,6.3,4.8,0
+2863,Cientista de Dados,8,35,7,Pós-graduação,9.7,4.4,0
+1761,Cientista de Dados,18,30,9,Graduação,6.2,6.9,1
+631,Programador,2,42,7,Mestrado,2.4,4.2,0
+3254,Analista de Dados,13,33,9,Pós-graduação,7.6,4.4,0
+7473,Cientista de Dados,17,37,2,Doutorado,6.8,9.6,1
+8832,Programador,19,17,4,Doutorado,8.5,6.0,1
+5548,Analista de Dados,18,17,3,Doutorado,9.4,6.6,1
+3539,Analista de Dados,13,25,6,Doutorado,3.4,9.0,0
+9441,Programador,11,49,7,Pós-graduação,4.4,1.3,0
+2522,Cientista de Dados,16,25,0,Doutorado,9.8,8.9,1
+204,Cientista de Dados,9,15,8,Graduação,7.8,1.1,0
+9558,Programador,16,6,8,Pós-graduação,9.8,6.8,1
+3881,Cientista de Dados,10,33,5,Pós-graduação,8.2,6.5,1
+7190,Analista de Dados,19,3,2,Mestrado,2.2,5.2,0
+2817,Programador,16,17,3,Doutorado,6.7,6.8,1
+6390,Cientista de Dados,1,1,8,Pós-graduação,7.2,10.0,0
+4149,Cientista de Dados,6,41,9,Mestrado,4.7,3.4,0
+261,Programador,3,3,7,Pós-graduação,9.1,8.7,0
+2225,Cientista de Dados,15,48,3,Doutorado,7.3,8.9,1
+276,Programador,10,23,9,Pós-graduação,6.3,6.0,1
+7599,Cientista de Dados,6,38,8,Mestrado,9.0,9.8,1
+5365,Cientista de Dados,1,19,4,Doutorado,5.0,4.0,0
+6683,Cientista de Dados,17,49,8,Pós-graduação,9.1,8.0,1
+10000,Analista de Dados,8,23,1,Mestrado,7.6,9.6,1
+3057,Programador,15,6,7,Doutorado,8.8,9.2,1
+6640,Analista de Dados,4,1,7,Graduação,5.5,3.3,0
+5891,Analista de Dados,2,6,6,Doutorado,5.2,6.1,0
+7837,Cientista de Dados,11,39,7,Mestrado,7.5,8.4,1
+7862,Cientista de Dados,7,8,9,Pós-graduação,6.4,9.7,1
+5620,Cientista de Dados,16,16,5,Pós-graduação,8.1,7.3,1
+679,Programador,9,6,3,Mestrado,8.9,8.3,1
+4714,Programador,6,17,8,Pós-graduação,6.8,9.1,1
+8015,Analista de Dados,5,42,3,Graduação,8.0,4.1,0
+2595,Analista de Dados,14,10,5,Doutorado,9.4,3.1,0
+1756,Programador,11,35,1,Graduação,9.4,7.0,1
+5038,Analista de Dados,1,12,5,Graduação,2.3,8.9,0
+7063,Analista de Dados,7,49,3,Doutorado,8.2,8.9,1
+3374,Analista de Dados,14,6,2,Mestrado,8.2,8.9,1
+5261,Programador,16,49,3,Graduação,7.5,9.4,1
+9335,Cientista de Dados,12,18,2,Graduação,8.1,4.6,0
+6851,Analista de Dados,2,46,9,Doutorado,3.1,6.5,0
+3403,Analista de Dados,4,16,2,Doutorado,7.8,6.8,1
+817,Analista de Dados,16,13,1,Graduação,1.1,4.2,0
+4761,Programador,2,0,7,Graduação,7.2,7.2,0
+6373,Cientista de Dados,12,35,5,Mestrado,9.2,6.7,1
+1172,Analista de Dados,17,39,5,Pós-graduação,9.0,7.8,1
+3625,Programador,1,36,4,Mestrado,8.1,3.3,0
+9338,Cientista de Dados,5,41,8,Graduação,6.2,6.3,1
+7685,Programador,19,35,8,Graduação,4.1,7.4,0
+4903,Analista de Dados,19,8,2,Graduação,8.4,6.2,1
+4600,Programador,11,8,7,Graduação,8.0,6.6,1
+7611,Cientista de Dados,16,22,2,Doutorado,6.3,9.3,1
+6629,Cientista de Dados,16,10,5,Mestrado,9.9,8.0,1
+1978,Analista de Dados,4,38,3,Mestrado,7.5,9.8,1
+2397,Analista de Dados,16,29,0,Doutorado,7.4,5.5,0
+5140,Analista de Dados,11,33,4,Graduação,6.1,6.1,1
+4391,Cientista de Dados,18,25,4,Doutorado,6.5,6.4,1
+8020,Programador,12,21,5,Graduação,7.6,9.2,1
+637,Programador,14,26,2,Graduação,3.3,8.8,0
+821,Programador,1,7,0,Mestrado,4.4,9.7,0
+9794,Analista de Dados,4,11,4,Doutorado,9.9,9.4,1
+3054,Programador,12,45,9,Graduação,6.7,8.6,1
+5367,Analista de Dados,15,9,7,Graduação,8.4,8.6,1
+941,Cientista de Dados,5,13,8,Doutorado,7.0,8.3,1
+7615,Programador,1,27,8,Mestrado,8.8,5.0,0
+1311,Cientista de Dados,0,38,1,Pós-graduação,8.0,3.3,0
+7024,Programador,8,11,4,Doutorado,3.8,5.5,0
+9164,Analista de Dados,15,38,9,Doutorado,9.4,9.1,1
+4642,Cientista de Dados,14,25,9,Doutorado,7.5,1.4,0
+3255,Analista de Dados,4,15,5,Pós-graduação,6.0,7.5,1
+5459,Programador,12,33,7,Pós-graduação,6.7,9.1,1
+3814,Cientista de Dados,18,43,8,Graduação,9.5,8.2,1
+921,Analista de Dados,7,48,0,Pós-graduação,9.1,8.7,1
+7014,Analista de Dados,1,15,3,Pós-graduação,3.5,1.2,0
+8419,Analista de Dados,9,20,9,Pós-graduação,1.0,1.9,0
+3413,Analista de Dados,9,7,4,Doutorado,7.0,1.9,0
+8550,Analista de Dados,3,7,8,Doutorado,9.9,8.2,1
+3840,Cientista de Dados,17,41,8,Doutorado,1.2,6.9,0
+6916,Analista de Dados,4,5,9,Doutorado,9.9,8.6,1
+3591,Analista de Dados,11,10,0,Graduação,6.9,3.6,0
+1038,Cientista de Dados,19,22,3,Graduação,6.5,7.1,1
+584,Programador,11,15,7,Pós-graduação,4.3,7.5,0
+2705,Analista de Dados,18,21,9,Mestrado,2.5,7.1,0
+2562,Cientista de Dados,9,16,1,Pós-graduação,8.3,6.5,1
+6667,Cientista de Dados,4,17,7,Mestrado,10.0,9.7,1
+4267,Programador,3,36,9,Graduação,9.8,7.7,1
+8880,Programador,9,36,8,Graduação,2.3,8.2,0
+4423,Programador,15,39,4,Mestrado,1.4,4.1,0
+6838,Programador,18,44,5,Doutorado,8.6,9.6,1
+8102,Analista de Dados,16,30,8,Graduação,7.2,8.6,1
+6818,Analista de Dados,6,22,1,Graduação,9.9,9.2,1
+4253,Programador,19,8,6,Mestrado,9.1,8.8,1
+4404,Analista de Dados,11,23,1,Mestrado,7.8,8.2,1
+5969,Programador,5,10,4,Pós-graduação,6.7,4.8,0
+4464,Analista de Dados,1,19,1,Pós-graduação,8.4,9.2,0
+7127,Programador,14,3,4,Doutorado,3.2,2.7,0
+6890,Analista de Dados,15,45,6,Doutorado,9.3,7.7,1
+7509,Analista de Dados,13,0,8,Doutorado,6.9,7.3,0
+365,Analista de Dados,3,17,3,Graduação,8.6,2.8,0
+7844,Cientista de Dados,12,40,1,Graduação,8.8,7.7,1
+193,Programador,16,46,8,Graduação,5.0,9.8,0
+9252,Programador,6,14,9,Pós-graduação,9.6,6.2,1
+654,Analista de Dados,19,16,2,Doutorado,5.5,2.6,0
+7749,Analista de Dados,8,25,8,Doutorado,7.8,7.0,1
+4727,Analista de Dados,10,13,9,Mestrado,5.7,4.4,0
+1983,Cientista de Dados,17,12,7,Mestrado,6.8,6.4,1
+6797,Cientista de Dados,10,9,2,Mestrado,4.7,4.6,0
+6079,Analista de Dados,3,30,7,Graduação,4.6,9.5,0
+2844,Analista de Dados,4,36,7,Pós-graduação,3.3,5.4,0
+4021,Cientista de Dados,12,49,3,Graduação,7.7,9.2,1
+4140,Analista de Dados,4,41,2,Mestrado,8.6,8.3,1
+4255,Analista de Dados,19,0,4,Mestrado,8.8,3.9,0
+7263,Cientista de Dados,6,43,8,Mestrado,7.3,6.2,1
+5202,Analista de Dados,18,3,3,Mestrado,1.9,3.0,0
+5250,Analista de Dados,7,38,4,Mestrado,9.7,1.5,0
+8252,Analista de Dados,5,16,6,Graduação,7.5,7.4,1
+2782,Cientista de Dados,8,19,1,Mestrado,5.0,3.1,0
+4288,Analista de Dados,7,36,6,Doutorado,9.4,8.1,1
+2055,Cientista de Dados,5,31,1,Pós-graduação,9.0,7.4,1
+1035,Cientista de Dados,13,45,6,Doutorado,7.5,8.9,1
+4467,Analista de Dados,17,49,3,Doutorado,8.5,6.2,1
+5888,Programador,10,14,6,Mestrado,8.6,8.9,1
+1713,Cientista de Dados,1,16,2,Doutorado,4.6,8.7,0
+7873,Analista de Dados,16,32,8,Pós-graduação,6.3,6.5,1
+7140,Cientista de Dados,19,11,2,Mestrado,1.8,3.6,0
+3959,Programador,11,13,5,Pós-graduação,8.5,7.6,1
+7570,Analista de Dados,2,21,2,Mestrado,6.9,6.7,0
+9872,Programador,2,24,4,Graduação,9.4,7.5,0
+2198,Programador,3,12,7,Mestrado,3.6,8.1,0
+3391,Analista de Dados,0,29,2,Mestrado,3.7,3.8,0
+4358,Cientista de Dados,3,10,7,Mestrado,8.0,9.2,1
+2810,Analista de Dados,18,31,0,Doutorado,8.0,7.9,1
+1441,Cientista de Dados,5,45,2,Graduação,8.1,7.1,1
+4042,Analista de Dados,17,16,9,Graduação,6.4,9.5,1
+7122,Programador,8,16,4,Mestrado,7.3,6.8,1
+8824,Programador,13,24,5,Pós-graduação,5.3,3.7,0
+2075,Programador,15,12,3,Graduação,5.4,6.3,0
+4590,Cientista de Dados,17,41,5,Doutorado,8.0,9.3,1
+1261,Programador,6,12,6,Pós-graduação,6.7,6.6,1
+5099,Cientista de Dados,18,9,1,Pós-graduação,3.9,3.2,0
+987,Programador,2,14,4,Graduação,9.3,8.5,0
+2085,Programador,9,12,1,Graduação,7.2,3.6,0
+9107,Analista de Dados,3,18,2,Mestrado,1.8,8.8,0
+2878,Cientista de Dados,7,27,7,Graduação,6.9,6.7,1
+3624,Analista de Dados,10,26,1,Graduação,8.0,7.1,1
+6615,Analista de Dados,9,20,9,Doutorado,8.9,9.0,1
+1425,Programador,14,8,3,Graduação,3.4,7.3,0
+5415,Programador,13,30,3,Doutorado,8.8,7.4,1
+5768,Programador,6,5,3,Pós-graduação,3.4,1.9,0
+9013,Cientista de Dados,3,26,8,Graduação,4.2,2.6,0
+9368,Analista de Dados,2,21,7,Mestrado,1.5,8.6,0
+6729,Cientista de Dados,2,6,0,Doutorado,1.3,9.4,0
+334,Analista de Dados,11,4,2,Pós-graduação,2.4,9.5,0
+6054,Programador,18,13,8,Doutorado,9.2,7.4,1
+1696,Programador,9,2,2,Mestrado,9.2,7.5,0
+5772,Analista de Dados,11,24,8,Pós-graduação,7.6,6.4,1
+98,Analista de Dados,6,26,2,Doutorado,7.2,9.0,1
+559,Analista de Dados,6,23,9,Pós-graduação,6.6,5.9,0
+2701,Analista de Dados,10,9,2,Graduação,7.2,7.8,1
+2723,Analista de Dados,18,29,1,Graduação,7.3,2.8,0
+4034,Programador,12,20,9,Doutorado,3.4,8.1,0
+7834,Analista de Dados,14,5,4,Pós-graduação,2.1,8.7,0
+4167,Programador,13,9,1,Pós-graduação,8.0,8.3,1
+6727,Analista de Dados,16,26,8,Graduação,9.1,6.7,1
+6634,Analista de Dados,10,33,0,Pós-graduação,1.9,1.2,0
+8006,Analista de Dados,6,19,7,Doutorado,9.0,6.4,1
+6302,Cientista de Dados,3,39,6,Pós-graduação,8.3,6.5,1
+4449,Programador,7,45,6,Mestrado,9.2,8.2,1
+3305,Cientista de Dados,5,49,8,Doutorado,6.7,3.2,0
+8804,Cientista de Dados,5,46,9,Graduação,5.0,5.5,0
+9144,Cientista de Dados,3,36,5,Pós-graduação,3.8,5.5,0
+4515,Programador,0,49,1,Graduação,4.3,2.4,0
+6303,Analista de Dados,17,42,5,Pós-graduação,5.6,8.4,0
+4484,Cientista de Dados,11,14,9,Pós-graduação,9.9,4.5,0
+42,Analista de Dados,18,36,2,Doutorado,2.3,4.7,0
+7404,Programador,17,6,5,Pós-graduação,1.1,8.3,0
+4207,Programador,1,22,7,Graduação,6.8,2.7,0
+35,Analista de Dados,1,15,5,Pós-graduação,1.8,4.4,0
+9274,Cientista de Dados,16,11,7,Graduação,5.3,6.3,0
+8814,Analista de Dados,10,6,0,Graduação,7.5,8.1,1
+6584,Programador,16,41,4,Pós-graduação,3.0,5.4,0
+1273,Programador,14,16,8,Graduação,2.7,5.6,0
+414,Cientista de Dados,0,11,5,Pós-graduação,2.0,2.4,0
+6623,Programador,11,32,0,Graduação,6.0,6.8,1
+5335,Cientista de Dados,11,20,8,Graduação,3.7,6.1,0
+1690,Programador,15,40,1,Mestrado,1.4,6.8,0
+5248,Analista de Dados,4,14,4,Doutorado,7.6,9.4,1
+110,Cientista de Dados,3,35,2,Mestrado,2.4,1.9,0
+3590,Analista de Dados,6,15,7,Pós-graduação,7.0,6.0,1
+7810,Cientista de Dados,10,6,3,Doutorado,2.3,2.8,0
+8122,Programador,17,32,4,Doutorado,9.6,8.8,1
+7540,Analista de Dados,9,2,4,Doutorado,6.2,2.2,0
+317,Cientista de Dados,10,6,4,Pós-graduação,7.5,7.0,1
+928,Programador,13,35,5,Mestrado,8.5,5.8,0
+2920,Analista de Dados,18,7,3,Pós-graduação,10.0,7.4,1
+4521,Programador,4,24,5,Doutorado,7.1,7.2,1
+762,Programador,17,35,3,Mestrado,7.8,7.0,1
+4980,Analista de Dados,17,45,1,Mestrado,2.1,5.1,0
+7846,Cientista de Dados,12,7,7,Mestrado,1.0,8.5,0
+5999,Cientista de Dados,9,43,9,Graduação,9.0,2.5,0
+7597,Programador,7,39,0,Graduação,1.7,9.1,0
+8508,Cientista de Dados,13,3,6,Mestrado,8.5,8.0,0
+4493,Analista de Dados,9,16,2,Doutorado,1.5,2.7,0
+870,Analista de Dados,16,46,4,Pós-graduação,7.6,6.9,1
+1633,Cientista de Dados,16,21,2,Pós-graduação,2.1,9.5,0
+4184,Analista de Dados,3,16,9,Pós-graduação,8.9,7.4,1
+8034,Analista de Dados,14,30,2,Mestrado,6.5,7.7,1
+7798,Cientista de Dados,9,18,1,Graduação,2.9,9.8,0
+5690,Cientista de Dados,4,25,9,Doutorado,2.1,1.3,0
+6030,Cientista de Dados,12,17,9,Doutorado,9.1,7.3,1
+898,Cientista de Dados,5,23,0,Pós-graduação,8.8,4.1,0
+9897,Cientista de Dados,1,29,2,Doutorado,1.3,3.4,0
+1623,Programador,18,8,0,Doutorado,3.0,2.3,0
+2650,Programador,4,27,4,Graduação,8.1,9.7,1
+8672,Cientista de Dados,11,10,6,Mestrado,9.8,8.4,1
+1375,Analista de Dados,8,18,5,Doutorado,6.5,9.3,1
+6981,Analista de Dados,13,26,5,Graduação,9.3,1.3,0
+8539,Analista de Dados,13,10,5,Pós-graduação,3.6,3.3,0
+9082,Analista de Dados,16,41,9,Mestrado,7.3,6.6,1
+8893,Analista de Dados,4,43,1,Pós-graduação,2.2,5.6,0
+8548,Programador,6,22,6,Doutorado,1.3,7.4,0
+2149,Analista de Dados,11,20,9,Pós-graduação,8.8,8.6,1
+5034,Cientista de Dados,16,15,2,Pós-graduação,8.1,8.5,1
+6190,Analista de Dados,3,42,6,Graduação,3.7,7.8,0
+1235,Analista de Dados,2,37,8,Graduação,3.4,6.3,0
+5967,Programador,13,49,7,Pós-graduação,9.5,6.0,1
+2060,Cientista de Dados,2,2,4,Pós-graduação,4.2,4.0,0
+4155,Programador,14,19,7,Graduação,9.9,9.6,1
+9451,Cientista de Dados,11,39,9,Doutorado,2.0,8.2,0
+7489,Cientista de Dados,18,6,7,Graduação,7.3,8.0,1
+2319,Programador,7,27,1,Pós-graduação,3.1,7.8,0
+1541,Programador,1,9,2,Doutorado,1.0,3.2,0
+195,Analista de Dados,1,39,4,Graduação,6.7,7.9,0
+4027,Analista de Dados,1,27,7,Mestrado,7.1,8.2,0
+9072,Analista de Dados,18,45,7,Mestrado,9.3,6.1,1
+4070,Analista de Dados,14,42,7,Graduação,5.8,2.8,0
+3433,Analista de Dados,4,11,9,Graduação,8.3,9.0,1
+4331,Programador,10,21,7,Graduação,6.8,6.7,1
+6172,Programador,14,42,7,Pós-graduação,6.5,9.5,1
+7702,Cientista de Dados,11,48,0,Graduação,1.7,9.1,0
+1533,Analista de Dados,17,43,1,Mestrado,2.4,6.9,0
+9774,Programador,16,16,6,Doutorado,6.0,7.7,1
+3164,Analista de Dados,15,14,5,Graduação,9.6,3.3,0
+9542,Cientista de Dados,19,44,2,Graduação,6.1,8.1,1
+402,Cientista de Dados,15,11,4,Graduação,2.3,1.8,0
+3287,Cientista de Dados,5,33,6,Pós-graduação,1.0,1.9,0
+1111,Programador,19,16,6,Mestrado,7.9,8.4,1
+7827,Programador,13,3,9,Graduação,9.0,4.5,0
+9557,Programador,14,12,3,Doutorado,7.0,9.8,1
+9443,Cientista de Dados,3,8,2,Graduação,8.1,9.3,1
+8014,Cientista de Dados,17,38,5,Mestrado,8.8,5.2,0
+8171,Programador,10,18,5,Doutorado,7.2,6.5,1
+615,Analista de Dados,16,46,8,Graduação,8.2,8.0,1
+5483,Analista de Dados,11,6,9,Doutorado,3.1,9.5,0
+2675,Programador,7,21,0,Graduação,8.9,9.5,1
+8269,Analista de Dados,5,39,8,Pós-graduação,9.1,8.2,1
+3795,Cientista de Dados,19,49,0,Mestrado,6.5,3.1,0
+9582,Programador,12,5,3,Pós-graduação,6.0,6.3,1
+8114,Cientista de Dados,6,34,1,Pós-graduação,6.5,7.4,1
+3248,Analista de Dados,13,18,2,Pós-graduação,7.4,9.8,1
+979,Cientista de Dados,9,22,9,Mestrado,1.7,3.9,0
+8733,Analista de Dados,5,22,5,Pós-graduação,6.1,6.7,1
+3477,Cientista de Dados,0,29,9,Graduação,4.7,7.7,0
+7689,Programador,15,34,9,Graduação,1.0,5.4,0
+9094,Programador,11,36,1,Pós-graduação,6.9,7.7,1
+5846,Analista de Dados,13,44,9,Doutorado,3.3,2.7,0
+9465,Cientista de Dados,13,3,7,Mestrado,2.2,8.7,0
+8343,Analista de Dados,1,3,0,Graduação,6.3,8.2,0
+1845,Cientista de Dados,12,19,3,Pós-graduação,1.4,4.6,0
+9571,Analista de Dados,0,30,1,Graduação,5.2,7.2,0
+40,Analista de Dados,16,39,0,Mestrado,2.9,7.7,0
+862,Analista de Dados,15,30,3,Doutorado,7.5,8.7,1
+3779,Cientista de Dados,14,10,1,Doutorado,7.6,7.0,1
+9601,Cientista de Dados,9,17,7,Mestrado,3.1,5.4,0
+1919,Programador,16,42,9,Mestrado,7.5,2.0,0
+2888,Cientista de Dados,11,18,8,Mestrado,7.6,1.7,0
+8005,Programador,19,46,6,Pós-graduação,8.2,6.1,1
+1394,Programador,19,11,5,Graduação,2.0,1.6,0
+2044,Cientista de Dados,17,44,4,Doutorado,9.9,9.3,1
+8494,Programador,17,44,5,Graduação,7.0,7.9,1
+4523,Cientista de Dados,11,13,3,Mestrado,2.7,1.9,0
+831,Cientista de Dados,2,40,7,Mestrado,1.9,3.1,0
+3384,Cientista de Dados,17,34,6,Doutorado,8.8,9.0,1
+215,Cientista de Dados,1,38,8,Graduação,7.1,7.1,0
+7811,Analista de Dados,5,47,5,Graduação,9.4,7.3,1
+7166,Programador,6,16,8,Doutorado,7.9,7.9,1
+2029,Programador,10,27,4,Mestrado,3.4,6.4,0
+7478,Analista de Dados,0,3,0,Graduação,6.6,8.5,0
+2039,Cientista de Dados,4,36,2,Doutorado,6.8,8.8,1
+9232,Cientista de Dados,9,6,9,Mestrado,7.2,5.1,0
+7647,Analista de Dados,13,47,0,Doutorado,6.0,6.7,1
+7387,Programador,18,33,9,Doutorado,8.8,8.0,1
+5647,Analista de Dados,11,38,3,Doutorado,9.7,7.2,1
+52,Programador,9,0,5,Doutorado,6.7,6.9,0
+206,Analista de Dados,12,36,1,Mestrado,8.6,7.9,1
+48,Programador,9,14,6,Doutorado,9.8,9.5,1
+7506,Analista de Dados,11,6,2,Doutorado,3.9,9.4,0
+9706,Cientista de Dados,3,26,1,Pós-graduação,7.7,9.0,1
+7479,Programador,19,17,7,Mestrado,8.7,6.6,1
+4023,Cientista de Dados,0,12,9,Graduação,4.1,6.0,0
+8333,Programador,9,26,5,Graduação,8.9,8.3,1
+7587,Cientista de Dados,10,36,1,Doutorado,6.9,8.9,1
+9491,Cientista de Dados,9,21,4,Pós-graduação,9.7,7.3,1
+7445,Cientista de Dados,8,22,6,Doutorado,2.1,7.3,0
+6896,Programador,17,10,3,Doutorado,9.2,3.9,0
+6055,Cientista de Dados,0,1,3,Mestrado,7.6,6.3,0
+8913,Programador,19,30,5,Mestrado,6.8,1.6,0
+4657,Cientista de Dados,15,24,6,Doutorado,8.4,8.8,1
+9469,Cientista de Dados,13,31,0,Mestrado,7.5,6.3,1
+6569,Analista de Dados,11,25,1,Doutorado,9.4,6.8,1
+1412,Cientista de Dados,18,34,6,Graduação,9.0,9.5,1
+1769,Cientista de Dados,3,23,0,Doutorado,9.9,8.9,1
+1909,Programador,11,12,4,Mestrado,9.7,9.2,1
+2062,Analista de Dados,17,8,1,Pós-graduação,2.9,1.8,0
+5122,Programador,18,23,4,Mestrado,9.7,6.1,1
+2687,Programador,11,1,8,Pós-graduação,1.6,1.9,0
+5579,Programador,0,14,0,Graduação,2.7,4.7,0
+5282,Cientista de Dados,2,34,2,Mestrado,4.1,5.3,0
+9982,Cientista de Dados,19,38,4,Doutorado,6.0,7.9,1
+929,Cientista de Dados,15,9,1,Graduação,9.5,8.1,1
+214,Programador,8,18,3,Pós-graduação,8.2,9.5,1
+2219,Analista de Dados,11,38,6,Mestrado,6.9,8.2,1
+6757,Analista de Dados,17,48,8,Pós-graduação,8.4,9.3,1
+4494,Cientista de Dados,4,49,0,Mestrado,3.7,6.4,0
+9319,Cientista de Dados,9,49,0,Doutorado,6.5,4.6,0
+8455,Cientista de Dados,4,46,2,Doutorado,6.0,9.6,1
+5425,Analista de Dados,18,36,3,Graduação,6.2,8.0,1
+417,Cientista de Dados,6,17,7,Mestrado,9.8,9.0,1
+6617,Cientista de Dados,1,19,8,Pós-graduação,4.1,5.8,0
+7041,Cientista de Dados,10,26,2,Pós-graduação,8.6,8.1,1
+8323,Cientista de Dados,8,42,2,Graduação,6.3,8.3,1
+27,Programador,0,6,2,Pós-graduação,9.1,6.8,0
+9240,Analista de Dados,3,35,0,Mestrado,8.3,8.7,1
+9870,Analista de Dados,12,39,4,Doutorado,9.3,5.6,0
+5332,Analista de Dados,7,18,5,Doutorado,1.2,1.4,0
+4965,Cientista de Dados,4,39,2,Graduação,7.3,7.4,1
+4303,Analista de Dados,19,49,8,Doutorado,8.4,9.4,1
+3659,Analista de Dados,8,29,8,Graduação,3.8,6.4,0
+5121,Programador,13,27,9,Doutorado,9.8,5.1,0
+5205,Programador,8,38,8,Doutorado,9.6,4.8,0
+8242,Cientista de Dados,17,10,9,Mestrado,6.1,8.4,1
+2325,Analista de Dados,2,2,9,Doutorado,4.0,5.2,0
+6262,Programador,16,28,6,Graduação,9.9,9.3,1
+3574,Analista de Dados,19,20,9,Doutorado,1.3,7.3,0
+5904,Cientista de Dados,9,20,3,Pós-graduação,7.1,6.4,1
+1238,Analista de Dados,12,6,4,Pós-graduação,7.6,8.0,1
+4798,Programador,4,19,6,Mestrado,9.2,9.9,1
+7206,Cientista de Dados,17,31,5,Mestrado,9.4,8.4,1
+4281,Cientista de Dados,13,2,3,Doutorado,2.5,1.4,0
+5800,Programador,8,44,4,Doutorado,8.7,9.3,1
+6571,Cientista de Dados,15,47,4,Doutorado,7.4,7.1,1
+4185,Cientista de Dados,15,14,8,Doutorado,1.4,2.7,0
+2820,Programador,10,35,2,Doutorado,6.3,8.7,1
+7193,Cientista de Dados,14,27,6,Mestrado,6.2,8.5,1
+8580,Analista de Dados,18,27,2,Doutorado,1.4,2.8,0
+6969,Programador,3,42,7,Doutorado,6.3,6.0,1
+9174,Programador,12,15,5,Doutorado,4.0,1.2,0
+800,Analista de Dados,0,13,1,Pós-graduação,3.5,2.1,0
+3455,Analista de Dados,5,34,5,Pós-graduação,8.4,2.0,0
+3868,Programador,18,1,4,Pós-graduação,3.2,8.3,0
+7044,Cientista de Dados,9,42,2,Pós-graduação,6.3,7.2,1
+2355,Programador,10,47,5,Mestrado,8.9,8.2,1
+5959,Cientista de Dados,8,18,3,Pós-graduação,9.5,6.2,1
+8969,Cientista de Dados,3,7,0,Pós-graduação,9.5,7.1,1
+8461,Cientista de Dados,11,28,2,Mestrado,1.8,7.3,0
+6111,Cientista de Dados,6,32,1,Doutorado,8.3,3.5,0
+5067,Cientista de Dados,17,13,9,Doutorado,9.3,9.7,1
+8265,Programador,9,24,6,Mestrado,6.1,7.9,1
+897,Programador,7,29,5,Pós-graduação,8.0,1.9,0
+2584,Cientista de Dados,9,36,2,Pós-graduação,8.0,7.7,1
+2099,Analista de Dados,14,49,0,Graduação,6.5,6.0,1
+3041,Cientista de Dados,0,1,7,Pós-graduação,3.9,1.6,0
+3225,Cientista de Dados,4,49,8,Mestrado,4.8,9.9,0
+1686,Cientista de Dados,8,47,0,Pós-graduação,2.1,4.3,0
+7241,Cientista de Dados,17,1,5,Pós-graduação,5.5,1.1,0
+7409,Cientista de Dados,15,16,8,Mestrado,6.1,9.5,1
+4945,Programador,10,31,2,Doutorado,9.4,8.6,1
+9866,Cientista de Dados,4,32,0,Mestrado,1.5,9.5,0
+3948,Programador,3,18,8,Pós-graduação,6.6,7.5,1
+4721,Cientista de Dados,15,17,6,Mestrado,6.4,7.5,1
+459,Cientista de Dados,4,13,6,Mestrado,6.5,6.9,1
+2110,Programador,8,20,5,Pós-graduação,8.0,7.0,1
+1874,Cientista de Dados,15,32,7,Pós-graduação,9.8,7.1,1
+5237,Analista de Dados,15,35,9,Doutorado,6.9,7.3,1
+6685,Analista de Dados,8,45,7,Pós-graduação,7.5,8.5,1
+9569,Programador,15,27,4,Pós-graduação,7.9,8.1,1
+5256,Programador,14,47,8,Doutorado,8.9,6.8,1
+9886,Programador,8,4,4,Graduação,9.8,3.0,0
+7008,Cientista de Dados,11,42,7,Pós-graduação,6.3,6.8,1
+8257,Analista de Dados,9,17,7,Mestrado,1.4,6.0,0
+880,Cientista de Dados,13,43,4,Mestrado,3.3,8.6,0
+1830,Cientista de Dados,16,25,2,Graduação,9.8,7.9,1
+5660,Analista de Dados,9,31,0,Doutorado,5.9,7.9,0
+4420,Analista de Dados,17,19,4,Mestrado,8.2,8.5,1
+5616,Programador,5,28,9,Doutorado,3.4,7.2,0
+1718,Cientista de Dados,9,33,9,Pós-graduação,8.4,6.0,1
+4686,Analista de Dados,7,47,4,Doutorado,8.6,8.3,1
+7579,Programador,8,42,4,Pós-graduação,7.2,9.5,1
+5556,Cientista de Dados,13,3,8,Doutorado,4.3,4.7,0
+593,Cientista de Dados,9,26,2,Doutorado,1.5,3.8,0
+8008,Programador,18,40,1,Mestrado,8.4,9.9,1
+9991,Analista de Dados,12,18,3,Doutorado,7.9,8.7,1
+1892,Cientista de Dados,18,5,9,Pós-graduação,1.1,9.3,0
+7141,Analista de Dados,2,21,3,Graduação,9.9,2.5,0
+3434,Programador,6,23,1,Pós-graduação,9.7,6.1,1
+4115,Analista de Dados,4,31,2,Doutorado,9.6,3.6,0
+359,Cientista de Dados,19,39,7,Graduação,6.9,6.1,1
+2744,Programador,10,29,0,Mestrado,7.5,8.1,1
+8529,Analista de Dados,7,46,0,Pós-graduação,6.8,6.3,1
+9423,Cientista de Dados,5,41,7,Graduação,2.2,6.9,0
+6285,Analista de Dados,15,37,5,Doutorado,9.7,8.1,1
+7618,Programador,3,40,3,Doutorado,3.6,6.4,0
+6962,Analista de Dados,7,14,9,Pós-graduação,6.1,6.5,1
+4660,Analista de Dados,14,17,0,Pós-graduação,5.7,8.1,0
+9435,Programador,16,8,3,Graduação,9.3,6.5,1
+28,Analista de Dados,13,25,3,Graduação,9.4,8.2,1
+4733,Programador,1,18,2,Pós-graduação,6.0,6.9,0
+8446,Cientista de Dados,5,9,2,Doutorado,3.4,7.5,0
+3168,Cientista de Dados,13,20,2,Mestrado,6.8,9.4,1
+2826,Analista de Dados,5,42,7,Pós-graduação,9.8,6.6,1
+554,Programador,0,11,4,Graduação,9.9,8.9,0
+8711,Programador,3,7,1,Graduação,9.5,4.5,0
+3051,Programador,12,24,7,Doutorado,9.7,9.0,1
+6980,Cientista de Dados,15,14,0,Pós-graduação,9.2,9.9,1
+4097,Programador,16,29,4,Doutorado,6.3,9.3,1
+1360,Programador,3,8,7,Graduação,9.3,6.7,1
+7365,Programador,18,13,4,Doutorado,4.4,7.0,0
+3895,Cientista de Dados,7,25,8,Pós-graduação,8.1,7.3,1
+2704,Programador,0,48,2,Doutorado,6.5,3.6,0
+7467,Cientista de Dados,1,49,0,Mestrado,8.9,2.7,0
+2092,Programador,10,27,6,Pós-graduação,2.9,3.5,0
+4392,Cientista de Dados,14,45,8,Graduação,8.5,9.8,1
+3249,Cientista de Dados,17,32,4,Doutorado,6.2,8.5,1
+2905,Cientista de Dados,11,43,1,Mestrado,6.1,9.7,1
+6647,Cientista de Dados,2,30,0,Doutorado,1.9,7.7,0
+5533,Programador,18,48,8,Doutorado,7.5,9.7,1
+3504,Programador,14,26,2,Pós-graduação,3.6,7.6,0
+2772,Cientista de Dados,5,21,4,Mestrado,9.1,7.9,1
+4918,Cientista de Dados,8,27,2,Doutorado,9.2,9.3,1
+452,Programador,9,43,0,Mestrado,9.2,7.0,1
+2909,Programador,5,19,5,Pós-graduação,6.6,6.0,1
+913,Programador,2,20,8,Doutorado,7.9,9.9,0
+9887,Cientista de Dados,12,34,7,Pós-graduação,8.7,7.8,1
+7882,Analista de Dados,2,18,7,Doutorado,2.0,7.2,0
+3151,Cientista de Dados,9,24,7,Mestrado,8.8,7.9,1
+869,Analista de Dados,3,4,8,Pós-graduação,4.9,6.0,0
+1205,Analista de Dados,5,36,8,Mestrado,9.6,9.3,1
+4664,Cientista de Dados,4,22,4,Graduação,1.5,4.1,0
+8943,Cientista de Dados,1,26,9,Pós-graduação,1.7,5.2,0
+815,Programador,9,46,5,Graduação,6.5,9.4,1
+8862,Cientista de Dados,0,48,2,Pós-graduação,7.4,3.3,0
+4780,Analista de Dados,18,27,9,Mestrado,2.1,7.8,0
+4862,Cientista de Dados,19,32,6,Doutorado,8.0,8.0,1
+1241,Cientista de Dados,15,20,3,Pós-graduação,1.3,7.8,0
+1069,Cientista de Dados,0,33,7,Pós-graduação,7.7,7.3,0
+7697,Cientista de Dados,13,43,1,Pós-graduação,8.0,8.0,1
+1206,Programador,15,20,4,Mestrado,8.7,8.0,1
+8438,Analista de Dados,11,24,9,Pós-graduação,9.9,4.1,0
+1958,Analista de Dados,2,5,4,Doutorado,5.6,5.4,0
+4880,Programador,14,27,3,Graduação,6.4,5.5,0
+7246,Programador,5,22,2,Pós-graduação,9.2,7.1,1
+2314,Cientista de Dados,4,41,2,Doutorado,9.8,9.4,1
+1888,Analista de Dados,8,23,3,Graduação,8.7,6.9,1
+7984,Analista de Dados,8,4,0,Mestrado,4.7,3.8,0
+6964,Analista de Dados,8,7,2,Graduação,8.6,7.2,1
+6871,Programador,6,34,4,Pós-graduação,6.5,2.2,0
+5069,Analista de Dados,13,45,7,Graduação,6.6,6.6,1
+3195,Cientista de Dados,3,17,7,Doutorado,8.6,9.7,1
+2999,Cientista de Dados,15,38,9,Pós-graduação,8.0,9.8,1
+1422,Cientista de Dados,7,6,4,Graduação,2.9,9.5,0
+3957,Programador,18,11,9,Graduação,8.7,8.8,1
+4832,Cientista de Dados,2,0,8,Graduação,7.2,4.7,0
+4835,Cientista de Dados,5,14,7,Doutorado,7.8,6.5,1
+242,Programador,9,32,8,Doutorado,6.8,8.3,1
+209,Programador,5,46,3,Doutorado,2.1,7.3,0
+4885,Analista de Dados,5,42,4,Doutorado,4.5,7.0,0
+7345,Programador,19,9,4,Pós-graduação,9.5,7.2,1
+8600,Programador,17,35,6,Pós-graduação,5.6,8.1,0
+140,Programador,0,23,0,Graduação,8.2,6.8,0
+78,Analista de Dados,3,46,7,Doutorado,6.4,6.8,1
+2748,Cientista de Dados,17,40,0,Pós-graduação,9.4,6.8,1
+8474,Programador,17,40,5,Mestrado,9.2,7.1,1
+6448,Cientista de Dados,15,19,5,Graduação,6.7,9.4,1
+9626,Programador,15,25,2,Mestrado,1.5,1.7,0
+1685,Analista de Dados,17,26,5,Mestrado,7.3,1.8,0
+7762,Programador,3,17,2,Pós-graduação,9.3,1.5,0
+690,Programador,6,23,6,Graduação,3.8,2.5,0
+6806,Cientista de Dados,1,14,1,Pós-graduação,4.5,5.1,0
+4356,Analista de Dados,17,7,1,Doutorado,7.2,6.5,1
+1197,Programador,15,10,8,Pós-graduação,1.7,9.4,0
+4235,Programador,4,30,1,Mestrado,1.5,3.4,0
+2673,Cientista de Dados,4,45,4,Doutorado,4.2,6.4,0
+3030,Analista de Dados,12,14,2,Graduação,9.2,6.5,1
+5011,Cientista de Dados,8,47,7,Pós-graduação,9.4,5.5,0
+9551,Analista de Dados,6,21,5,Doutorado,8.4,9.5,1
+9339,Cientista de Dados,1,24,0,Pós-graduação,8.6,6.9,0
+6188,Analista de Dados,1,33,0,Mestrado,8.6,1.6,0
+1558,Programador,10,28,8,Graduação,2.4,9.1,0
+9298,Analista de Dados,17,19,8,Doutorado,7.7,8.2,1
+7458,Cientista de Dados,10,36,1,Graduação,8.2,6.3,1
+1705,Programador,13,8,6,Graduação,1.3,5.9,0
+5691,Programador,17,11,5,Doutorado,6.8,8.7,1
+4251,Analista de Dados,12,8,1,Pós-graduação,9.2,5.7,0
+902,Programador,15,7,7,Pós-graduação,3.1,7.9,0
+6994,Analista de Dados,6,31,6,Doutorado,5.6,5.9,0
+7898,Programador,13,28,0,Pós-graduação,2.7,5.9,0
+9185,Programador,7,1,2,Doutorado,2.0,6.5,0
+2922,Cientista de Dados,0,8,6,Mestrado,2.9,6.7,0
+626,Cientista de Dados,12,41,4,Mestrado,1.6,2.9,0
+6287,Programador,11,29,2,Doutorado,7.8,6.7,1
+7270,Analista de Dados,3,23,4,Graduação,8.5,9.2,1
+8188,Cientista de Dados,14,45,6,Pós-graduação,9.0,6.9,1
+2266,Analista de Dados,12,48,1,Pós-graduação,2.1,4.9,0
+9464,Programador,18,32,0,Mestrado,8.2,8.1,1
+3724,Cientista de Dados,4,32,3,Pós-graduação,9.8,9.9,1
+2297,Analista de Dados,18,35,7,Graduação,8.7,9.5,1
+1635,Programador,11,17,4,Mestrado,7.4,2.5,0
+9166,Programador,1,42,1,Graduação,1.1,5.6,0
+2332,Programador,13,39,5,Pós-graduação,5.3,3.5,0
+6399,Programador,11,34,5,Mestrado,9.3,7.0,1
+7626,Analista de Dados,0,31,9,Graduação,1.8,6.1,0
+8090,Analista de Dados,6,8,8,Pós-graduação,7.9,2.5,0
+71,Analista de Dados,0,3,3,Mestrado,4.2,6.3,0
+7783,Analista de Dados,17,24,9,Pós-graduação,2.9,6.2,0
+2720,Analista de Dados,3,37,7,Graduação,1.0,7.0,0
+9347,Cientista de Dados,3,47,6,Graduação,7.3,8.2,1
+8841,Cientista de Dados,4,45,8,Mestrado,1.0,4.7,0
+5738,Analista de Dados,8,1,5,Doutorado,9.2,2.7,0
+7945,Analista de Dados,17,47,0,Doutorado,6.5,7.6,1
+809,Programador,11,10,6,Doutorado,6.4,9.2,1
+5107,Analista de Dados,7,45,4,Doutorado,1.3,4.7,0
+3867,Programador,11,28,3,Doutorado,6.3,6.5,1
+1592,Cientista de Dados,14,35,2,Graduação,5.0,5.4,0
+2639,Analista de Dados,11,22,4,Doutorado,9.7,9.9,1
+2442,Analista de Dados,17,27,2,Mestrado,8.7,7.7,1
+7022,Programador,0,46,8,Doutorado,8.8,6.9,0
+6403,Cientista de Dados,19,24,1,Pós-graduação,6.2,4.8,0
+8882,Programador,0,23,0,Pós-graduação,9.7,7.1,0
+5569,Cientista de Dados,19,15,0,Mestrado,6.3,9.5,1
+8688,Cientista de Dados,18,32,2,Pós-graduação,7.3,7.3,1
+3000,Cientista de Dados,11,41,0,Mestrado,7.8,9.6,1
+9590,Analista de Dados,8,8,4,Pós-graduação,7.6,7.0,1
+6004,Cientista de Dados,7,20,1,Mestrado,8.1,9.1,1
+2011,Analista de Dados,3,7,2,Mestrado,9.7,5.0,0
+1108,Analista de Dados,10,49,8,Mestrado,2.3,3.6,0
+8189,Analista de Dados,16,45,0,Pós-graduação,8.2,6.8,1
+2819,Analista de Dados,5,30,8,Pós-graduação,8.1,6.6,1
+2805,Programador,7,37,8,Pós-graduação,6.1,8.1,1
+9019,Programador,12,38,9,Doutorado,6.5,9.7,1
+2139,Programador,9,16,7,Graduação,2.8,3.4,0
+9759,Programador,10,39,9,Doutorado,7.5,1.1,0
+8589,Programador,18,7,0,Pós-graduação,10.0,8.4,1
+9535,Analista de Dados,18,6,6,Pós-graduação,1.0,4.3,0
+8518,Programador,10,25,2,Mestrado,9.9,8.1,1
+1990,Analista de Dados,7,36,4,Graduação,6.4,6.5,1
+632,Cientista de Dados,2,4,1,Mestrado,7.6,2.7,0
+5765,Programador,13,33,9,Graduação,1.6,2.7,0
+8307,Cientista de Dados,0,22,3,Pós-graduação,5.5,8.9,0
+6551,Analista de Dados,4,38,7,Doutorado,8.5,8.7,1
+2114,Analista de Dados,5,22,7,Pós-graduação,6.1,7.6,1
+1971,Cientista de Dados,17,40,7,Mestrado,7.7,3.9,0
+7637,Programador,17,36,5,Mestrado,5.0,3.1,0
+5861,Programador,7,30,0,Pós-graduação,9.0,7.5,1
+7301,Cientista de Dados,10,42,6,Graduação,1.4,7.3,0
+9695,Programador,6,3,1,Graduação,5.0,3.8,0
+7623,Cientista de Dados,18,33,2,Pós-graduação,9.6,6.8,1
+3167,Cientista de Dados,16,26,8,Mestrado,3.7,8.8,0
+781,Programador,19,12,8,Mestrado,5.6,7.1,0
+8204,Programador,19,1,5,Pós-graduação,2.2,8.5,0
+7857,Analista de Dados,19,15,1,Mestrado,7.7,7.6,1
+8792,Programador,17,30,0,Doutorado,7.5,5.5,0
+8141,Programador,5,36,7,Graduação,9.6,7.8,1
+4442,Programador,15,37,9,Mestrado,8.7,8.8,1
+6198,Analista de Dados,4,21,8,Graduação,8.9,7.6,1
+8489,Programador,6,15,1,Pós-graduação,9.7,1.0,0
+8467,Cientista de Dados,14,30,7,Pós-graduação,7.9,7.3,1
+6275,Analista de Dados,1,2,5,Pós-graduação,7.6,9.7,0
+7194,Cientista de Dados,11,29,8,Mestrado,3.6,9.8,0
+4603,Programador,8,18,9,Pós-graduação,10.0,1.6,0
+3600,Programador,2,9,5,Doutorado,6.1,2.7,0
+5652,Analista de Dados,13,21,1,Mestrado,6.3,1.6,0
+8765,Programador,1,6,6,Pós-graduação,6.3,1.8,0
+1416,Programador,2,49,4,Mestrado,5.7,8.3,0
+7355,Cientista de Dados,7,40,0,Graduação,9.5,6.9,1
+9935,Analista de Dados,14,18,7,Mestrado,2.6,1.1,0
+8100,Programador,11,7,4,Doutorado,6.0,7.2,1
+3564,Cientista de Dados,12,46,2,Pós-graduação,5.5,3.1,0
+3218,Cientista de Dados,17,42,5,Doutorado,7.0,9.0,1
+9822,Cientista de Dados,7,45,3,Doutorado,3.0,8.3,0
+6677,Cientista de Dados,4,17,2,Pós-graduação,8.5,7.2,1
+9132,Programador,8,24,6,Pós-graduação,9.7,6.4,1
+6577,Programador,9,28,8,Doutorado,8.7,3.9,0
+7317,Programador,10,5,4,Mestrado,5.7,7.4,0
+754,Programador,4,22,1,Doutorado,8.9,5.1,0
+9856,Analista de Dados,19,45,2,Mestrado,6.3,6.1,1
+3474,Programador,17,39,1,Graduação,7.4,9.9,1
+8932,Programador,11,30,4,Mestrado,5.8,9.2,0
+5813,Cientista de Dados,18,34,2,Doutorado,1.1,6.7,0
+4689,Analista de Dados,14,41,2,Mestrado,8.4,6.9,1
+8180,Analista de Dados,5,36,3,Pós-graduação,7.9,4.2,0
+4960,Programador,11,6,0,Mestrado,7.8,6.6,1
+1731,Cientista de Dados,5,2,4,Doutorado,6.5,4.6,0
+7971,Cientista de Dados,14,21,8,Mestrado,9.9,6.4,1
+9553,Analista de Dados,8,33,6,Mestrado,9.8,8.8,1
+357,Programador,15,16,4,Pós-graduação,8.3,8.0,1
+5977,Cientista de Dados,8,0,8,Doutorado,5.8,8.0,0
+2615,Analista de Dados,2,10,2,Pós-graduação,6.9,6.0,0
+1333,Analista de Dados,18,0,9,Mestrado,4.8,4.8,0
+2642,Programador,19,34,8,Mestrado,7.2,4.1,0
+7468,Cientista de Dados,3,49,5,Doutorado,6.0,8.1,1
+7036,Analista de Dados,9,37,1,Graduação,3.9,2.2,0
+4491,Programador,8,29,9,Pós-graduação,6.8,6.7,1
+2908,Analista de Dados,1,28,5,Graduação,9.5,6.9,0
+2503,Cientista de Dados,9,47,8,Graduação,5.4,8.1,0
+3785,Cientista de Dados,3,46,3,Doutorado,6.0,9.7,1
+5357,Programador,2,18,2,Doutorado,1.0,3.6,0
+9882,Analista de Dados,10,10,9,Mestrado,2.5,4.2,0
+9633,Programador,19,14,0,Mestrado,7.7,7.8,1
+9104,Cientista de Dados,18,35,9,Mestrado,6.1,6.4,1
+1162,Programador,15,7,5,Graduação,6.6,6.3,1
+9536,Programador,16,18,5,Graduação,5.0,2.9,0
+9261,Analista de Dados,19,39,5,Doutorado,7.7,8.1,1
+4126,Cientista de Dados,12,22,5,Mestrado,9.3,8.2,1
+2308,Analista de Dados,19,28,3,Mestrado,6.0,4.1,0
+6854,Analista de Dados,9,47,7,Pós-graduação,9.1,6.2,1
+32,Analista de Dados,12,30,8,Graduação,5.9,8.8,0
+591,Analista de Dados,8,31,3,Pós-graduação,9.2,9.4,1
+6872,Cientista de Dados,7,41,1,Mestrado,7.1,9.7,1
+2986,Analista de Dados,5,34,9,Graduação,8.6,8.1,1
+2271,Programador,4,25,7,Doutorado,6.2,7.9,1
+352,Programador,11,13,2,Mestrado,1.5,2.8,0
+3968,Analista de Dados,9,29,1,Doutorado,9.0,9.0,1
+6825,Analista de Dados,13,31,4,Doutorado,2.8,1.5,0
+4035,Analista de Dados,19,0,4,Pós-graduação,4.1,8.6,0
+6938,Cientista de Dados,1,11,2,Doutorado,7.9,4.8,0
+2709,Analista de Dados,12,16,8,Pós-graduação,9.0,8.1,1
+490,Programador,10,19,0,Graduação,9.6,8.4,1
+5315,Analista de Dados,14,47,6,Mestrado,9.5,7.1,1
+4797,Programador,15,46,8,Doutorado,2.1,4.2,0
+4943,Cientista de Dados,4,12,9,Doutorado,9.0,6.1,1
+8745,Cientista de Dados,13,32,7,Graduação,7.7,8.7,1
+9512,Cientista de Dados,11,38,1,Mestrado,1.2,1.9,0
+4990,Analista de Dados,6,41,6,Graduação,3.3,7.5,0
+9377,Analista de Dados,15,36,2,Doutorado,8.1,5.2,0
+281,Analista de Dados,3,36,3,Pós-graduação,4.1,10.0,0
+8024,Analista de Dados,8,36,6,Graduação,4.7,3.9,0
+8106,Programador,9,24,7,Graduação,2.0,2.6,0
+1305,Analista de Dados,9,31,5,Mestrado,1.9,1.2,0
+6605,Analista de Dados,17,44,7,Graduação,2.5,1.6,0
+1054,Programador,4,26,7,Pós-graduação,6.3,6.5,1
+8120,Analista de Dados,9,27,3,Pós-graduação,9.5,7.3,1
+5750,Cientista de Dados,16,16,3,Mestrado,9.9,6.1,1
+5149,Cientista de Dados,11,12,2,Doutorado,7.1,6.9,1
+4482,Analista de Dados,0,35,2,Graduação,4.2,5.9,0
+5867,Cientista de Dados,18,13,6,Doutorado,4.0,1.3,0
+9400,Analista de Dados,16,36,4,Mestrado,4.5,6.0,0
+4293,Analista de Dados,13,3,5,Graduação,5.1,1.2,0
+1970,Programador,17,7,9,Pós-graduação,5.1,6.9,0
+1343,Analista de Dados,12,33,0,Mestrado,6.5,9.7,1
+8499,Analista de Dados,19,14,0,Pós-graduação,10.0,9.6,1
+3595,Cientista de Dados,11,41,5,Doutorado,6.0,6.4,1
+2666,Analista de Dados,11,7,9,Graduação,7.5,8.9,1
+546,Cientista de Dados,1,22,8,Doutorado,5.4,9.3,0
+2270,Cientista de Dados,7,41,5,Doutorado,2.5,9.3,0
+1763,Programador,7,26,9,Mestrado,1.7,8.6,0
+5271,Analista de Dados,15,24,0,Graduação,8.4,9.9,1
+2557,Programador,1,20,2,Pós-graduação,3.8,6.9,0
+4065,Analista de Dados,18,38,0,Doutorado,2.0,1.1,0
+9092,Cientista de Dados,15,11,1,Graduação,8.8,8.3,1
+9445,Programador,0,22,9,Mestrado,5.8,6.8,0
+4319,Programador,14,31,3,Doutorado,9.2,3.8,0
+5479,Cientista de Dados,11,22,6,Pós-graduação,4.5,3.4,0
+8707,Analista de Dados,6,38,8,Pós-graduação,8.4,7.5,1
+1164,Analista de Dados,8,13,7,Doutorado,8.3,7.0,1
+5987,Cientista de Dados,18,40,6,Doutorado,9.1,2.6,0
+863,Analista de Dados,6,35,7,Mestrado,4.9,8.9,0
+5964,Programador,14,16,6,Pós-graduação,7.0,1.2,0
+6591,Analista de Dados,12,24,5,Doutorado,7.6,8.7,1
+9896,Cientista de Dados,5,17,8,Pós-graduação,7.5,9.1,1
+4362,Analista de Dados,5,40,6,Mestrado,7.1,8.9,1
+6481,Analista de Dados,14,32,3,Graduação,2.2,8.9,0
+2347,Cientista de Dados,19,47,3,Pós-graduação,1.1,5.7,0
+6351,Programador,6,33,2,Pós-graduação,7.0,9.6,1
+2962,Programador,11,46,7,Doutorado,8.5,1.9,0
+5291,Analista de Dados,5,39,7,Doutorado,8.7,7.1,1
+1856,Cientista de Dados,4,11,1,Graduação,3.1,3.3,0
+9126,Analista de Dados,15,34,2,Mestrado,2.3,4.2,0
+2481,Programador,1,6,5,Pós-graduação,7.6,8.7,0
+9766,Analista de Dados,4,19,7,Mestrado,4.6,9.1,0
+3270,Analista de Dados,9,38,9,Doutorado,8.7,9.3,1
+6521,Programador,16,34,5,Pós-graduação,5.9,9.2,0
+3137,Analista de Dados,8,43,1,Mestrado,7.2,7.2,1
+458,Cientista de Dados,16,22,5,Pós-graduação,1.9,6.9,0
+2335,Analista de Dados,1,28,4,Mestrado,4.8,1.9,0
+1320,Analista de Dados,12,19,1,Doutorado,4.8,6.6,0
+8108,Cientista de Dados,5,47,6,Pós-graduação,3.1,4.0,0
+9490,Analista de Dados,18,44,0,Graduação,9.5,8.6,1
+1186,Programador,2,49,1,Mestrado,4.9,9.2,0
+9211,Analista de Dados,4,22,3,Graduação,1.3,7.2,0
+3034,Cientista de Dados,12,49,6,Graduação,3.3,4.0,0
+4363,Analista de Dados,15,43,6,Pós-graduação,3.1,4.3,0
+7813,Cientista de Dados,14,10,5,Graduação,6.9,6.8,1
+3998,Cientista de Dados,12,19,3,Pós-graduação,3.1,8.4,0
+5617,Cientista de Dados,16,11,8,Graduação,6.3,9.7,1
+4690,Cientista de Dados,6,5,3,Doutorado,7.5,8.0,1
+4189,Cientista de Dados,7,41,0,Doutorado,9.2,8.7,1
+9111,Cientista de Dados,4,42,8,Graduação,7.2,8.2,1
+6972,Analista de Dados,5,5,7,Mestrado,8.5,4.1,0
+677,Programador,12,15,0,Doutorado,6.9,6.5,1
+3267,Cientista de Dados,4,8,2,Graduação,6.4,7.2,1
+1939,Programador,19,29,2,Graduação,6.6,4.6,0
+5322,Cientista de Dados,3,10,7,Pós-graduação,6.5,6.0,1
+1972,Cientista de Dados,1,44,9,Doutorado,9.0,3.8,0
+3707,Programador,5,34,6,Graduação,1.4,5.1,0
+2651,Cientista de Dados,15,18,3,Mestrado,8.3,9.7,1
+7576,Cientista de Dados,10,46,6,Graduação,6.2,6.9,1
+6097,Cientista de Dados,9,46,2,Pós-graduação,8.7,3.2,0
+832,Cientista de Dados,10,14,7,Pós-graduação,6.6,7.7,1
+6561,Programador,14,6,1,Mestrado,7.1,6.1,1
+4282,Cientista de Dados,16,28,3,Pós-graduação,1.9,1.1,0
+9622,Programador,5,47,2,Graduação,6.0,6.1,1
+9411,Cientista de Dados,5,41,3,Pós-graduação,9.8,9.3,1
+8595,Programador,3,40,5,Pós-graduação,7.1,6.4,1
+1838,Analista de Dados,15,28,7,Graduação,2.0,4.4,0
+8319,Cientista de Dados,9,22,6,Doutorado,2.5,7.5,0
+8492,Cientista de Dados,12,13,3,Mestrado,6.5,3.7,0
+4973,Analista de Dados,14,47,0,Doutorado,4.1,6.0,0
+6932,Programador,12,31,6,Mestrado,6.8,9.3,1
+7459,Analista de Dados,11,26,7,Graduação,5.5,4.5,0
+6783,Programador,18,7,1,Pós-graduação,4.4,6.4,0
+9095,Programador,5,12,8,Pós-graduação,10.0,8.0,1
+4561,Programador,8,21,0,Pós-graduação,7.6,8.1,1
+6567,Programador,15,28,8,Mestrado,6.8,9.2,1
+3392,Analista de Dados,6,28,8,Pós-graduação,9.4,6.4,1
+368,Analista de Dados,12,15,9,Graduação,9.0,4.2,0
+2985,Analista de Dados,6,40,1,Pós-graduação,7.5,7.0,1
+7997,Cientista de Dados,17,22,2,Graduação,3.1,5.6,0
+485,Programador,8,14,9,Pós-graduação,7.6,7.0,1
+3343,Cientista de Dados,3,16,9,Graduação,9.1,6.1,1
+6663,Programador,17,8,7,Mestrado,2.5,9.1,0
+2379,Programador,8,30,2,Pós-graduação,5.9,1.1,0
+7515,Programador,6,7,4,Mestrado,8.1,2.8,0
+7757,Programador,16,33,0,Graduação,6.9,9.4,1
+3025,Analista de Dados,9,34,3,Doutorado,9.3,8.6,1
+2040,Programador,11,44,2,Mestrado,3.4,5.4,0
+2484,Programador,15,7,4,Pós-graduação,4.4,1.3,0
+9419,Programador,19,28,4,Graduação,5.1,5.2,0
+4814,Programador,12,38,7,Mestrado,4.1,8.0,0
+6061,Cientista de Dados,19,23,2,Doutorado,8.4,9.4,1
+4378,Cientista de Dados,16,45,6,Doutorado,6.2,3.7,0
+4941,Analista de Dados,18,49,2,Pós-graduação,7.5,9.6,1
+1414,Programador,6,35,1,Graduação,1.7,9.5,0
+4592,Programador,1,13,4,Pós-graduação,6.4,9.1,0
+6253,Cientista de Dados,12,46,8,Graduação,9.7,9.6,1
+2520,Cientista de Dados,15,25,2,Pós-graduação,8.4,6.2,1
+6779,Programador,16,22,7,Graduação,4.1,9.0,0
+9763,Programador,12,43,6,Mestrado,7.5,6.0,1
+8099,Analista de Dados,3,15,5,Mestrado,8.9,7.9,1
+9853,Cientista de Dados,5,5,3,Graduação,6.7,8.8,1
+7020,Programador,5,43,6,Graduação,5.7,5.5,0
+735,Analista de Dados,3,22,9,Doutorado,9.9,6.6,1
+5493,Programador,11,46,3,Graduação,6.9,6.5,1
+2037,Analista de Dados,3,5,7,Pós-graduação,7.6,1.3,0
+5302,Cientista de Dados,12,32,8,Doutorado,4.2,4.7,0
+8021,Analista de Dados,2,44,4,Mestrado,8.1,6.0,0
+8704,Programador,7,9,4,Graduação,6.5,7.8,1
+4869,Programador,0,2,6,Mestrado,5.8,5.6,0
+1498,Cientista de Dados,12,7,6,Doutorado,9.6,8.6,1
+9961,Cientista de Dados,7,33,4,Graduação,2.4,6.6,0
+7187,Analista de Dados,10,34,9,Mestrado,6.0,3.2,0
+7012,Analista de Dados,17,24,9,Doutorado,5.9,5.1,0
+9532,Cientista de Dados,10,28,8,Doutorado,3.1,4.1,0
+1006,Analista de Dados,5,42,9,Pós-graduação,2.1,6.0,0
+7692,Cientista de Dados,19,46,2,Doutorado,7.0,7.4,1
+1916,Cientista de Dados,17,23,8,Pós-graduação,4.1,1.8,0
+9858,Programador,3,28,4,Graduação,3.0,8.3,0
+8448,Cientista de Dados,1,18,2,Mestrado,9.8,2.7,0
+6212,Cientista de Dados,15,20,5,Graduação,7.9,9.1,1
+5933,Analista de Dados,19,42,1,Pós-graduação,6.0,4.9,0
+9523,Analista de Dados,12,30,1,Mestrado,3.8,7.2,0
+9349,Analista de Dados,7,13,2,Pós-graduação,8.9,6.3,1
+5848,Programador,5,44,1,Doutorado,7.0,5.5,0
+5597,Analista de Dados,18,10,0,Doutorado,6.7,2.0,0
+599,Analista de Dados,10,32,7,Mestrado,4.3,5.3,0
+630,Cientista de Dados,12,9,7,Pós-graduação,5.4,8.2,0
+6792,Programador,9,14,3,Pós-graduação,9.0,7.4,1
+3226,Programador,13,47,3,Pós-graduação,6.0,4.7,0
+9650,Analista de Dados,17,36,8,Graduação,7.7,5.4,0
+1139,Programador,3,18,2,Graduação,5.5,6.8,0
+1747,Cientista de Dados,17,44,8,Mestrado,9.4,6.1,1
+3612,Analista de Dados,19,8,9,Pós-graduação,8.5,9.0,1
+144,Cientista de Dados,1,31,9,Doutorado,4.7,8.4,0
+1472,Cientista de Dados,6,5,7,Mestrado,4.6,1.9,0
+1901,Cientista de Dados,7,38,6,Pós-graduação,8.3,6.0,1
+3697,Programador,4,25,6,Doutorado,9.3,8.1,1
+8790,Cientista de Dados,12,11,2,Pós-graduação,10.0,7.9,1
+2045,Cientista de Dados,8,28,9,Graduação,7.7,8.8,1
+9846,Analista de Dados,18,7,0,Doutorado,7.6,6.1,1
+2659,Programador,14,49,2,Doutorado,3.8,3.0,0
+7967,Analista de Dados,7,29,6,Pós-graduação,9.2,7.1,1
+9645,Cientista de Dados,18,43,0,Graduação,6.8,6.1,1
+3485,Analista de Dados,3,24,9,Doutorado,6.2,8.0,1
+1785,Analista de Dados,1,16,6,Pós-graduação,8.0,5.3,0
+5062,Cientista de Dados,17,28,8,Pós-graduação,5.9,4.1,0
+5997,Cientista de Dados,14,37,5,Doutorado,7.1,6.3,1
+4177,Programador,18,31,6,Graduação,9.9,9.6,1
+8869,Cientista de Dados,12,20,7,Doutorado,7.8,8.7,1
+4576,Cientista de Dados,7,17,5,Doutorado,7.9,8.9,1
+5285,Cientista de Dados,3,9,4,Graduação,3.3,1.6,0
+8402,Cientista de Dados,5,30,9,Doutorado,9.7,7.3,1
+1452,Analista de Dados,4,15,9,Mestrado,9.2,2.0,0
+2007,Analista de Dados,10,41,0,Pós-graduação,6.4,1.4,0
+4300,Programador,3,21,4,Doutorado,7.6,8.4,1
+1236,Cientista de Dados,6,26,3,Pós-graduação,8.1,9.6,1
+9407,Analista de Dados,15,26,8,Graduação,8.1,7.5,1
+1894,Analista de Dados,0,35,1,Mestrado,4.3,1.4,0
+4916,Programador,4,9,5,Graduação,9.5,7.2,1
+7807,Programador,8,45,1,Graduação,6.7,9.8,1
+9282,Cientista de Dados,17,19,5,Doutorado,9.2,7.4,1
+3037,Programador,6,39,7,Doutorado,2.2,6.5,0
+2395,Cientista de Dados,8,37,7,Pós-graduação,6.6,9.1,1
+8170,Programador,19,13,2,Pós-graduação,7.4,1.7,0
+3585,Analista de Dados,6,10,8,Graduação,7.3,7.8,1
+7344,Cientista de Dados,14,10,7,Doutorado,2.3,4.0,0
+1655,Cientista de Dados,3,7,2,Mestrado,7.3,1.3,0
+3180,Programador,18,2,5,Graduação,5.2,3.9,0
+1789,Programador,9,47,2,Graduação,2.3,1.2,0
+948,Analista de Dados,4,42,3,Doutorado,1.4,1.6,0
+7488,Analista de Dados,1,47,1,Pós-graduação,6.7,8.7,0
+2761,Cientista de Dados,12,11,4,Doutorado,7.2,5.7,0
+4198,Programador,6,32,5,Mestrado,7.9,6.2,1
+8571,Analista de Dados,18,9,9,Graduação,6.7,3.5,0
+4634,Programador,9,24,3,Doutorado,9.4,6.1,1
+1211,Cientista de Dados,4,9,6,Pós-graduação,6.5,8.8,1
+639,Cientista de Dados,12,9,6,Mestrado,7.2,6.6,1
+4662,Programador,15,11,4,Doutorado,9.3,6.2,1
+5441,Programador,16,28,1,Doutorado,9.3,6.4,1
+7155,Analista de Dados,3,45,7,Graduação,6.3,7.3,1
+2783,Analista de Dados,7,21,8,Mestrado,1.8,1.7,0
+6157,Cientista de Dados,19,25,0,Graduação,6.0,8.7,1
+7001,Cientista de Dados,11,37,0,Pós-graduação,9.1,7.1,1
+3822,Analista de Dados,9,44,5,Pós-graduação,9.4,9.1,1
+3279,Analista de Dados,12,49,7,Pós-graduação,3.8,9.7,0
+5536,Analista de Dados,12,25,2,Graduação,7.7,9.1,1
+7786,Analista de Dados,14,42,6,Doutorado,7.8,1.5,0
+4050,Analista de Dados,3,25,0,Pós-graduação,8.2,9.5,1
+5582,Analista de Dados,9,15,7,Doutorado,9.6,9.2,1
+8052,Programador,12,4,8,Pós-graduação,1.7,8.7,0
+2390,Programador,8,31,7,Doutorado,7.6,6.1,1
+9596,Analista de Dados,10,40,1,Doutorado,5.3,5.0,0
+2611,Analista de Dados,4,48,6,Pós-graduação,7.6,8.4,1
+3858,Programador,4,16,8,Graduação,6.1,2.0,0
+590,Cientista de Dados,6,13,0,Graduação,6.4,8.9,1
+1946,Cientista de Dados,19,39,6,Graduação,8.8,1.0,0
+8181,Programador,17,27,9,Pós-graduação,6.7,7.0,1
+5712,Cientista de Dados,7,46,4,Pós-graduação,6.1,8.1,1
+8520,Programador,6,34,6,Pós-graduação,6.0,8.9,1
+3103,Analista de Dados,8,10,0,Doutorado,6.2,7.9,1
+9605,Analista de Dados,1,46,6,Pós-graduação,7.4,6.2,0
+5373,Analista de Dados,8,37,8,Graduação,9.4,6.0,1
+9960,Programador,14,39,1,Graduação,8.5,5.6,0
+2056,Programador,18,11,1,Pós-graduação,1.4,1.8,0
+2889,Cientista de Dados,17,47,2,Mestrado,6.2,6.2,1
+6378,Cientista de Dados,15,34,3,Graduação,7.9,7.5,1
+6680,Cientista de Dados,10,39,4,Pós-graduação,9.0,9.1,1
+2751,Cientista de Dados,11,12,3,Doutorado,7.6,4.3,0
+6397,Programador,19,32,0,Pós-graduação,8.3,6.1,1
+6927,Cientista de Dados,12,41,9,Graduação,9.1,8.6,1
+7442,Cientista de Dados,3,36,8,Doutorado,9.3,2.0,0
+4465,Analista de Dados,8,21,5,Doutorado,3.9,8.4,0
+6901,Programador,12,32,7,Doutorado,8.7,9.8,1
+4173,Analista de Dados,17,30,9,Pós-graduação,9.2,7.0,1
+6923,Programador,3,41,3,Pós-graduação,8.1,6.5,1
+7963,Analista de Dados,10,11,9,Mestrado,9.1,7.7,1
+834,Cientista de Dados,3,48,0,Mestrado,6.7,7.4,1
+1715,Programador,9,19,0,Graduação,7.9,6.5,1
+3784,Analista de Dados,7,21,4,Pós-graduação,6.8,6.8,1
+6958,Programador,16,26,0,Pós-graduação,3.2,1.6,0
+2466,Cientista de Dados,8,13,3,Pós-graduação,1.3,9.3,0
+2193,Programador,4,24,3,Pós-graduação,8.7,9.8,1
+9770,Analista de Dados,6,13,2,Doutorado,9.7,3.6,0
+3701,Analista de Dados,10,33,2,Mestrado,8.1,8.6,1
+8979,Analista de Dados,8,21,8,Pós-graduação,8.8,7.6,1
+3571,Analista de Dados,1,44,9,Mestrado,2.6,6.7,0
+6694,Analista de Dados,7,48,8,Graduação,9.3,8.0,1
+6708,Programador,11,14,3,Pós-graduação,4.7,3.7,0
+7405,Cientista de Dados,17,16,1,Pós-graduação,9.7,7.5,1
+1332,Programador,3,49,2,Graduação,2.6,9.1,0
+9209,Analista de Dados,13,49,1,Pós-graduação,8.3,7.4,1
+6204,Programador,3,30,7,Mestrado,6.3,7.8,1
+4085,Programador,11,49,8,Mestrado,6.2,9.2,1
+7286,Cientista de Dados,1,24,3,Graduação,1.4,1.6,0
+6645,Programador,7,23,9,Graduação,6.2,9.0,1
+8558,Programador,1,36,1,Pós-graduação,4.0,8.8,0
+6889,Analista de Dados,12,1,6,Pós-graduação,5.9,6.3,0
+1390,Cientista de Dados,13,24,7,Pós-graduação,7.5,9.1,1
+5994,Analista de Dados,12,27,5,Mestrado,9.5,9.5,1
+9046,Programador,8,16,5,Graduação,5.0,3.6,0
+6609,Analista de Dados,13,40,6,Graduação,10.0,4.9,0
+1131,Cientista de Dados,17,3,8,Graduação,4.8,9.7,0
+9292,Cientista de Dados,3,18,8,Graduação,7.9,9.7,1
+2260,Cientista de Dados,14,24,9,Graduação,3.4,2.5,0
+6402,Analista de Dados,16,27,9,Mestrado,1.1,2.1,0
+3086,Cientista de Dados,16,44,6,Graduação,1.2,2.3,0
+3256,Cientista de Dados,8,39,5,Doutorado,6.0,4.7,0
+4940,Analista de Dados,14,34,1,Graduação,7.7,6.1,1
+7753,Cientista de Dados,10,24,1,Pós-graduação,10.0,8.4,1
+5517,Analista de Dados,14,28,3,Graduação,7.1,9.6,1
+4416,Programador,17,21,1,Mestrado,8.4,7.9,1
+6155,Cientista de Dados,2,36,3,Doutorado,9.6,8.8,0
+3357,Programador,11,3,2,Doutorado,6.1,1.8,0
+3582,Programador,8,31,5,Doutorado,9.7,3.6,0
+2619,Analista de Dados,6,46,1,Pós-graduação,8.5,8.5,1
+531,Analista de Dados,1,46,5,Doutorado,6.3,7.5,0
+5722,Programador,14,42,5,Graduação,7.2,6.4,1
+2950,Programador,12,17,9,Pós-graduação,9.9,8.0,1
+8682,Cientista de Dados,5,39,7,Pós-graduação,8.3,4.5,0
+5444,Programador,10,46,8,Mestrado,9.2,8.3,1
+9713,Analista de Dados,11,47,2,Doutorado,9.4,6.4,1
+5124,Analista de Dados,13,23,6,Doutorado,3.1,4.9,0
+934,Analista de Dados,13,14,0,Mestrado,9.3,9.7,1
+5506,Programador,3,34,3,Graduação,9.9,5.4,0
+6513,Analista de Dados,7,26,3,Graduação,2.8,7.4,0
+2600,Cientista de Dados,18,29,7,Pós-graduação,4.8,1.7,0
+6982,Programador,15,15,4,Doutorado,1.1,9.9,0
+5857,Analista de Dados,1,12,7,Mestrado,5.4,9.1,0
+8331,Analista de Dados,18,47,9,Mestrado,4.5,6.6,0
+8117,Programador,12,45,6,Graduação,8.1,6.8,1
+4259,Cientista de Dados,18,38,7,Doutorado,8.9,6.2,1
+8406,Programador,19,8,8,Pós-graduação,8.3,1.7,0
+2447,Cientista de Dados,18,35,9,Graduação,6.6,7.1,1
+75,Cientista de Dados,3,49,4,Pós-graduação,2.5,6.6,0
+710,Analista de Dados,6,35,1,Mestrado,8.1,6.7,1
+5935,Analista de Dados,7,47,5,Mestrado,9.3,6.6,1
+3647,Programador,7,39,5,Doutorado,9.0,10.0,1
+8720,Programador,8,19,7,Doutorado,5.4,7.0,0
+8463,Analista de Dados,14,17,5,Doutorado,6.4,6.7,1
+7072,Programador,9,18,7,Mestrado,6.4,6.1,1
+1225,Programador,17,1,2,Doutorado,9.4,2.9,0
+6141,Programador,3,13,5,Mestrado,6.6,8.8,1
+116,Cientista de Dados,1,7,4,Mestrado,2.2,7.8,0
+7091,Cientista de Dados,0,16,8,Doutorado,5.6,5.9,0
+2919,Analista de Dados,16,20,4,Doutorado,3.7,3.4,0
+9779,Programador,19,48,5,Graduação,4.7,5.1,0
+5155,Analista de Dados,10,11,2,Mestrado,2.7,6.2,0
+2636,Analista de Dados,13,49,5,Mestrado,3.5,9.0,0
+6327,Cientista de Dados,0,44,2,Graduação,7.2,7.7,0
+9880,Cientista de Dados,13,45,9,Mestrado,9.3,1.3,0
+8866,Cientista de Dados,5,26,6,Graduação,8.2,1.2,0
+7434,Programador,0,20,2,Doutorado,7.0,8.0,0
+9159,Cientista de Dados,0,12,1,Doutorado,8.9,1.6,0
+2856,Cientista de Dados,4,18,7,Doutorado,9.1,8.2,1
+208,Analista de Dados,4,12,4,Mestrado,6.9,8.1,1
+1190,Programador,17,10,2,Graduação,6.6,9.9,1
+4517,Analista de Dados,5,42,8,Graduação,7.8,7.8,1
+9306,Cientista de Dados,11,28,0,Doutorado,3.9,6.7,0
+4014,Programador,12,28,8,Doutorado,5.9,4.5,0
+7438,Cientista de Dados,11,14,4,Pós-graduação,5.7,2.4,0
+8719,Programador,7,6,2,Pós-graduação,7.9,7.5,1
+8950,Programador,13,25,2,Pós-graduação,8.4,4.5,0
+4757,Cientista de Dados,8,34,3,Pós-graduação,8.5,7.3,1
+2719,Analista de Dados,1,49,7,Pós-graduação,5.7,1.5,0
+9560,Programador,6,27,8,Pós-graduação,7.2,8.3,1
+8320,Cientista de Dados,2,48,9,Doutorado,3.7,3.5,0
+5571,Programador,5,45,9,Graduação,4.4,5.7,0
+1339,Programador,15,43,4,Pós-graduação,6.0,6.0,1
+5626,Cientista de Dados,8,29,8,Mestrado,8.8,7.0,1
+5100,Cientista de Dados,16,8,3,Pós-graduação,3.0,8.5,0
+1880,Analista de Dados,3,24,2,Pós-graduação,9.8,2.5,0
+840,Programador,14,0,8,Mestrado,5.4,9.2,0
+6229,Programador,13,46,6,Graduação,5.6,7.7,0
+8818,Analista de Dados,1,7,9,Pós-graduação,5.1,9.0,0
+3658,Programador,11,4,5,Pós-graduação,1.7,8.9,0
+5243,Programador,14,27,8,Pós-graduação,6.4,7.7,1
+620,Analista de Dados,17,17,8,Doutorado,8.2,7.7,1
+8131,Analista de Dados,11,24,7,Mestrado,3.8,5.4,0
+8447,Analista de Dados,4,33,2,Graduação,3.6,7.8,0
+4551,Programador,3,14,8,Pós-graduação,5.0,5.0,0
+5055,Analista de Dados,6,48,2,Mestrado,6.5,6.6,1
+6108,Programador,6,44,5,Doutorado,6.2,7.9,1
+6342,Analista de Dados,0,48,0,Mestrado,7.9,5.5,0
+6038,Cientista de Dados,14,6,3,Pós-graduação,9.3,6.0,1
+6565,Programador,10,35,4,Mestrado,8.6,7.3,1
+5181,Analista de Dados,18,41,8,Mestrado,3.9,6.4,0
+4100,Cientista de Dados,12,36,3,Mestrado,9.9,2.7,0
+9278,Analista de Dados,8,20,0,Pós-graduação,2.4,3.3,0
+7565,Programador,4,6,7,Doutorado,8.9,9.2,1
+1192,Analista de Dados,0,32,5,Mestrado,5.5,9.6,0
+3410,Programador,2,47,9,Doutorado,1.3,2.0,0
+2786,Programador,11,46,9,Graduação,4.4,9.0,0
+5944,Cientista de Dados,4,32,7,Doutorado,8.0,6.0,1
+3725,Analista de Dados,0,38,1,Mestrado,4.1,8.2,0
+2148,Cientista de Dados,18,21,0,Doutorado,7.4,5.3,0
+2714,Cientista de Dados,8,29,2,Doutorado,3.2,1.9,0
+5641,Programador,3,23,1,Pós-graduação,8.2,8.7,1
+4584,Analista de Dados,16,20,2,Doutorado,8.2,6.8,1
+4698,Cientista de Dados,3,24,5,Pós-graduação,8.1,9.9,1
+8699,Analista de Dados,17,46,7,Doutorado,7.4,5.0,0
+7964,Cientista de Dados,19,26,0,Pós-graduação,7.2,6.5,1
+2288,Programador,2,1,6,Graduação,4.8,6.7,0
+97,Programador,4,35,9,Graduação,5.3,5.3,0
+2828,Programador,17,43,9,Graduação,3.5,5.2,0
+2682,Programador,13,4,8,Mestrado,4.9,8.6,0
+799,Analista de Dados,12,45,5,Mestrado,2.0,5.0,0
+6243,Analista de Dados,1,45,1,Graduação,1.1,8.6,0
+4028,Programador,5,11,2,Graduação,8.3,9.4,1
+8659,Programador,13,14,1,Doutorado,6.9,6.3,1
+8879,Programador,17,24,8,Pós-graduação,5.1,5.6,0
+6249,Programador,14,23,0,Pós-graduação,9.4,6.2,1
+7906,Programador,3,47,8,Doutorado,6.9,7.8,1
+4766,Analista de Dados,18,19,7,Graduação,2.9,5.2,0
+4643,Analista de Dados,11,8,2,Graduação,6.8,9.6,1
+3851,Analista de Dados,15,12,5,Pós-graduação,8.9,8.2,1
+2259,Analista de Dados,6,20,3,Doutorado,4.4,8.9,0
+8044,Analista de Dados,16,44,6,Graduação,1.8,9.8,0
+173,Analista de Dados,9,45,6,Doutorado,8.4,4.8,0
+7098,Analista de Dados,18,32,8,Pós-graduação,4.6,9.1,0
+2189,Cientista de Dados,10,24,8,Graduação,7.5,6.5,1
+420,Cientista de Dados,9,23,9,Mestrado,6.9,6.6,1
+2214,Programador,14,4,3,Mestrado,2.1,5.9,0
+6802,Cientista de Dados,17,39,2,Pós-graduação,9.9,9.0,1
+3572,Analista de Dados,4,34,6,Doutorado,3.5,2.7,0
+3515,Cientista de Dados,19,14,2,Graduação,9.9,6.2,1
+4836,Cientista de Dados,5,6,5,Mestrado,1.1,6.8,0
+4607,Programador,15,32,4,Pós-graduação,2.8,8.6,0
+2203,Programador,15,31,2,Doutorado,4.8,1.3,0
+1811,Analista de Dados,9,6,7,Doutorado,1.2,7.8,0
+4751,Analista de Dados,12,37,0,Pós-graduação,7.2,9.6,1
+7560,Programador,16,42,4,Graduação,7.3,6.0,1
+5496,Programador,14,20,1,Graduação,7.3,6.7,1
+8597,Cientista de Dados,6,19,5,Mestrado,6.4,8.0,1
+7960,Cientista de Dados,17,13,7,Mestrado,3.9,9.6,0
+747,Programador,14,21,9,Pós-graduação,10.0,9.3,1
+4535,Analista de Dados,16,10,7,Doutorado,6.6,6.2,1
+5468,Cientista de Dados,0,5,2,Mestrado,8.6,1.0,0
+4667,Programador,17,12,4,Doutorado,4.4,1.7,0
+4178,Analista de Dados,13,41,1,Doutorado,8.6,8.1,1
+2580,Analista de Dados,19,21,6,Graduação,6.0,6.3,1
+504,Cientista de Dados,10,5,8,Pós-graduação,6.4,2.4,0
+7705,Programador,12,43,2,Mestrado,2.4,8.2,0
+1753,Analista de Dados,2,13,7,Mestrado,6.3,2.7,0
+9029,Analista de Dados,12,7,1,Graduação,1.2,5.8,0
+2916,Cientista de Dados,0,35,6,Pós-graduação,3.4,9.2,0
+8441,Analista de Dados,13,5,5,Pós-graduação,3.5,1.4,0
+838,Analista de Dados,13,46,0,Mestrado,8.5,2.4,0
+7849,Programador,5,10,5,Doutorado,6.9,9.0,1
+4488,Cientista de Dados,3,22,2,Doutorado,6.6,6.3,1
+3553,Programador,17,7,4,Pós-graduação,7.6,9.0,1
+7832,Cientista de Dados,7,20,8,Pós-graduação,9.3,8.1,1
+2848,Cientista de Dados,15,9,2,Graduação,9.7,8.2,1
+8677,Cientista de Dados,10,20,2,Mestrado,9.8,1.6,0
+1904,Programador,10,46,8,Mestrado,7.7,6.6,1
+6160,Programador,6,9,7,Graduação,9.3,8.9,1
+2741,Cientista de Dados,7,32,7,Pós-graduação,6.9,6.9,1
+67,Cientista de Dados,8,1,3,Graduação,1.0,3.3,0
+9803,Programador,12,45,5,Pós-graduação,4.6,2.3,0
+6223,Analista de Dados,12,34,9,Graduação,7.1,9.5,1
+9367,Programador,3,17,6,Mestrado,9.7,6.0,1
+1562,Programador,15,43,1,Graduação,7.3,7.2,1
+6622,Programador,3,38,2,Mestrado,9.1,6.8,1
+6193,Cientista de Dados,18,28,9,Pós-graduação,6.2,9.1,1
+879,Programador,4,6,7,Graduação,3.6,3.3,0
+1228,Programador,12,9,5,Doutorado,9.9,6.9,1
+9992,Analista de Dados,11,36,9,Graduação,8.5,7.6,1
+5252,Analista de Dados,10,4,6,Mestrado,7.4,7.1,0
+5747,Cientista de Dados,10,21,0,Mestrado,9.2,6.9,1
+8831,Programador,7,30,3,Doutorado,9.0,7.5,1
+2455,Analista de Dados,10,8,4,Mestrado,4.3,7.0,0
+7386,Cientista de Dados,12,28,3,Graduação,5.0,8.4,0
+1590,Programador,10,30,9,Mestrado,8.1,6.6,1
+3703,Programador,9,48,1,Doutorado,7.3,9.2,1
+6396,Analista de Dados,4,27,4,Mestrado,7.7,8.2,1
+3147,Cientista de Dados,14,17,8,Pós-graduação,9.0,2.2,0
+2536,Cientista de Dados,9,30,8,Graduação,6.9,6.5,1
+1346,Analista de Dados,17,27,5,Doutorado,9.2,7.1,1
+9671,Programador,10,17,1,Mestrado,9.2,7.3,1
+6586,Cientista de Dados,12,40,7,Doutorado,4.5,5.8,0
+6855,Analista de Dados,9,28,4,Pós-graduação,5.6,2.0,0
+1584,Analista de Dados,18,44,3,Mestrado,3.3,3.8,0
+1353,Programador,5,1,3,Doutorado,4.7,5.5,0
+6405,Programador,4,30,6,Pós-graduação,9.7,6.8,1
+3599,Cientista de Dados,0,16,0,Doutorado,6.1,3.6,0
+7624,Programador,11,38,0,Mestrado,7.6,9.2,1
+3043,Analista de Dados,11,47,2,Doutorado,7.4,8.4,1
+4601,Programador,19,17,3,Mestrado,5.7,2.4,0
+8294,Analista de Dados,9,48,1,Pós-graduação,7.2,6.3,1
+5178,Cientista de Dados,6,0,8,Doutorado,3.1,9.4,0
+6997,Analista de Dados,15,13,8,Pós-graduação,4.4,7.4,0
+99,Programador,18,1,7,Pós-graduação,3.1,6.0,0
+9684,Cientista de Dados,8,42,1,Graduação,3.1,9.1,0
+5588,Analista de Dados,11,27,2,Graduação,4.5,1.2,0
+8365,Analista de Dados,16,12,4,Mestrado,9.4,9.7,1
+4556,Cientista de Dados,10,4,9,Mestrado,8.3,9.4,0
+4593,Cientista de Dados,18,23,0,Mestrado,7.2,8.6,1
+9733,Programador,8,11,8,Graduação,5.0,9.7,0
+2836,Cientista de Dados,11,12,1,Doutorado,7.5,9.6,1
+6015,Analista de Dados,8,43,6,Graduação,8.0,7.8,1
+861,Cientista de Dados,9,37,3,Graduação,7.1,7.0,1
+2121,Analista de Dados,15,15,5,Mestrado,3.0,8.4,0
+6367,Programador,5,18,3,Mestrado,5.4,4.4,0
+115,Programador,17,31,3,Pós-graduação,3.5,9.3,0
+9876,Cientista de Dados,19,34,9,Doutorado,1.6,8.6,0
+924,Cientista de Dados,17,15,8,Graduação,6.5,9.9,1
+9584,Analista de Dados,7,24,9,Doutorado,7.1,6.7,1
+9508,Programador,12,44,0,Mestrado,1.9,2.7,0
+6480,Programador,5,12,3,Mestrado,9.4,7.6,1
+9789,Analista de Dados,6,3,6,Graduação,3.9,9.9,0
+3534,Programador,15,47,1,Mestrado,9.1,9.6,1
+3538,Programador,4,25,8,Mestrado,6.5,8.7,1
+1553,Analista de Dados,2,38,4,Mestrado,3.1,5.0,0
+3866,Analista de Dados,5,41,5,Mestrado,4.0,6.4,0
+9334,Analista de Dados,18,33,8,Pós-graduação,8.5,8.0,1
+3176,Analista de Dados,8,40,9,Graduação,8.6,7.6,1
+7805,Programador,15,30,4,Mestrado,8.9,5.0,0
+6361,Cientista de Dados,6,6,4,Mestrado,7.6,9.6,1
+1257,Analista de Dados,11,18,6,Mestrado,6.8,8.8,1
+2924,Programador,13,30,0,Doutorado,6.6,8.5,1
+3325,Programador,6,42,4,Mestrado,6.7,2.7,0
+1510,Analista de Dados,7,41,0,Pós-graduação,7.6,8.9,1
+1741,Programador,5,26,9,Graduação,8.7,8.7,1
+6039,Programador,13,14,4,Pós-graduação,9.7,8.9,1
+7329,Programador,17,21,7,Doutorado,8.8,7.5,1
+2510,Cientista de Dados,9,5,6,Doutorado,9.8,7.9,1
+84,Programador,10,25,4,Doutorado,6.3,6.4,1
+5208,Cientista de Dados,3,22,9,Pós-graduação,6.6,9.8,1
+6246,Cientista de Dados,16,46,0,Mestrado,6.5,8.9,1
+8912,Analista de Dados,7,30,2,Mestrado,8.9,8.1,1
+6503,Programador,1,23,8,Mestrado,5.1,6.9,0
+6344,Programador,18,9,3,Doutorado,7.4,6.1,1
+1982,Cientista de Dados,19,16,1,Mestrado,6.7,6.4,1
+3194,Programador,12,16,5,Graduação,8.8,6.2,1
+2997,Programador,6,43,2,Mestrado,6.0,9.1,1
+5978,Cientista de Dados,12,17,9,Mestrado,8.1,5.3,0
+6482,Cientista de Dados,14,49,7,Pós-graduação,7.3,9.9,1
+3915,Cientista de Dados,1,29,0,Doutorado,8.2,3.5,0
+5339,Programador,6,10,1,Mestrado,1.0,6.5,0
+6739,Cientista de Dados,13,46,4,Doutorado,8.1,6.5,1
+5635,Cientista de Dados,14,42,0,Mestrado,9.0,7.5,1
+1643,Cientista de Dados,18,16,0,Pós-graduação,8.7,9.4,1
+8301,Analista de Dados,3,3,6,Doutorado,1.4,1.6,0
+8156,Cientista de Dados,1,13,6,Graduação,5.2,3.8,0
+3020,Programador,3,7,0,Mestrado,8.3,7.6,1
+5423,Analista de Dados,5,12,4,Pós-graduação,6.7,6.7,1
+4196,Analista de Dados,9,10,9,Mestrado,1.7,4.2,0
+6016,Programador,16,27,8,Pós-graduação,1.5,2.5,0
+4107,Analista de Dados,14,38,1,Pós-graduação,3.8,2.0,0
+5676,Cientista de Dados,18,7,2,Pós-graduação,2.3,3.2,0
+1517,Programador,12,33,7,Graduação,6.4,7.6,1
+2643,Programador,12,22,9,Pós-graduação,4.0,4.5,0
+8237,Analista de Dados,17,35,3,Pós-graduação,6.8,8.6,1
+8424,Cientista de Dados,8,26,0,Doutorado,9.9,5.2,0
+6439,Cientista de Dados,13,48,7,Pós-graduação,5.4,6.3,0
+9197,Cientista de Dados,14,43,9,Mestrado,6.9,4.7,0
+2313,Cientista de Dados,11,31,5,Graduação,3.5,8.1,0
+427,Cientista de Dados,18,42,1,Doutorado,8.1,7.8,1
+625,Programador,10,46,4,Pós-graduação,8.5,7.9,1
+3321,Cientista de Dados,16,44,3,Pós-graduação,6.5,9.4,1
+5976,Analista de Dados,19,28,8,Graduação,4.9,6.5,0
+5175,Cientista de Dados,10,49,8,Pós-graduação,7.6,5.8,0
+8803,Analista de Dados,1,3,2,Pós-graduação,6.7,3.3,0
+2726,Programador,9,30,5,Doutorado,6.3,6.0,1
+405,Cientista de Dados,16,8,4,Mestrado,7.1,8.7,1
+2195,Programador,13,16,3,Mestrado,6.0,6.8,1
+5264,Analista de Dados,18,49,6,Doutorado,7.9,6.2,1
+4882,Programador,15,37,8,Doutorado,5.2,6.1,0
+8118,Cientista de Dados,14,20,6,Mestrado,6.8,4.2,0
+9279,Programador,2,6,5,Graduação,1.4,6.3,0
+5392,Analista de Dados,9,26,0,Mestrado,2.8,1.2,0
+7635,Analista de Dados,10,31,9,Pós-graduação,5.6,4.2,0
+425,Programador,10,35,7,Graduação,6.2,9.5,1
+3073,Cientista de Dados,9,5,0,Mestrado,4.4,7.7,0
+4170,Analista de Dados,7,17,8,Mestrado,9.0,9.3,1
+6837,Cientista de Dados,4,40,4,Pós-graduação,7.0,9.9,1
+7017,Programador,8,43,0,Graduação,9.3,5.1,0
+4318,Analista de Dados,18,6,0,Pós-graduação,7.0,8.9,1
+6885,Cientista de Dados,13,3,6,Pós-graduação,1.8,1.1,0
+7018,Programador,19,35,3,Pós-graduação,9.0,7.3,1
+5914,Analista de Dados,17,30,4,Graduação,6.0,6.0,1
+1490,Analista de Dados,13,36,2,Mestrado,6.8,8.7,1
+8642,Cientista de Dados,15,32,4,Mestrado,8.7,6.0,1
+9839,Programador,0,36,2,Doutorado,5.2,5.8,0
+3131,Programador,7,24,9,Doutorado,2.0,8.3,0
+4888,Programador,3,27,3,Mestrado,6.4,8.2,1
+4071,Programador,17,31,4,Pós-graduação,7.1,7.8,1
+2640,Cientista de Dados,9,40,5,Doutorado,6.7,2.3,0
+3896,Cientista de Dados,13,30,5,Doutorado,7.6,9.6,1
+8390,Analista de Dados,7,48,5,Pós-graduação,8.8,8.7,1
+9286,Programador,14,22,0,Graduação,8.2,10.0,1
+8994,Analista de Dados,18,37,7,Doutorado,7.8,3.2,0
+2208,Cientista de Dados,7,17,6,Graduação,6.2,9.8,1
+561,Analista de Dados,14,7,3,Mestrado,7.4,9.7,1
+8284,Cientista de Dados,17,11,6,Doutorado,8.4,8.2,1
+86,Cientista de Dados,8,41,8,Graduação,2.0,2.3,0
+2102,Cientista de Dados,7,24,5,Doutorado,7.6,8.3,1
+5622,Cientista de Dados,8,49,5,Mestrado,7.9,7.2,1
+3478,Programador,3,16,8,Doutorado,3.7,9.0,0
+5898,Programador,16,31,6,Mestrado,4.0,6.0,0
+2026,Analista de Dados,5,35,6,Doutorado,6.0,1.6,0
+9683,Cientista de Dados,15,37,0,Mestrado,2.1,6.6,0
+8585,Programador,12,0,0,Mestrado,1.6,8.8,0
+117,Programador,15,11,7,Mestrado,9.4,7.5,1
+5578,Analista de Dados,17,0,5,Graduação,5.3,8.2,0
+464,Programador,14,21,1,Mestrado,9.9,7.1,1
+7452,Cientista de Dados,7,26,8,Pós-graduação,2.6,6.6,0
+7428,Analista de Dados,10,4,2,Mestrado,6.9,5.9,0
+1947,Analista de Dados,15,47,2,Mestrado,4.8,1.7,0
+5715,Programador,17,1,4,Mestrado,2.8,1.5,0
+5481,Analista de Dados,12,35,3,Graduação,7.5,7.9,1
+8222,Cientista de Dados,13,42,6,Pós-graduação,6.4,1.9,0
+7589,Cientista de Dados,5,22,5,Doutorado,8.4,6.9,1
+2671,Cientista de Dados,19,42,4,Doutorado,9.9,3.8,0
+1758,Analista de Dados,11,39,6,Doutorado,9.2,1.1,0
+3088,Cientista de Dados,11,20,0,Pós-graduação,10.0,6.9,1
+7432,Cientista de Dados,16,12,4,Pós-graduação,5.8,8.2,0
+9728,Programador,12,20,1,Pós-graduação,5.7,6.6,0
+635,Cientista de Dados,1,10,9,Graduação,4.4,1.8,0
+7815,Programador,12,30,9,Mestrado,6.7,6.1,1
+7139,Cientista de Dados,15,6,1,Graduação,3.3,4.5,0
+9037,Programador,11,46,0,Doutorado,1.2,3.2,0
+2732,Programador,11,10,3,Doutorado,7.2,7.1,1
+9062,Cientista de Dados,8,27,7,Doutorado,4.0,9.8,0
+9485,Cientista de Dados,8,30,7,Mestrado,9.9,9.8,1
+5200,Cientista de Dados,3,10,6,Doutorado,9.3,7.9,1
+9189,Cientista de Dados,7,42,7,Doutorado,4.8,5.6,0
+3833,Programador,11,34,9,Pós-graduação,1.4,7.5,0
+8676,Cientista de Dados,5,21,7,Pós-graduação,2.7,6.3,0
+6216,Analista de Dados,9,18,0,Doutorado,2.8,9.0,0
+266,Cientista de Dados,15,15,8,Doutorado,7.7,2.4,0
+4397,Programador,5,5,4,Doutorado,8.6,7.4,1
+1248,Cientista de Dados,8,2,2,Pós-graduação,2.8,2.7,0
+9703,Programador,19,35,2,Graduação,9.6,9.7,1
+3721,Analista de Dados,2,42,4,Doutorado,4.2,4.5,0
+8174,Programador,19,6,2,Pós-graduação,6.2,1.4,0
+8285,Analista de Dados,18,18,6,Pós-graduação,9.4,8.8,1
+7954,Programador,6,35,9,Doutorado,4.7,2.9,0
+1933,Programador,13,18,4,Mestrado,6.9,7.7,1
+2590,Programador,13,12,6,Pós-graduação,8.8,9.5,1
+4354,Programador,19,47,2,Graduação,6.8,9.1,1
+731,Analista de Dados,10,17,6,Doutorado,1.8,8.9,0
+9361,Cientista de Dados,7,47,3,Graduação,8.7,9.0,1
+9833,Programador,3,11,7,Mestrado,7.4,9.3,1
+8427,Cientista de Dados,14,11,4,Mestrado,6.2,9.8,1
+47,Cientista de Dados,6,43,7,Graduação,4.8,9.9,0
+305,Programador,2,48,9,Doutorado,3.6,5.4,0
+9110,Programador,12,15,5,Graduação,8.9,6.4,1
+2561,Programador,2,17,5,Doutorado,8.0,3.7,0
+2467,Programador,16,36,5,Pós-graduação,7.2,8.3,1
+5731,Programador,4,38,9,Doutorado,5.3,9.7,0
+7258,Cientista de Dados,2,26,7,Pós-graduação,8.8,3.2,0
+574,Programador,11,37,0,Doutorado,2.6,8.4,0
+3133,Cientista de Dados,15,37,3,Pós-graduação,9.2,6.3,1
+6974,Programador,1,34,4,Pós-graduação,9.9,9.3,0
+5688,Cientista de Dados,3,49,1,Pós-graduação,8.6,7.0,1
+2829,Cientista de Dados,19,8,3,Mestrado,6.5,8.7,1
+7949,Programador,0,21,9,Mestrado,2.2,9.6,0
+3668,Programador,3,23,3,Graduação,5.1,6.4,0
+4400,Cientista de Dados,18,18,3,Graduação,5.7,6.7,0
+1653,Analista de Dados,10,38,8,Graduação,3.2,6.6,0
+7130,Analista de Dados,8,23,5,Mestrado,5.9,3.6,0
+5087,Analista de Dados,3,4,3,Pós-graduação,6.4,5.3,0
+6834,Programador,2,1,2,Doutorado,5.0,6.6,0
+8776,Analista de Dados,17,2,9,Graduação,2.3,7.6,0
+4520,Cientista de Dados,11,48,6,Doutorado,9.9,9.3,1
+8646,Analista de Dados,15,22,8,Pós-graduação,6.9,3.7,0
+7766,Cientista de Dados,14,19,8,Graduação,9.5,6.1,1
+6919,Analista de Dados,16,12,4,Pós-graduação,7.9,6.6,1
+2232,Programador,16,49,4,Mestrado,6.8,9.6,1
+8536,Cientista de Dados,15,15,6,Graduação,9.6,7.3,1
+9976,Programador,7,16,2,Doutorado,8.1,9.8,1
+567,Programador,14,27,2,Graduação,2.9,6.6,0
+749,Programador,13,14,8,Graduação,6.7,6.6,1
+6127,Programador,12,13,6,Mestrado,1.6,2.2,0
+9756,Programador,18,30,3,Doutorado,6.0,1.7,0
+9456,Cientista de Dados,13,22,5,Doutorado,3.7,9.2,0
+59,Analista de Dados,18,9,7,Doutorado,2.9,6.0,0
+6490,Cientista de Dados,7,16,6,Doutorado,6.4,6.9,1
+2107,Programador,15,41,8,Graduação,6.9,8.6,1
+3988,Cientista de Dados,8,47,6,Graduação,1.9,9.2,0
+1556,Cientista de Dados,15,37,0,Mestrado,3.3,2.0,0
+5453,Cientista de Dados,17,0,2,Mestrado,5.6,9.3,0
+7402,Cientista de Dados,18,47,4,Doutorado,2.8,6.0,0
+1521,Cientista de Dados,10,22,4,Pós-graduação,9.3,8.0,1
+2131,Programador,18,7,8,Graduação,1.6,2.0,0
+6915,Programador,8,35,7,Doutorado,4.8,5.5,0
+7917,Programador,15,7,3,Mestrado,8.9,9.5,1
+3122,Programador,10,24,1,Mestrado,2.5,2.7,0
+1646,Programador,14,41,9,Mestrado,3.9,6.2,0
+8389,Programador,16,26,5,Doutorado,8.5,6.6,1
+8270,Analista de Dados,12,27,6,Graduação,5.1,8.0,0
+5436,Cientista de Dados,4,36,9,Graduação,7.8,7.8,1
+2279,Analista de Dados,7,30,5,Doutorado,8.1,7.4,1
+1925,Analista de Dados,5,32,4,Pós-graduação,3.9,1.1,0
+4653,Programador,1,21,2,Pós-graduação,5.9,5.3,0
+3053,Programador,5,10,5,Pós-graduação,5.8,6.6,0
+8221,Analista de Dados,13,10,9,Doutorado,5.3,1.2,0
+4598,Analista de Dados,13,8,1,Doutorado,7.9,2.2,0
+4939,Analista de Dados,15,5,7,Doutorado,9.4,9.0,1
+6255,Analista de Dados,18,11,5,Graduação,8.1,7.9,1
+9544,Analista de Dados,14,29,3,Graduação,7.9,1.4,0
+201,Programador,16,14,1,Mestrado,6.2,6.3,1
+8822,Programador,7,30,4,Graduação,6.1,9.8,1
+8562,Cientista de Dados,1,14,9,Mestrado,4.2,1.5,0
+3119,Programador,6,31,4,Graduação,8.2,1.4,0
+1274,Programador,12,48,3,Pós-graduação,7.2,4.1,0
+7267,Analista de Dados,17,22,9,Graduação,7.1,6.7,1
+9862,Programador,2,19,2,Mestrado,4.9,2.2,0
+8524,Programador,17,7,6,Pós-graduação,9.9,7.6,1
+4933,Programador,14,41,2,Doutorado,5.9,6.1,0
+709,Programador,4,38,2,Mestrado,3.1,4.8,0
+577,Programador,17,11,5,Mestrado,8.5,8.7,1
+2712,Programador,7,29,9,Graduação,2.6,4.2,0
+9314,Cientista de Dados,15,30,7,Doutorado,8.8,8.8,1
+9738,Cientista de Dados,13,49,0,Graduação,5.8,2.7,0
+8806,Cientista de Dados,4,24,8,Pós-graduação,2.1,7.9,0
+8236,Programador,14,1,1,Doutorado,5.5,2.5,0
+2356,Cientista de Dados,16,48,5,Mestrado,6.0,9.6,1
+8528,Programador,13,17,8,Graduação,4.8,2.4,0
+5187,Cientista de Dados,19,0,0,Graduação,3.4,7.6,0
+900,Programador,12,35,6,Graduação,4.3,5.7,0
+2063,Cientista de Dados,12,28,2,Mestrado,5.6,2.2,0
+4804,Cientista de Dados,16,25,6,Doutorado,8.1,9.3,1
+9603,Cientista de Dados,19,30,7,Doutorado,9.9,7.2,1
+4695,Analista de Dados,19,38,7,Mestrado,2.9,8.9,0
+7627,Cientista de Dados,6,10,9,Graduação,8.6,5.4,0
+2183,Analista de Dados,18,21,5,Pós-graduação,7.3,4.0,0
+9573,Analista de Dados,2,49,0,Mestrado,8.7,2.0,0
+733,Cientista de Dados,8,39,8,Mestrado,4.4,3.6,0
+1087,Programador,9,13,0,Graduação,8.7,7.5,1
+7057,Cientista de Dados,11,13,9,Pós-graduação,1.1,3.1,0
+249,Cientista de Dados,10,11,6,Doutorado,8.1,3.6,0
+8915,Programador,16,10,6,Mestrado,6.3,7.9,1
+3615,Analista de Dados,11,30,1,Doutorado,9.3,9.6,1
+8944,Analista de Dados,2,43,0,Pós-graduação,4.4,5.5,0
+8560,Analista de Dados,7,22,5,Doutorado,7.5,9.2,1
+2053,Analista de Dados,0,26,3,Mestrado,8.6,6.8,0
+7710,Programador,13,34,4,Graduação,8.8,3.7,0
+1011,Cientista de Dados,0,41,3,Graduação,6.5,9.0,0
+8016,Cientista de Dados,16,30,7,Doutorado,9.5,8.7,1
+9052,Programador,15,9,8,Mestrado,8.7,9.7,1
+3550,Analista de Dados,10,19,7,Mestrado,2.6,1.1,0
+3560,Programador,1,12,6,Doutorado,3.0,6.7,0
+8542,Analista de Dados,8,31,9,Mestrado,9.1,7.8,1
+2785,Programador,0,10,9,Mestrado,1.4,7.2,0
+3601,Cientista de Dados,17,17,0,Mestrado,9.5,8.3,1
+9737,Analista de Dados,9,5,7,Doutorado,9.9,7.3,1
+3274,Analista de Dados,3,31,4,Pós-graduação,8.6,6.3,1
+1692,Cientista de Dados,3,33,3,Graduação,7.6,6.1,1
+7315,Programador,4,10,0,Pós-graduação,8.2,2.3,0
+6251,Cientista de Dados,8,6,9,Pós-graduação,6.0,4.8,0
+2770,Cientista de Dados,11,41,1,Graduação,9.8,6.8,1
+6151,Cientista de Dados,16,5,7,Mestrado,1.4,9.3,0
+4632,Programador,13,6,6,Graduação,3.7,6.0,0
+7491,Cientista de Dados,13,7,6,Doutorado,8.3,8.2,1
+7167,Analista de Dados,11,7,6,Doutorado,3.6,4.0,0
+570,Programador,8,45,9,Doutorado,8.9,6.3,1
+2818,Cientista de Dados,13,21,6,Doutorado,7.2,9.3,1
+1392,Programador,5,46,6,Doutorado,7.7,9.3,1
+2928,Analista de Dados,13,28,1,Pós-graduação,6.9,6.8,1
+2429,Programador,0,10,4,Mestrado,7.1,7.5,0
+9256,Analista de Dados,16,36,9,Graduação,5.1,2.6,0
+3871,Programador,16,30,8,Graduação,6.2,9.7,1
+1575,Programador,19,36,0,Graduação,7.5,7.9,1
+2582,Analista de Dados,12,29,3,Graduação,3.1,2.5,0
+7664,Programador,19,11,2,Pós-graduação,8.3,7.9,1
+7134,Cientista de Dados,4,32,2,Pós-graduação,9.5,9.4,1
+5658,Programador,0,3,5,Doutorado,1.7,1.2,0
+2845,Programador,12,38,5,Graduação,7.7,7.5,1
+9586,Programador,7,45,1,Doutorado,6.2,6.0,1
+3104,Programador,5,9,5,Pós-graduação,9.6,7.8,1
+6975,Analista de Dados,7,38,6,Graduação,6.5,6.5,1
+5094,Analista de Dados,17,37,2,Doutorado,9.1,8.3,1
+7422,Programador,16,20,3,Graduação,6.6,7.9,1
+3132,Analista de Dados,12,16,8,Pós-graduação,9.6,6.6,1
+8127,Programador,2,3,9,Mestrado,2.3,1.4,0
+9426,Analista de Dados,6,30,8,Mestrado,7.8,9.5,1
+7688,Programador,9,3,9,Doutorado,4.8,1.8,0
+3319,Analista de Dados,17,12,7,Graduação,9.4,6.0,1
+7880,Analista de Dados,0,33,7,Doutorado,2.4,4.9,0
+5909,Programador,13,27,5,Graduação,3.7,5.2,0
+2995,Programador,10,14,6,Graduação,7.8,2.1,0
+7555,Programador,9,12,1,Graduação,8.3,3.2,0
+3544,Programador,17,11,0,Doutorado,3.3,4.3,0
+2661,Programador,0,25,8,Graduação,9.1,5.7,0
+1903,Programador,18,2,5,Doutorado,5.7,2.5,0
+9878,Analista de Dados,16,24,8,Doutorado,7.0,1.1,0
+7200,Analista de Dados,15,38,7,Doutorado,8.8,6.9,1
+9120,Programador,6,17,6,Pós-graduação,9.5,8.2,1
+2784,Analista de Dados,13,39,9,Pós-graduação,8.8,10.0,1
+4000,Cientista de Dados,4,14,8,Pós-graduação,1.5,5.8,0
+3286,Cientista de Dados,4,24,1,Doutorado,9.3,7.6,1
+4082,Programador,8,35,3,Pós-graduação,9.3,9.6,1
+6105,Programador,3,44,4,Doutorado,4.7,1.6,0
+6194,Analista de Dados,2,45,8,Mestrado,1.8,5.3,0
+8546,Analista de Dados,17,27,3,Doutorado,6.9,7.7,1
+6948,Cientista de Dados,13,29,8,Graduação,4.9,9.4,0
+7437,Cientista de Dados,8,49,7,Mestrado,7.7,7.7,1
+389,Programador,16,32,6,Doutorado,8.1,7.8,1
+283,Analista de Dados,12,44,1,Graduação,4.0,5.1,0
+3340,Cientista de Dados,5,39,9,Graduação,5.6,4.6,0
+6242,Cientista de Dados,15,13,5,Doutorado,3.5,2.4,0
+8567,Analista de Dados,11,28,2,Pós-graduação,7.1,6.8,1
+9901,Programador,3,48,2,Mestrado,6.2,6.6,1
+1595,Analista de Dados,0,18,7,Mestrado,7.7,4.7,0
+4215,Cientista de Dados,12,42,0,Graduação,8.5,6.5,1
+1812,Programador,0,21,1,Mestrado,5.9,7.2,0
+7970,Cientista de Dados,0,18,4,Graduação,7.6,4.4,0
+2969,Analista de Dados,15,23,0,Pós-graduação,2.0,3.1,0
+6699,Analista de Dados,5,27,4,Mestrado,8.2,5.8,0
+5749,Cientista de Dados,8,3,9,Doutorado,1.3,3.8,0
+1739,Analista de Dados,17,13,4,Mestrado,9.0,9.5,1
+6633,Analista de Dados,18,35,8,Mestrado,3.8,4.0,0
+7056,Programador,5,18,5,Doutorado,9.0,3.3,0
+8887,Programador,0,42,1,Graduação,4.0,2.6,0
+4287,Analista de Dados,15,33,9,Doutorado,4.9,4.6,0
+1093,Cientista de Dados,18,48,2,Pós-graduação,2.9,8.3,0
+7559,Cientista de Dados,18,30,1,Mestrado,8.2,6.9,1
+12,Analista de Dados,5,22,0,Mestrado,4.2,6.0,0
+9022,Programador,12,11,4,Graduação,6.0,6.7,1
+3208,Programador,15,39,5,Graduação,9.0,9.0,1
+2527,Cientista de Dados,6,21,7,Doutorado,6.9,8.7,1
+4228,Cientista de Dados,6,9,6,Graduação,8.3,6.7,1
+5369,Analista de Dados,3,23,2,Doutorado,2.2,6.5,0
+3231,Analista de Dados,19,34,5,Doutorado,7.4,6.0,1
+5915,Analista de Dados,11,41,3,Mestrado,5.1,3.2,0
+1962,Analista de Dados,19,11,2,Pós-graduação,9.2,7.0,1
+2050,Cientista de Dados,14,9,2,Doutorado,7.1,7.9,1
+1915,Analista de Dados,16,43,5,Doutorado,6.0,7.4,1
+2217,Programador,8,46,8,Mestrado,9.5,6.3,1
+6354,Cientista de Dados,16,42,7,Pós-graduação,6.4,9.7,1
+2108,Programador,10,33,5,Graduação,9.8,9.7,1
+1531,Analista de Dados,8,15,9,Mestrado,8.5,8.0,1
+1711,Cientista de Dados,11,23,5,Pós-graduação,2.2,5.0,0
+8555,Analista de Dados,7,21,9,Pós-graduação,8.8,9.7,1
+5560,Programador,18,48,8,Pós-graduação,4.9,1.9,0
+1973,Cientista de Dados,12,28,4,Doutorado,6.3,10.0,1
+9906,Cientista de Dados,3,43,0,Graduação,7.2,4.8,0
+9027,Programador,5,21,6,Doutorado,7.5,7.8,1
+4610,Cientista de Dados,13,9,3,Doutorado,8.2,7.5,1
+761,Programador,10,22,8,Mestrado,8.9,7.8,1
+2903,Cientista de Dados,17,5,5,Graduação,10.0,6.9,1
+2317,Programador,9,10,0,Pós-graduação,7.3,6.8,1
+2807,Cientista de Dados,11,38,6,Doutorado,9.0,6.7,1
+6803,Cientista de Dados,0,20,6,Pós-graduação,7.3,2.5,0
+7120,Programador,7,21,2,Mestrado,8.0,1.6,0
+3618,Analista de Dados,3,8,6,Doutorado,8.2,6.2,1
+5103,Programador,19,34,0,Mestrado,1.0,4.5,0
+3791,Cientista de Dados,14,0,2,Graduação,5.1,6.2,0
+9556,Cientista de Dados,1,41,3,Pós-graduação,5.4,3.8,0
+4480,Analista de Dados,18,7,5,Doutorado,4.3,9.7,0
+4440,Programador,7,10,6,Mestrado,6.0,7.0,1
+3459,Analista de Dados,19,8,6,Pós-graduação,7.2,2.1,0
+5017,Cientista de Dados,6,32,9,Mestrado,7.1,7.2,1
+3666,Analista de Dados,14,1,4,Pós-graduação,3.6,6.0,0
+6169,Cientista de Dados,7,35,0,Graduação,6.8,6.7,1
+2544,Cientista de Dados,2,14,4,Doutorado,6.3,8.7,0
+7914,Analista de Dados,19,31,2,Graduação,7.2,8.4,1
+7070,Programador,4,13,0,Doutorado,6.6,7.4,1
+8978,Analista de Dados,0,3,9,Mestrado,6.5,5.4,0
+3631,Cientista de Dados,14,22,0,Mestrado,6.4,8.3,1
+5088,Programador,6,11,6,Mestrado,3.3,7.7,0
+8080,Cientista de Dados,5,30,8,Pós-graduação,7.1,6.4,1
+1720,Programador,19,9,2,Pós-graduação,7.7,8.3,1
+3598,Programador,14,47,5,Graduação,9.6,7.8,1
+5645,Programador,14,49,6,Doutorado,2.5,7.1,0
+6175,Programador,19,12,5,Doutorado,7.5,6.2,1
+8086,Programador,6,28,5,Graduação,1.7,3.0,0
+4372,Programador,19,9,7,Doutorado,6.0,9.2,1
+7854,Analista de Dados,14,42,0,Mestrado,6.4,9.2,1
+3490,Cientista de Dados,7,32,0,Pós-graduação,7.3,5.5,0
+2702,Programador,12,0,4,Graduação,2.2,5.3,0
+9051,Analista de Dados,16,29,6,Pós-graduação,4.8,3.5,0
+1249,Programador,19,14,4,Graduação,9.1,6.8,1
+4462,Cientista de Dados,12,0,5,Doutorado,2.7,2.3,0
+9408,Programador,4,12,8,Doutorado,2.4,2.8,0
+6189,Cientista de Dados,12,38,1,Doutorado,8.6,6.7,1
+9044,Analista de Dados,16,4,7,Graduação,4.2,9.5,0
+502,Cientista de Dados,12,20,5,Graduação,9.2,8.7,1
+3005,Analista de Dados,12,24,6,Pós-graduação,7.7,9.6,1
+4153,Cientista de Dados,15,11,9,Mestrado,6.2,4.3,0
+3661,Analista de Dados,6,14,4,Graduação,10.0,8.5,1
+8664,Programador,1,44,2,Pós-graduação,5.0,7.5,0
+6537,Programador,1,17,3,Pós-graduação,4.0,9.4,0
+1697,Analista de Dados,10,23,3,Pós-graduação,3.3,8.6,0
+9499,Programador,14,37,3,Pós-graduação,8.2,8.0,1
+2035,Cientista de Dados,19,35,1,Mestrado,6.1,8.5,1
+1515,Programador,9,32,1,Graduação,4.5,3.5,0
+1328,Analista de Dados,6,12,9,Pós-graduação,5.4,4.4,0
+4297,Analista de Dados,16,17,8,Mestrado,6.4,7.2,1
+1251,Cientista de Dados,17,5,8,Pós-graduação,8.1,9.4,1
+3224,Analista de Dados,13,33,9,Pós-graduação,6.2,7.1,1
+61,Cientista de Dados,9,32,3,Mestrado,2.3,3.7,0
+1913,Cientista de Dados,9,45,7,Graduação,9.1,9.5,1
+9430,Cientista de Dados,3,45,8,Doutorado,9.0,8.7,1
+947,Programador,11,34,0,Mestrado,9.8,8.1,1
+6979,Programador,3,7,3,Doutorado,2.0,4.2,0
+5754,Cientista de Dados,7,30,1,Mestrado,7.0,7.8,1
+2601,Cientista de Dados,11,39,9,Graduação,6.8,7.3,1
+5033,Cientista de Dados,7,37,6,Mestrado,7.6,4.7,0
+8986,Programador,18,19,0,Doutorado,7.9,6.3,1
+7239,Analista de Dados,11,30,0,Graduação,8.7,5.1,0
+3777,Cientista de Dados,2,7,9,Doutorado,8.5,1.4,0
+2993,Cientista de Dados,16,17,2,Doutorado,7.5,7.0,1
+9665,Programador,4,36,0,Graduação,6.9,5.3,0
+9188,Cientista de Dados,17,45,5,Mestrado,6.3,9.8,1
+6126,Cientista de Dados,8,2,0,Pós-graduação,5.7,4.0,0
+426,Analista de Dados,19,0,4,Mestrado,9.3,9.5,0
+1085,Cientista de Dados,11,24,0,Mestrado,5.6,2.7,0
+4481,Analista de Dados,17,22,8,Doutorado,7.1,6.9,1
+767,Analista de Dados,3,33,8,Pós-graduação,8.3,9.9,1
+3787,Cientista de Dados,18,31,1,Pós-graduação,7.8,9.1,1
+8503,Cientista de Dados,18,39,6,Graduação,9.5,2.7,0
+4672,Analista de Dados,9,2,1,Mestrado,6.3,8.2,0
+457,Cientista de Dados,10,7,5,Mestrado,9.1,6.0,1
+750,Cientista de Dados,15,38,0,Mestrado,9.0,9.2,1
+8987,Programador,2,42,1,Graduação,1.3,6.0,0
+9888,Cientista de Dados,4,28,5,Doutorado,7.3,7.0,1
+1477,Programador,10,45,8,Pós-graduação,8.1,9.8,1
+3811,Analista de Dados,17,38,3,Doutorado,8.1,8.5,1
+383,Programador,0,18,4,Mestrado,8.8,3.4,0
+1809,Cientista de Dados,2,35,5,Pós-graduação,7.8,4.9,0
+7721,Analista de Dados,15,25,2,Graduação,2.1,8.5,0
+8763,Analista de Dados,9,33,8,Mestrado,9.3,3.2,0
+3750,Programador,18,21,2,Doutorado,1.2,6.8,0
+5340,Cientista de Dados,17,13,6,Mestrado,1.2,8.8,0
+192,Cientista de Dados,10,18,4,Pós-graduação,1.2,4.6,0
+8551,Programador,16,35,9,Pós-graduação,9.8,6.3,1
+4620,Cientista de Dados,5,14,1,Pós-graduação,6.8,8.7,1
+4130,Cientista de Dados,13,38,5,Graduação,6.6,6.8,1
+7034,Analista de Dados,11,12,8,Graduação,5.0,3.3,0
+5060,Programador,15,6,8,Mestrado,1.8,4.5,0
+8487,Analista de Dados,9,31,4,Doutorado,7.6,1.6,0
+8045,Cientista de Dados,0,3,6,Pós-graduação,1.2,8.7,0
+377,Programador,12,20,8,Graduação,7.1,9.0,1
+3989,Cientista de Dados,11,12,9,Mestrado,8.7,6.9,1
+4109,Analista de Dados,14,31,3,Pós-graduação,7.5,3.5,0
+3217,Cientista de Dados,15,10,3,Doutorado,6.7,9.9,1
+7150,Programador,5,6,0,Graduação,6.4,3.9,0
+6273,Programador,1,6,1,Doutorado,3.7,2.5,0
+2923,Analista de Dados,12,23,8,Graduação,3.4,3.8,0
+6393,Programador,7,45,1,Mestrado,9.4,7.0,1
+7889,Programador,5,33,0,Mestrado,6.1,6.6,1
+1363,Analista de Dados,8,30,9,Pós-graduação,8.7,7.2,1
+7595,Analista de Dados,9,25,0,Doutorado,6.6,8.4,1
+6754,Analista de Dados,10,43,5,Mestrado,9.9,4.2,0
+9099,Analista de Dados,1,19,2,Graduação,2.2,1.9,0
+8037,Programador,0,33,6,Pós-graduação,3.4,5.1,0
+7354,Programador,19,6,8,Doutorado,6.0,2.6,0
+573,Analista de Dados,16,26,3,Mestrado,7.5,7.4,1
+3230,Cientista de Dados,18,47,2,Graduação,7.6,9.9,1
+2316,Programador,6,30,2,Graduação,7.7,8.2,1
+9502,Programador,5,42,9,Mestrado,9.6,9.4,1
+8801,Analista de Dados,13,19,1,Mestrado,1.0,6.2,0
+5451,Cientista de Dados,10,17,7,Graduação,2.9,6.5,0
+1465,Programador,6,16,4,Mestrado,7.9,9.5,1
+9466,Cientista de Dados,14,41,2,Mestrado,6.9,8.6,1
+3047,Programador,14,41,1,Pós-graduação,4.2,8.0,0
+7059,Programador,19,49,7,Mestrado,6.9,9.9,1
+3388,Programador,18,47,8,Pós-graduação,1.4,3.2,0
+3211,Analista de Dados,10,3,0,Mestrado,1.8,8.7,0
+128,Programador,14,10,9,Mestrado,7.2,2.8,0
+5470,Programador,0,40,7,Pós-graduação,2.1,5.6,0
+4367,Analista de Dados,15,31,8,Pós-graduação,9.9,5.0,0
+4395,Analista de Dados,10,27,1,Pós-graduação,7.3,6.3,1
+3373,Programador,9,16,2,Graduação,7.3,4.8,0
+9043,Cientista de Dados,11,28,8,Graduação,2.5,8.9,0
+6508,Cientista de Dados,19,38,7,Mestrado,7.7,6.3,1
+2926,Programador,5,16,2,Mestrado,7.8,7.2,1
+8608,Cientista de Dados,1,7,9,Doutorado,3.5,4.4,0
+4005,Programador,19,7,8,Pós-graduação,6.7,7.5,1
+4913,Analista de Dados,5,18,3,Pós-graduação,7.6,2.0,0
+6011,Cientista de Dados,12,49,4,Pós-graduação,7.5,8.8,1
+2674,Programador,8,20,9,Doutorado,3.8,3.6,0
+9516,Analista de Dados,14,4,5,Graduação,8.8,4.7,0
+3671,Analista de Dados,6,43,7,Mestrado,7.2,6.0,1
+1870,Programador,18,32,9,Pós-graduação,2.5,7.9,0
+9121,Cientista de Dados,7,15,3,Graduação,8.8,7.8,1
+5537,Analista de Dados,11,12,6,Graduação,7.6,9.0,1
+4436,Programador,15,47,1,Graduação,6.2,6.4,1
+3370,Programador,15,42,4,Pós-graduação,6.1,9.6,1
+4996,Programador,9,4,3,Mestrado,6.3,3.9,0
+2939,Cientista de Dados,3,19,8,Pós-graduação,9.0,7.8,1
+7318,Programador,13,26,2,Mestrado,7.7,6.9,1
+6107,Cientista de Dados,17,27,6,Pós-graduação,9.7,7.3,1
+5862,Analista de Dados,11,16,4,Graduação,9.1,9.9,1
+3839,Cientista de Dados,18,8,0,Graduação,7.6,9.6,1
+5827,Programador,17,15,2,Doutorado,7.8,7.3,1
+5992,Programador,16,44,2,Graduação,8.9,8.8,1
+5400,Programador,4,13,2,Graduação,6.9,7.7,1
+1519,Cientista de Dados,8,16,6,Graduação,7.4,6.3,1
+9025,Cientista de Dados,12,42,5,Graduação,9.3,7.8,1
+3613,Programador,7,35,1,Pós-graduação,8.6,7.9,1
+2815,Analista de Dados,5,24,2,Pós-graduação,1.8,1.5,0
+8844,Programador,13,22,0,Pós-graduação,6.7,9.2,1
+6511,Programador,16,10,9,Doutorado,7.7,7.2,1
+5442,Programador,9,39,1,Graduação,8.4,4.8,0
+814,Analista de Dados,9,43,8,Pós-graduação,9.2,7.9,1
+3160,Programador,14,36,3,Graduação,9.9,4.3,0
+90,Programador,14,9,5,Doutorado,7.6,8.4,1
+8146,Analista de Dados,10,5,9,Pós-graduação,5.7,4.7,0
+9808,Cientista de Dados,14,31,7,Graduação,7.6,6.6,1
+5148,Programador,12,6,4,Mestrado,1.1,5.5,0
+1314,Analista de Dados,18,8,6,Pós-graduação,9.5,8.1,1
+4955,Programador,15,19,9,Mestrado,9.3,8.5,1
+8554,Analista de Dados,17,24,1,Mestrado,6.3,8.5,1
+5896,Programador,15,25,7,Mestrado,4.2,2.6,0
+2477,Cientista de Dados,11,10,1,Pós-graduação,9.7,1.9,0
+3186,Analista de Dados,5,33,4,Doutorado,2.8,4.5,0
+5831,Analista de Dados,14,8,4,Pós-graduação,1.2,3.8,0
+7207,Programador,12,39,4,Doutorado,6.5,7.9,1
+3765,Programador,13,6,9,Doutorado,6.7,6.6,1
+7407,Cientista de Dados,15,37,3,Graduação,9.1,8.9,1
+5036,Cientista de Dados,17,46,2,Graduação,6.2,8.8,1
+2002,Programador,15,30,2,Graduação,8.0,8.7,1
+1656,Cientista de Dados,19,24,5,Pós-graduação,8.3,9.6,1
+7662,Cientista de Dados,10,10,5,Pós-graduação,9.5,9.4,1
+6598,Cientista de Dados,6,47,5,Graduação,6.1,6.7,1
+5720,Cientista de Dados,18,2,6,Doutorado,8.7,6.4,0
+443,Cientista de Dados,2,28,8,Pós-graduação,8.6,6.5,0
+841,Cientista de Dados,0,16,3,Pós-graduação,9.9,2.3,0
+4806,Cientista de Dados,18,24,0,Mestrado,1.2,5.8,0
+5057,Programador,1,16,2,Mestrado,2.8,9.7,0
+4102,Cientista de Dados,14,24,0,Mestrado,7.3,6.0,1
+4553,Cientista de Dados,5,18,8,Graduação,9.5,6.7,1
+1638,Cientista de Dados,13,19,5,Pós-graduação,7.7,7.9,1
+3442,Analista de Dados,17,15,5,Graduação,3.1,9.6,0
+8152,Programador,0,27,9,Mestrado,2.4,6.3,0
+1827,Cientista de Dados,15,8,3,Graduação,1.1,8.7,0
+6089,Analista de Dados,17,19,0,Doutorado,3.3,7.4,0
+5475,Cientista de Dados,0,43,4,Pós-graduação,5.7,7.9,0
+7994,Programador,7,44,9,Doutorado,7.6,7.6,1
+7199,Cientista de Dados,18,34,5,Mestrado,6.2,9.6,1
+2003,Programador,8,29,7,Mestrado,7.4,9.9,1
+4771,Analista de Dados,13,19,3,Doutorado,2.6,6.9,0
+7871,Cientista de Dados,6,30,3,Pós-graduação,6.6,6.5,1
+522,Programador,4,22,2,Pós-graduação,7.9,9.6,1
+4516,Cientista de Dados,10,4,9,Graduação,1.2,3.3,0
+286,Analista de Dados,15,23,8,Pós-graduação,8.3,9.3,1
+1682,Cientista de Dados,11,41,6,Doutorado,4.7,9.0,0
+463,Programador,2,9,4,Pós-graduação,4.5,3.2,0
+6738,Programador,8,37,9,Mestrado,1.8,5.0,0
+4725,Programador,13,26,8,Mestrado,9.2,8.8,1
+9865,Programador,19,6,5,Pós-graduação,8.4,7.3,1
+5886,Cientista de Dados,3,25,6,Mestrado,7.9,6.4,1
+5097,Analista de Dados,10,26,4,Doutorado,6.3,9.5,1
+3884,Cientista de Dados,19,19,9,Graduação,9.0,1.4,0
+9216,Cientista de Dados,9,36,4,Mestrado,8.1,9.9,1
+8112,Analista de Dados,15,34,1,Doutorado,9.9,3.6,0
+301,Analista de Dados,0,3,4,Pós-graduação,3.8,3.2,0
+7991,Analista de Dados,14,30,7,Graduação,7.4,7.8,1
+9656,Programador,16,26,9,Doutorado,8.8,6.0,1
+8367,Analista de Dados,19,25,8,Mestrado,9.3,3.9,0
+1207,Cientista de Dados,19,32,2,Pós-graduação,7.1,3.4,0
+2658,Analista de Dados,19,25,9,Graduação,1.6,2.2,0
+5192,Programador,4,19,8,Doutorado,6.0,6.7,1
+5040,Cientista de Dados,13,17,3,Doutorado,8.0,7.1,1
+6644,Analista de Dados,19,39,8,Doutorado,8.1,9.7,1
+1021,Analista de Dados,0,27,6,Doutorado,2.4,8.3,0
+5725,Cientista de Dados,0,8,2,Mestrado,3.3,4.6,0
+1275,Cientista de Dados,12,2,9,Graduação,8.1,8.9,0
+3078,Cientista de Dados,5,20,9,Mestrado,7.6,8.2,1
+9606,Programador,3,35,0,Doutorado,9.6,9.1,1
+408,Cientista de Dados,18,43,6,Mestrado,4.1,8.2,0
+8569,Analista de Dados,17,28,1,Doutorado,9.4,8.6,1
+3059,Cientista de Dados,16,47,7,Doutorado,6.1,7.4,1
+6438,Cientista de Dados,6,17,6,Pós-graduação,9.4,9.0,1
+1373,Cientista de Dados,18,16,5,Mestrado,7.5,8.1,1
+1033,Programador,15,10,6,Doutorado,2.2,2.3,0
+6944,Cientista de Dados,18,29,5,Graduação,7.5,9.3,1
+8838,Cientista de Dados,3,45,9,Mestrado,7.1,1.0,0
+9823,Analista de Dados,13,6,5,Doutorado,1.3,8.1,0
+2771,Programador,5,30,5,Pós-graduação,7.0,6.6,1
+1847,Analista de Dados,18,16,6,Pós-graduação,9.4,6.0,1
+1491,Analista de Dados,8,2,6,Graduação,9.0,1.1,0
+5592,Cientista de Dados,12,30,3,Graduação,8.5,8.9,1
+5542,Analista de Dados,8,28,4,Graduação,6.9,6.5,1
+4963,Programador,14,35,1,Pós-graduação,9.6,6.6,1
+1144,Cientista de Dados,0,37,6,Mestrado,9.7,6.1,0
+805,Cientista de Dados,7,12,7,Doutorado,7.6,6.6,1
+9943,Cientista de Dados,10,5,9,Doutorado,9.1,7.3,1
+6604,Analista de Dados,7,45,4,Mestrado,3.3,7.3,0
+6382,Cientista de Dados,14,45,3,Mestrado,7.7,8.2,1
+5247,Analista de Dados,13,26,1,Graduação,9.0,6.1,1
+2718,Analista de Dados,3,41,8,Doutorado,4.8,8.8,0
+8621,Analista de Dados,16,40,2,Doutorado,1.6,6.8,0
+9923,Programador,11,25,9,Pós-graduação,9.0,7.0,1
+3763,Analista de Dados,16,9,5,Pós-graduação,9.9,8.8,1
+5314,Analista de Dados,18,28,2,Mestrado,3.3,5.8,0
+7822,Analista de Dados,18,30,2,Doutorado,8.5,9.1,1
+7932,Programador,6,8,6,Doutorado,5.3,1.6,0
+8345,Cientista de Dados,8,38,6,Graduação,4.0,7.7,0
+2042,Cientista de Dados,7,23,1,Mestrado,3.9,7.9,0
+111,Analista de Dados,4,6,6,Doutorado,7.4,8.7,1
+4507,Programador,10,45,8,Mestrado,9.6,8.6,1
+511,Analista de Dados,11,13,4,Mestrado,2.8,3.9,0
+5809,Analista de Dados,3,33,7,Pós-graduação,2.0,3.9,0
+8742,Cientista de Dados,18,33,5,Pós-graduação,7.9,6.9,1
+7855,Cientista de Dados,16,4,6,Mestrado,4.8,5.4,0
+3794,Analista de Dados,19,43,8,Doutorado,6.9,8.1,1
+6483,Analista de Dados,15,21,5,Pós-graduação,4.9,4.7,0
+7464,Cientista de Dados,8,42,7,Graduação,8.1,9.6,1
+3185,Cientista de Dados,18,31,2,Pós-graduação,5.2,8.0,0
+8581,Analista de Dados,9,5,1,Doutorado,2.2,2.9,0
+7201,Analista de Dados,10,43,3,Graduação,8.0,8.0,1
+2348,Programador,14,35,4,Pós-graduação,7.1,7.7,1
+4113,Analista de Dados,10,7,4,Doutorado,2.3,6.1,0
+9366,Cientista de Dados,5,5,1,Doutorado,3.5,1.9,0
+7050,Programador,18,25,1,Pós-graduação,1.9,1.6,0
+8756,Analista de Dados,6,48,8,Mestrado,7.5,6.6,1
+9746,Analista de Dados,1,0,2,Doutorado,8.1,6.4,0
+3096,Cientista de Dados,10,15,4,Pós-graduação,8.8,6.8,1
+3436,Analista de Dados,16,7,8,Pós-graduação,4.9,4.7,0
+476,Programador,12,2,8,Doutorado,3.6,1.9,0
+8416,Programador,11,16,9,Doutorado,2.0,6.3,0
+8378,Analista de Dados,3,36,9,Pós-graduação,9.6,6.8,1
+727,Programador,14,47,3,Doutorado,9.9,9.5,1
+9096,Programador,13,7,9,Doutorado,9.0,8.6,1
+5364,Analista de Dados,6,43,7,Pós-graduação,7.9,6.8,1
+9161,Cientista de Dados,13,48,2,Pós-graduação,3.1,1.9,0
+804,Cientista de Dados,15,6,6,Mestrado,8.4,9.4,1
+3616,Cientista de Dados,11,33,4,Pós-graduação,8.3,6.6,1
+4673,Programador,18,48,6,Graduação,9.7,7.8,1
+951,Analista de Dados,3,39,5,Mestrado,9.9,9.7,1
+6983,Programador,8,0,3,Graduação,9.1,3.2,0
+1039,Analista de Dados,9,8,3,Pós-graduação,3.1,7.9,0
+6387,Programador,14,43,9,Graduação,7.5,8.6,1
+6259,Programador,18,46,7,Graduação,3.6,5.4,0
+5429,Analista de Dados,3,43,3,Mestrado,8.0,7.4,1
+6494,Programador,19,38,2,Mestrado,1.1,9.2,0
+2145,Cientista de Dados,17,31,0,Mestrado,1.3,1.4,0
+5530,Programador,19,37,1,Mestrado,9.6,7.8,1
+6630,Analista de Dados,17,29,2,Doutorado,3.5,8.5,0
+4248,Analista de Dados,7,49,2,Graduação,8.6,7.6,1
+290,Analista de Dados,8,22,2,Mestrado,8.7,7.9,1
+396,Cientista de Dados,10,25,0,Pós-graduação,7.2,6.6,1
+875,Analista de Dados,5,24,8,Mestrado,7.6,7.0,1
+7539,Cientista de Dados,10,17,6,Doutorado,8.8,2.5,0
+9921,Analista de Dados,1,19,8,Mestrado,6.4,6.9,0
+9344,Programador,4,24,5,Pós-graduação,3.0,8.3,0
+5056,Cientista de Dados,13,15,3,Mestrado,1.8,6.4,0
+4454,Programador,4,7,8,Mestrado,1.7,2.3,0
+4015,Analista de Dados,7,15,6,Mestrado,6.4,4.2,0
+6678,Analista de Dados,18,6,0,Doutorado,9.9,2.0,0
+4360,Cientista de Dados,6,34,2,Pós-graduação,8.1,8.0,1
+2082,Cientista de Dados,4,49,7,Pós-graduação,9.9,4.2,0
+1691,Programador,18,20,7,Pós-graduação,7.4,8.0,1
+836,Analista de Dados,17,11,9,Pós-graduação,6.6,8.2,1
+4611,Programador,1,11,3,Graduação,3.4,3.3,0
+3473,Programador,0,29,3,Mestrado,7.3,10.0,0
+7687,Cientista de Dados,5,16,3,Graduação,9.5,7.0,1
+9978,Analista de Dados,13,31,7,Mestrado,7.2,9.2,1
+9030,Programador,19,13,8,Graduação,6.2,6.9,1
+3243,Programador,18,35,2,Pós-graduação,8.1,6.1,1
+5143,Cientista de Dados,5,24,1,Mestrado,3.1,1.6,0
+2172,Programador,13,2,8,Mestrado,9.3,3.5,0
+2523,Cientista de Dados,17,2,5,Mestrado,4.8,3.0,0
+4665,Programador,6,11,4,Graduação,9.2,2.5,0
+4861,Analista de Dados,13,37,3,Pós-graduação,7.6,3.4,0
+3481,Cientista de Dados,16,48,9,Graduação,6.5,1.6,0
+3222,Programador,13,45,7,Doutorado,6.9,9.4,1
+4762,Programador,14,17,7,Doutorado,4.1,4.1,0
+1661,Programador,18,47,0,Doutorado,8.6,6.2,1
+7081,Programador,18,18,9,Graduação,1.7,5.5,0
+3129,Analista de Dados,18,45,4,Doutorado,7.8,7.7,1
+1351,Programador,1,39,9,Graduação,2.5,3.3,0
+9664,Cientista de Dados,10,30,5,Pós-graduação,2.0,6.1,0
+2273,Cientista de Dados,13,49,9,Pós-graduação,3.4,1.8,0
+8920,Cientista de Dados,9,37,9,Pós-graduação,3.8,2.0,0
+839,Cientista de Dados,9,13,6,Pós-graduação,6.0,7.1,1
+1965,Programador,4,11,0,Mestrado,1.9,2.9,0
+962,Cientista de Dados,10,44,5,Graduação,8.4,8.4,1
+1778,Programador,19,40,8,Pós-graduação,9.9,1.7,0
+155,Programador,11,36,3,Doutorado,5.4,8.2,0
+5182,Analista de Dados,11,25,0,Mestrado,9.9,9.0,1
+4826,Programador,14,26,9,Doutorado,6.5,7.0,1
+5458,Programador,9,28,5,Graduação,5.6,2.3,0
+3467,Programador,3,14,2,Doutorado,9.8,9.1,1
+9057,Programador,2,15,0,Doutorado,7.0,1.8,0
+1417,Cientista de Dados,12,14,1,Doutorado,9.4,8.9,1
+1659,Programador,11,9,8,Mestrado,5.2,3.9,0
+1914,Analista de Dados,5,12,8,Pós-graduação,9.9,6.6,1
+1940,Programador,6,18,6,Doutorado,8.9,9.7,1
+24,Cientista de Dados,19,7,3,Mestrado,8.1,9.6,1
+4881,Cientista de Dados,12,49,9,Pós-graduação,8.6,7.8,1
+5654,Analista de Dados,18,29,3,Doutorado,9.7,9.4,1
+8178,Programador,11,44,4,Mestrado,7.0,7.2,1
+9354,Cientista de Dados,12,25,5,Pós-graduação,6.6,9.6,1
+4527,Cientista de Dados,4,17,8,Graduação,7.2,7.0,1
+8453,Cientista de Dados,12,39,0,Doutorado,9.9,6.4,1
+1362,Cientista de Dados,7,8,4,Mestrado,8.6,9.6,1
+3899,Programador,16,39,4,Doutorado,6.7,9.9,1
+4201,Analista de Dados,1,6,8,Pós-graduação,1.4,7.6,0
+272,Cientista de Dados,5,0,2,Pós-graduação,5.4,6.9,0
+2124,Analista de Dados,3,15,3,Doutorado,6.0,9.4,1
+2360,Programador,11,3,5,Mestrado,2.9,8.6,0
+7380,Cientista de Dados,7,23,4,Mestrado,8.7,7.8,1
+2104,Cientista de Dados,1,44,1,Pós-graduação,5.7,5.3,0
+6299,Analista de Dados,14,9,4,Graduação,7.5,8.5,1
+361,Cientista de Dados,3,44,3,Graduação,7.7,8.9,1
+2305,Programador,15,15,6,Doutorado,2.2,8.8,0
+7660,Cientista de Dados,0,6,2,Mestrado,1.3,2.6,0
+3976,Analista de Dados,18,34,3,Mestrado,7.5,7.7,1
+8458,Programador,17,0,3,Pós-graduação,2.8,4.6,0
+7337,Analista de Dados,9,46,8,Mestrado,6.4,8.6,1
+483,Cientista de Dados,17,27,6,Graduação,6.8,6.7,1
+8637,Analista de Dados,6,30,5,Doutorado,7.9,6.7,1
+2622,Cientista de Dados,10,11,4,Pós-graduação,3.1,1.6,0
+9696,Cientista de Dados,6,9,0,Graduação,3.9,2.5,0
+2868,Analista de Dados,3,16,6,Pós-graduação,4.6,7.8,0
+14,Analista de Dados,4,45,2,Mestrado,9.8,9.5,1
+3887,Programador,7,42,6,Graduação,6.5,6.3,1
+7376,Cientista de Dados,5,27,8,Graduação,9.7,8.9,1
+3699,Cientista de Dados,14,6,2,Doutorado,4.8,9.9,0
+4459,Cientista de Dados,9,28,7,Pós-graduação,6.0,7.1,1
+4186,Cientista de Dados,10,25,8,Mestrado,7.0,8.7,1
+4988,Cientista de Dados,9,44,6,Doutorado,8.2,8.5,1
+4756,Programador,4,34,4,Doutorado,6.6,6.9,1
+1022,Cientista de Dados,12,49,0,Graduação,8.8,6.1,1
+6441,Cientista de Dados,15,15,2,Pós-graduação,7.6,8.7,1
+437,Analista de Dados,15,19,5,Mestrado,9.6,6.1,1
+5269,Cientista de Dados,17,30,8,Graduação,4.3,9.2,0
+3685,Programador,12,13,9,Doutorado,2.5,4.9,0
+1670,Analista de Dados,9,47,4,Graduação,2.8,7.7,0
+3332,Programador,14,36,3,Doutorado,5.2,3.7,0
+8961,Programador,8,45,3,Graduação,6.5,9.7,1
+2982,Cientista de Dados,15,30,2,Doutorado,8.3,6.0,1
+194,Programador,16,39,6,Mestrado,9.9,8.4,1
+6315,Analista de Dados,0,0,3,Doutorado,7.6,6.4,0
+7812,Analista de Dados,5,10,6,Mestrado,3.6,4.5,0
+9023,Cientista de Dados,7,10,1,Doutorado,1.3,6.9,0
+7929,Programador,8,14,4,Mestrado,6.8,1.8,0
+6905,Cientista de Dados,7,31,5,Doutorado,4.4,4.9,0
+3327,Programador,13,22,8,Pós-graduação,6.3,8.8,1
+4099,Analista de Dados,19,38,8,Doutorado,6.6,7.9,1
+9006,Programador,8,16,4,Doutorado,9.4,6.4,1
+7182,Analista de Dados,18,34,3,Doutorado,7.0,6.7,1
+601,Programador,19,35,0,Pós-graduação,4.9,9.1,0
+6290,Analista de Dados,6,44,6,Pós-graduação,6.0,4.3,0
+5900,Cientista de Dados,17,44,6,Mestrado,9.7,6.4,1
+8515,Analista de Dados,3,16,4,Pós-graduação,7.9,9.0,1
+5297,Analista de Dados,18,23,9,Graduação,6.9,9.7,1
+1677,Analista de Dados,9,2,0,Doutorado,6.1,8.0,0
+6906,Analista de Dados,3,3,4,Mestrado,1.7,1.9,0
+2469,Analista de Dados,4,40,1,Graduação,7.8,8.7,1
+5624,Programador,18,9,2,Mestrado,9.2,3.0,0
+6031,Analista de Dados,16,10,0,Doutorado,9.7,9.6,1
+7293,Programador,1,19,1,Graduação,8.0,4.1,0
+8563,Analista de Dados,13,14,5,Pós-graduação,5.2,3.1,0
+9758,Analista de Dados,17,6,8,Pós-graduação,9.2,9.8,1
+5452,Analista de Dados,19,39,3,Mestrado,8.7,8.0,1
+6930,Programador,7,18,1,Pós-graduação,7.9,7.1,1
+2043,Analista de Dados,1,37,0,Doutorado,2.4,1.1,0
+1866,Cientista de Dados,16,15,1,Graduação,6.2,9.2,1
+210,Programador,16,16,1,Pós-graduação,3.6,8.7,0
+6087,Analista de Dados,17,16,6,Mestrado,10.0,9.7,1
+113,Programador,12,49,3,Mestrado,8.9,3.9,0
+8639,Analista de Dados,5,9,0,Pós-graduação,5.9,4.1,0
+1063,Analista de Dados,7,40,6,Pós-graduação,8.9,8.0,1
+4844,Cientista de Dados,8,2,6,Doutorado,4.9,7.4,0
+4687,Cientista de Dados,14,17,3,Graduação,7.1,4.8,0
+7082,Cientista de Dados,17,11,2,Pós-graduação,7.5,7.1,1
+1188,Analista de Dados,7,35,6,Pós-graduação,10.0,9.8,1
+627,Analista de Dados,8,29,0,Graduação,7.1,9.2,1
+5345,Cientista de Dados,1,42,9,Pós-graduação,3.5,3.3,0
+7069,Cientista de Dados,14,10,6,Doutorado,9.1,6.9,1
+3580,Programador,18,26,3,Pós-graduação,3.8,4.1,0
+9087,Cientista de Dados,16,23,7,Mestrado,7.4,6.4,1
+9258,Analista de Dados,6,18,9,Mestrado,6.1,3.7,0
+688,Programador,0,27,0,Pós-graduação,1.3,2.1,0
+1850,Cientista de Dados,11,21,1,Graduação,8.5,8.0,1
+8262,Analista de Dados,14,17,7,Pós-graduação,8.5,9.1,1
+7675,Cientista de Dados,12,39,4,Pós-graduação,3.9,7.7,0
+6445,Programador,12,33,4,Mestrado,1.2,8.8,0
+5936,Programador,6,1,1,Mestrado,2.5,1.9,0
+1591,Programador,2,27,2,Graduação,7.0,6.1,0
+7225,Analista de Dados,7,9,3,Pós-graduação,7.3,8.5,1
+4887,Programador,7,8,6,Graduação,9.5,1.9,0
+7934,Programador,19,1,7,Doutorado,4.0,2.4,0
+7250,Programador,3,36,3,Pós-graduação,6.2,8.9,1
+1837,Analista de Dados,18,31,7,Mestrado,4.9,3.8,0
+3877,Cientista de Dados,8,34,4,Graduação,6.3,7.8,1
+5077,Programador,13,44,9,Graduação,7.5,9.1,1
+1128,Analista de Dados,19,37,0,Pós-graduação,6.9,9.9,1
+5031,Programador,15,31,3,Mestrado,9.3,9.2,1
+1123,Analista de Dados,9,46,6,Pós-graduação,9.2,8.2,1
+8700,Cientista de Dados,11,28,0,Pós-graduação,6.6,7.6,1
+7157,Cientista de Dados,15,19,8,Mestrado,7.8,7.8,1
+1196,Cientista de Dados,15,8,1,Graduação,1.6,7.1,0
+8843,Analista de Dados,13,4,6,Graduação,4.0,2.4,0
+3847,Analista de Dados,5,45,6,Doutorado,9.0,9.1,1
+954,Analista de Dados,6,34,2,Mestrado,6.1,2.0,0
+5841,Programador,1,32,9,Graduação,8.1,7.8,0
+4001,Programador,4,5,5,Graduação,5.4,1.8,0
+7394,Programador,18,44,3,Graduação,6.0,8.8,1
+4842,Cientista de Dados,5,3,7,Pós-graduação,4.0,9.6,0
+7876,Cientista de Dados,13,13,9,Doutorado,9.0,1.3,0
+8199,Cientista de Dados,3,18,3,Doutorado,6.7,9.9,1
+244,Cientista de Dados,4,23,6,Graduação,7.4,7.5,1
+8661,Cientista de Dados,1,32,2,Doutorado,4.9,7.4,0
+4468,Cientista de Dados,12,32,2,Graduação,7.9,9.7,1
+2543,Programador,11,17,5,Graduação,8.9,8.6,1
+4720,Programador,12,45,8,Pós-graduação,8.6,4.0,0
+9138,Cientista de Dados,19,39,3,Mestrado,1.8,9.7,0
+1563,Cientista de Dados,15,34,7,Mestrado,8.0,6.4,1
+6293,Analista de Dados,10,35,3,Graduação,6.4,9.0,1
+3676,Programador,0,2,0,Pós-graduação,2.4,6.0,0
+2970,Cientista de Dados,10,20,2,Pós-graduação,7.6,9.2,1
+4837,Programador,7,14,9,Pós-graduação,7.1,8.3,1
+9021,Cientista de Dados,11,38,1,Pós-graduação,9.3,5.5,0
+5000,Programador,13,44,3,Graduação,3.4,7.8,0
+1683,Programador,10,10,8,Mestrado,4.9,8.5,0
+5905,Cientista de Dados,4,27,3,Mestrado,1.1,8.8,0
+1961,Programador,5,13,1,Pós-graduação,9.4,2.4,0
+1536,Cientista de Dados,6,1,8,Pós-graduação,9.3,7.4,0
+9969,Analista de Dados,15,27,9,Mestrado,2.0,5.1,0
+7630,Cientista de Dados,10,2,2,Mestrado,2.8,6.6,0
+5674,Programador,7,6,8,Pós-graduação,6.9,8.4,1
+419,Analista de Dados,19,28,4,Doutorado,8.1,6.7,1
+1370,Cientista de Dados,15,44,0,Graduação,6.2,6.9,1
+8460,Programador,12,24,9,Mestrado,5.7,9.6,0
+9712,Cientista de Dados,5,49,4,Pós-graduação,3.7,8.8,0
+23,Cientista de Dados,11,9,9,Mestrado,6.3,9.3,1
+2957,Analista de Dados,0,30,0,Pós-graduação,7.1,5.2,0
+3200,Analista de Dados,10,15,8,Mestrado,6.2,6.4,1
+807,Analista de Dados,14,46,2,Mestrado,7.9,6.1,1
+5701,Programador,5,24,5,Mestrado,8.7,7.2,1
+1180,Cientista de Dados,17,14,0,Doutorado,2.3,1.1,0
+6960,Analista de Dados,7,43,7,Graduação,8.5,9.1,1
+1662,Programador,4,15,8,Pós-graduação,5.9,9.0,0
+992,Analista de Dados,3,35,4,Doutorado,6.7,6.5,1
+8223,Programador,16,47,0,Pós-graduação,6.1,3.1,0
+1907,Programador,18,16,8,Pós-graduação,5.4,7.0,0
+6416,Analista de Dados,13,9,9,Graduação,6.2,6.6,1
+6090,Analista de Dados,7,13,5,Mestrado,3.1,4.8,0
+541,Cientista de Dados,14,36,3,Pós-graduação,9.6,7.2,1
+673,Programador,9,7,3,Graduação,6.9,4.6,0
+6770,Cientista de Dados,19,27,3,Pós-graduação,7.8,9.1,1
+4328,Cientista de Dados,0,3,9,Pós-graduação,8.4,9.3,0
+4602,Cientista de Dados,5,35,4,Doutorado,9.4,4.2,0
+2960,Cientista de Dados,1,37,7,Graduação,1.1,4.0,0
+6422,Analista de Dados,14,12,7,Pós-graduação,9.5,9.3,1
+4566,Analista de Dados,11,25,7,Mestrado,7.1,1.4,0
+5391,Programador,9,47,2,Pós-graduação,8.0,4.2,0
+2531,Analista de Dados,9,37,2,Mestrado,9.4,8.1,1
+1112,Programador,7,32,9,Graduação,6.8,6.6,1
+2550,Cientista de Dados,11,21,0,Mestrado,8.0,7.8,1
+6499,Analista de Dados,13,42,4,Graduação,9.5,6.0,1
+939,Analista de Dados,18,11,9,Mestrado,2.3,3.8,0
+9357,Analista de Dados,16,42,5,Doutorado,8.5,6.3,1
+4646,Analista de Dados,14,32,8,Doutorado,7.6,7.0,1
+8376,Analista de Dados,1,25,6,Pós-graduação,5.2,2.8,0
+2834,Analista de Dados,0,44,7,Doutorado,6.6,8.0,0
+288,Cientista de Dados,12,10,8,Graduação,3.3,3.8,0
+8042,Programador,12,24,3,Pós-graduação,7.7,8.8,1
+802,Cientista de Dados,8,7,0,Pós-graduação,8.9,8.0,1
+5726,Programador,6,34,9,Doutorado,3.4,7.8,0
+1516,Analista de Dados,15,20,7,Graduação,3.7,3.6,0
+4872,Cientista de Dados,7,40,7,Graduação,1.8,4.1,0
+9201,Programador,8,11,1,Pós-graduação,3.3,3.3,0
+1577,Cientista de Dados,9,19,5,Pós-graduação,9.1,7.2,1
+5343,Programador,14,40,3,Mestrado,1.2,6.3,0
+5956,Analista de Dados,16,11,9,Mestrado,6.2,8.8,1
+6690,Programador,12,14,5,Mestrado,6.9,3.9,0
+942,Cientista de Dados,10,21,0,Mestrado,6.1,9.2,1
+3304,Analista de Dados,4,17,6,Pós-graduação,5.0,1.3,0
+2119,Programador,15,21,0,Doutorado,8.9,6.7,1
+2533,Analista de Dados,0,19,7,Pós-graduação,1.8,7.9,0
+1803,Cientista de Dados,3,32,8,Mestrado,4.6,2.0,0
+2462,Programador,12,40,2,Doutorado,2.4,1.8,0
+6619,Cientista de Dados,4,7,4,Mestrado,9.2,6.2,1
+8881,Programador,17,21,9,Pós-graduação,9.3,4.6,0
+5010,Programador,15,43,1,Graduação,6.7,7.5,1
+2570,Programador,3,8,3,Doutorado,5.5,6.6,0
+7208,Programador,4,28,4,Doutorado,4.8,4.3,0
+3174,Analista de Dados,4,3,8,Mestrado,6.3,1.8,0
+8268,Programador,12,11,4,Pós-graduação,5.4,1.2,0
+1424,Analista de Dados,11,47,0,Doutorado,10.0,8.1,1
+441,Cientista de Dados,14,6,8,Pós-graduação,1.2,2.5,0
+9420,Cientista de Dados,3,21,0,Pós-graduação,6.9,1.6,0
+3431,Programador,12,15,6,Doutorado,4.1,4.5,0
+1178,Analista de Dados,4,29,7,Pós-graduação,6.7,5.2,0
+3049,Analista de Dados,16,40,7,Mestrado,7.5,8.8,1
+9986,Analista de Dados,11,23,0,Graduação,8.7,3.8,0
+5135,Cientista de Dados,5,46,4,Doutorado,3.1,8.1,0
+7767,Analista de Dados,8,5,2,Mestrado,7.2,9.3,1
+3035,Cientista de Dados,17,23,8,Mestrado,9.8,8.2,1
+9767,Programador,2,31,6,Pós-graduação,6.3,2.8,0
+8214,Analista de Dados,16,12,0,Doutorado,7.5,7.8,1
+1017,Cientista de Dados,16,33,8,Doutorado,8.3,2.1,0
+555,Programador,3,8,9,Pós-graduação,9.3,4.3,0
+7188,Cientista de Dados,6,46,5,Pós-graduação,1.5,3.0,0
+2059,Analista de Dados,18,25,2,Mestrado,8.7,9.2,1
+2703,Programador,5,1,2,Mestrado,5.6,9.5,0
+3931,Analista de Dados,9,5,0,Mestrado,8.9,2.9,0
+1537,Cientista de Dados,8,47,4,Graduação,8.9,8.1,1
+5154,Analista de Dados,8,19,7,Graduação,6.6,9.0,1
+8993,Cientista de Dados,6,35,8,Doutorado,7.8,7.7,1
+4787,Programador,9,28,4,Graduação,8.7,3.1,0
+4974,Cientista de Dados,10,41,9,Mestrado,5.7,1.8,0
+5074,Analista de Dados,14,31,2,Doutorado,4.5,7.1,0
+6977,Cientista de Dados,9,15,6,Graduação,7.1,8.8,1
+263,Analista de Dados,13,42,8,Doutorado,6.7,1.9,0
+7065,Programador,6,8,3,Doutorado,6.1,6.7,1
+9172,Programador,13,46,5,Graduação,9.7,9.2,1
+2883,Cientista de Dados,9,7,1,Mestrado,6.3,9.2,1
+7198,Cientista de Dados,16,38,4,Doutorado,8.7,7.3,1
+8898,Analista de Dados,6,39,6,Mestrado,8.0,7.7,1
+5144,Analista de Dados,14,20,6,Pós-graduação,6.8,6.9,1
+9717,Analista de Dados,7,41,3,Mestrado,4.1,4.8,0
+1294,Cientista de Dados,14,19,9,Pós-graduação,6.6,8.5,1
+7339,Analista de Dados,12,6,1,Doutorado,1.1,8.5,0
+3196,Cientista de Dados,10,13,5,Pós-graduação,4.1,7.6,0
+7658,Cientista de Dados,12,29,9,Mestrado,7.6,4.8,0
+243,Analista de Dados,13,40,2,Pós-graduação,1.0,7.2,0
+7636,Cientista de Dados,17,33,5,Doutorado,2.4,5.8,0
+5080,Programador,19,18,4,Mestrado,8.5,8.8,1
+7151,Programador,1,42,6,Pós-graduação,6.7,3.2,0
+9998,Cientista de Dados,7,26,1,Mestrado,4.5,6.1,0
+5288,Cientista de Dados,17,22,0,Pós-graduação,9.2,5.6,0
+2914,Programador,8,49,8,Mestrado,8.9,8.5,1
+4310,Analista de Dados,8,41,5,Mestrado,5.0,3.1,0
+8253,Programador,2,17,9,Graduação,6.8,9.2,0
+3584,Programador,8,25,2,Graduação,6.7,9.8,1
+1764,Cientista de Dados,3,20,8,Doutorado,6.4,9.7,1
+4234,Programador,18,43,9,Graduação,8.8,1.6,0
+1776,Analista de Dados,15,18,0,Graduação,9.5,8.5,1
+362,Analista de Dados,10,47,3,Doutorado,1.3,5.3,0
+3309,Analista de Dados,19,12,4,Mestrado,9.5,6.3,1
+3597,Programador,18,33,8,Graduação,1.3,7.9,0
+9751,Analista de Dados,13,34,7,Mestrado,2.8,2.7,0
+4417,Analista de Dados,15,38,7,Doutorado,7.5,9.7,1
+6049,Programador,15,42,3,Graduação,5.3,8.6,0
+7052,Programador,4,30,5,Doutorado,9.9,8.9,1
+5584,Programador,3,0,8,Pós-graduação,6.9,8.8,0
+5767,Cientista de Dados,15,26,2,Graduação,9.4,2.6,0
+1882,Cientista de Dados,10,23,1,Graduação,4.4,7.9,0
+5515,Analista de Dados,14,8,4,Graduação,6.7,8.5,1
+7698,Analista de Dados,17,20,3,Pós-graduação,9.4,8.1,1
+8342,Cientista de Dados,4,44,2,Pós-graduação,9.1,9.9,1
+9061,Programador,14,21,6,Pós-graduação,8.8,7.0,1
+4181,Cientista de Dados,16,48,8,Doutorado,9.8,6.5,1
+3252,Analista de Dados,6,11,6,Doutorado,7.2,9.1,1
+1078,Programador,7,46,2,Graduação,7.7,6.6,1
+9813,Cientista de Dados,19,13,0,Doutorado,7.4,9.2,1
+1074,Programador,3,28,4,Doutorado,7.4,9.2,1
+9128,Cientista de Dados,18,1,8,Doutorado,3.4,7.3,0
+3281,Analista de Dados,13,25,4,Mestrado,7.9,7.3,1
+2171,Programador,12,48,7,Doutorado,3.8,6.7,0
+4764,Programador,0,24,2,Doutorado,6.1,2.9,0
+8717,Analista de Dados,11,21,4,Pós-graduação,9.9,8.2,1
+8036,Analista de Dados,9,7,0,Mestrado,7.8,7.3,1
+3171,Programador,18,41,8,Graduação,7.9,9.9,1
+6472,Programador,0,22,1,Doutorado,2.5,2.6,0
+9807,Analista de Dados,4,29,0,Doutorado,9.6,8.5,1
+3499,Programador,18,29,2,Pós-graduação,2.3,5.0,0
+5494,Cientista de Dados,4,45,9,Pós-graduação,9.3,8.3,1
+5348,Analista de Dados,15,38,7,Pós-graduação,1.4,3.8,0
+1618,Cientista de Dados,4,38,9,Graduação,6.6,9.0,1
+3105,Cientista de Dados,17,38,9,Doutorado,1.1,3.3,0
+4858,Analista de Dados,8,38,7,Graduação,5.4,1.3,0
+25,Programador,17,20,4,Doutorado,8.6,1.8,0
+1736,Cientista de Dados,9,25,8,Graduação,7.2,9.0,1
+1630,Programador,8,44,3,Graduação,9.6,9.1,1
+753,Analista de Dados,17,25,3,Graduação,5.7,1.8,0
+5210,Analista de Dados,12,12,5,Doutorado,9.4,3.2,0
+5577,Cientista de Dados,9,46,4,Mestrado,2.7,3.3,0
+3404,Cientista de Dados,6,35,4,Graduação,7.0,3.5,0
+5450,Analista de Dados,17,4,1,Pós-graduação,2.0,4.5,0
+5337,Analista de Dados,17,21,6,Mestrado,5.2,8.8,0
+2765,Analista de Dados,9,8,4,Pós-graduação,2.8,9.3,0
+5412,Cientista de Dados,13,16,3,Mestrado,9.5,7.3,1
+4995,Programador,14,13,5,Mestrado,6.4,4.6,0
+6929,Cientista de Dados,7,36,6,Doutorado,7.3,6.0,1
+7180,Cientista de Dados,3,30,1,Mestrado,7.0,7.6,1
+8028,Programador,2,8,6,Doutorado,6.8,4.4,0
+9089,Programador,17,44,0,Doutorado,5.5,8.6,0
+3260,Analista de Dados,16,47,8,Doutorado,7.9,5.5,0
+676,Analista de Dados,11,42,6,Doutorado,5.6,3.9,0
+3549,Programador,11,16,8,Doutorado,4.4,2.6,0
+5131,Analista de Dados,6,21,6,Pós-graduação,8.2,2.1,0
+6017,Analista de Dados,12,28,3,Graduação,7.3,6.8,1
+9241,Programador,12,49,6,Mestrado,6.1,9.4,1
+5427,Programador,8,20,5,Mestrado,8.7,8.3,1
+1371,Cientista de Dados,11,44,1,Mestrado,7.2,1.2,0
+6465,Programador,17,49,8,Pós-graduação,8.5,9.5,1
+3652,Programador,5,33,9,Pós-graduação,6.8,6.5,1
+3157,Cientista de Dados,13,43,2,Pós-graduação,4.4,4.6,0
+4095,Analista de Dados,12,34,5,Pós-graduação,2.0,1.3,0
+8139,Analista de Dados,16,44,2,Pós-graduação,7.9,8.5,1
+2808,Programador,16,26,0,Doutorado,6.7,8.7,1
+3070,Analista de Dados,15,35,1,Mestrado,8.9,6.9,1
+8497,Analista de Dados,10,45,8,Doutorado,7.8,5.9,0
+5319,Analista de Dados,19,6,2,Doutorado,7.5,7.2,1
+6689,Programador,10,25,1,Mestrado,8.5,9.4,1
+203,Programador,8,5,0,Doutorado,1.6,6.1,0
+6119,Cientista de Dados,4,43,3,Doutorado,3.9,4.0,0
+1120,Analista de Dados,19,15,0,Mestrado,6.3,7.8,1
+6655,Analista de Dados,14,37,9,Graduação,1.4,8.3,0
+8982,Cientista de Dados,16,36,3,Doutorado,7.3,9.3,1
+4631,Analista de Dados,0,47,6,Doutorado,3.1,2.5,0
+7483,Cientista de Dados,18,41,9,Mestrado,9.1,7.2,1
+542,Cientista de Dados,14,12,4,Pós-graduação,3.9,6.8,0
+1379,Cientista de Dados,1,9,5,Doutorado,6.3,5.8,0
+6358,Cientista de Dados,3,38,4,Doutorado,1.2,1.4,0
+7360,Cientista de Dados,9,44,7,Doutorado,1.8,1.1,0
+3187,Analista de Dados,7,1,7,Mestrado,3.3,1.8,0
+6103,Cientista de Dados,18,41,6,Graduação,6.3,6.0,1
+8752,Programador,8,2,4,Graduação,6.2,6.0,0
+4609,Analista de Dados,7,34,9,Graduação,6.2,1.9,0
+8770,Cientista de Dados,6,22,5,Mestrado,6.9,7.3,1
+2218,Programador,9,47,2,Mestrado,4.0,5.5,0
+3565,Cientista de Dados,11,44,4,Mestrado,8.1,9.6,1
+3447,Programador,15,14,1,Mestrado,6.5,2.0,0
+8087,Programador,12,41,5,Doutorado,9.3,9.2,1
+5289,Cientista de Dados,2,24,5,Pós-graduação,8.1,7.2,0
+2239,Cientista de Dados,15,13,8,Mestrado,3.1,2.8,0
+2984,Cientista de Dados,7,36,3,Mestrado,6.2,3.2,0
+2303,Cientista de Dados,4,32,1,Graduação,4.8,1.7,0
+1737,Analista de Dados,13,9,6,Pós-graduação,8.4,8.7,1
+1535,Programador,10,0,9,Pós-graduação,1.9,6.6,0
+2886,Analista de Dados,13,11,1,Pós-graduação,7.9,9.4,1
+9874,Programador,10,13,5,Graduação,5.1,6.2,0
+1148,Analista de Dados,5,23,5,Doutorado,9.4,7.4,1
+4033,Cientista de Dados,15,36,1,Pós-graduação,5.1,1.2,0
+1216,Analista de Dados,8,9,6,Mestrado,9.2,9.2,1
+2504,Analista de Dados,14,37,4,Pós-graduação,9.6,9.4,1
+9398,Analista de Dados,16,14,0,Mestrado,9.5,9.8,1
+3044,Analista de Dados,18,37,9,Doutorado,8.9,4.7,0
+5852,Analista de Dados,3,5,4,Doutorado,2.3,2.2,0
+7348,Programador,4,36,5,Mestrado,9.0,7.0,1
+6096,Programador,11,16,4,Mestrado,7.3,6.1,1
+1565,Programador,8,4,8,Graduação,6.6,9.7,0
+5817,Cientista de Dados,16,26,3,Mestrado,7.6,6.6,1
+4252,Analista de Dados,15,43,5,Mestrado,9.8,5.7,0
+2959,Cientista de Dados,17,38,2,Mestrado,8.6,6.6,1
+2545,Programador,16,32,7,Doutorado,8.1,8.6,1
+1906,Analista de Dados,10,26,8,Mestrado,7.9,9.9,1
+905,Analista de Dados,9,38,9,Mestrado,2.6,7.1,0
+2375,Analista de Dados,4,26,5,Doutorado,7.4,8.7,1
+9086,Analista de Dados,1,5,9,Graduação,7.4,5.5,0
+3541,Analista de Dados,14,9,2,Doutorado,7.4,8.6,1
+4894,Analista de Dados,5,47,9,Pós-graduação,8.2,9.5,1
+1543,Programador,13,41,4,Doutorado,9.2,6.3,1
+8468,Analista de Dados,12,18,5,Doutorado,6.8,6.1,1
+3660,Analista de Dados,3,3,9,Pós-graduação,3.7,6.6,0
+9396,Cientista de Dados,1,11,7,Mestrado,3.9,4.7,0
+2243,Analista de Dados,16,7,0,Pós-graduação,9.6,7.3,1
+4132,Programador,17,21,3,Graduação,8.7,7.7,1
+4540,Programador,4,49,9,Doutorado,9.0,9.7,1
+8383,Cientista de Dados,15,27,0,Mestrado,7.2,8.2,1
+1775,Cientista de Dados,16,2,9,Pós-graduação,9.8,6.7,0
+304,Programador,3,15,8,Mestrado,9.0,7.2,1
+9131,Cientista de Dados,0,9,6,Doutorado,9.1,7.4,0
+7262,Analista de Dados,18,13,0,Mestrado,9.6,9.1,1
+7737,Programador,14,12,9,Mestrado,8.8,8.9,1
+7480,Cientista de Dados,17,0,8,Doutorado,5.4,7.4,0
+9440,Cientista de Dados,2,46,8,Doutorado,4.9,9.0,0
+4439,Cientista de Dados,8,6,2,Graduação,1.7,6.3,0
+8,Cientista de Dados,19,20,7,Graduação,7.8,9.5,1
+5733,Analista de Dados,17,9,0,Graduação,9.7,6.4,1
+6427,Programador,16,48,7,Graduação,9.3,9.6,1
+106,Analista de Dados,19,46,4,Graduação,5.4,1.3,0
+2220,Programador,13,47,0,Doutorado,6.3,9.4,1
+6411,Analista de Dados,8,48,3,Pós-graduação,1.3,8.4,0
+3128,Cientista de Dados,14,39,8,Pós-graduação,7.4,2.9,0
+1878,Programador,9,47,6,Pós-graduação,2.1,8.3,0
+3130,Analista de Dados,15,40,3,Pós-graduação,7.1,7.4,1
+1335,Analista de Dados,12,15,8,Pós-graduação,6.4,8.4,1
+6084,Cientista de Dados,15,38,5,Doutorado,5.2,6.1,0
+1306,Analista de Dados,18,9,5,Doutorado,9.8,6.1,1
+579,Programador,5,33,5,Doutorado,8.6,2.6,0
+8591,Programador,18,34,8,Mestrado,7.7,8.2,1
+5376,Programador,10,7,5,Mestrado,2.6,5.0,0
+5,Programador,8,22,2,Pós-graduação,9.0,7.0,1
+7298,Analista de Dados,14,36,1,Pós-graduação,3.7,10.0,0
+5742,Programador,10,35,7,Graduação,9.2,3.2,0
+1622,Programador,0,45,1,Mestrado,2.3,2.9,0
+3408,Cientista de Dados,18,44,6,Graduação,2.2,7.6,0
+2663,Cientista de Dados,11,35,1,Graduação,8.9,7.7,1
+7381,Programador,7,5,0,Graduação,7.6,3.9,0
+8592,Cientista de Dados,18,22,8,Mestrado,4.8,1.1,0
+2152,Cientista de Dados,12,15,4,Doutorado,9.7,8.9,1
+2866,Programador,10,42,3,Mestrado,1.4,2.3,0
+8760,Analista de Dados,13,22,9,Doutorado,8.2,6.0,1
+7205,Analista de Dados,16,37,6,Pós-graduação,2.6,5.2,0
+5490,Cientista de Dados,1,32,2,Doutorado,9.4,9.1,0
+6250,Programador,11,48,2,Graduação,4.5,1.4,0
+881,Analista de Dados,16,40,7,Mestrado,8.0,8.8,1
+3100,Analista de Dados,16,38,7,Mestrado,8.8,7.7,1
+4792,Cientista de Dados,9,4,2,Doutorado,9.1,6.4,0
+302,Programador,8,27,8,Doutorado,7.0,6.7,1
+8577,Analista de Dados,8,3,2,Doutorado,6.8,8.6,0
+4012,Cientista de Dados,6,6,5,Doutorado,6.0,6.2,1
+1234,Cientista de Dados,13,10,4,Pós-graduação,4.0,1.8,0
+6534,Cientista de Dados,3,7,9,Doutorado,4.9,6.4,0
+250,Analista de Dados,10,21,9,Pós-graduação,9.8,1.5,0
+7493,Programador,7,6,7,Pós-graduação,6.9,8.9,1
+3288,Programador,5,11,1,Mestrado,9.5,3.0,0
+8785,Cientista de Dados,16,11,6,Doutorado,6.6,7.6,1
+3628,Cientista de Dados,15,3,5,Mestrado,6.9,9.2,0
+3334,Programador,0,15,7,Graduação,9.7,8.4,0
+4475,Programador,14,8,2,Graduação,1.8,7.6,0
+779,Analista de Dados,14,8,8,Pós-graduação,6.0,8.9,1
+5988,Analista de Dados,4,10,0,Pós-graduação,6.6,9.8,1
+8842,Programador,15,41,3,Graduação,3.8,6.8,0
+3487,Programador,12,24,6,Mestrado,8.1,9.1,1
+4777,Programador,19,0,5,Mestrado,5.9,4.6,0
+5934,Cientista de Dados,12,19,6,Pós-graduação,8.1,7.1,1
+2912,Analista de Dados,16,47,5,Doutorado,7.5,6.1,1
+8852,Cientista de Dados,12,14,9,Doutorado,7.8,7.2,1
+5239,Cientista de Dados,6,22,5,Pós-graduação,4.7,6.8,0
+5675,Analista de Dados,7,17,7,Doutorado,6.2,9.4,1
+1606,Cientista de Dados,18,38,9,Pós-graduação,7.7,7.6,1
+5924,Cientista de Dados,3,16,1,Doutorado,2.1,2.8,0
+818,Analista de Dados,18,24,0,Doutorado,5.5,5.4,0
+7367,Cientista de Dados,5,48,4,Graduação,7.9,8.7,1
+4825,Analista de Dados,7,30,9,Mestrado,8.8,3.9,0
+7477,Programador,11,45,6,Mestrado,6.0,8.3,1
+8858,Programador,10,47,4,Mestrado,1.3,1.8,0
+8009,Programador,14,10,4,Doutorado,8.7,8.1,1
+1427,Cientista de Dados,6,36,7,Mestrado,7.3,2.4,0
+1204,Analista de Dados,15,47,9,Doutorado,8.6,3.0,0
+4524,Programador,9,43,9,Pós-graduação,8.5,8.7,1
+6728,Programador,15,12,1,Mestrado,8.2,6.8,1
+1171,Programador,15,40,7,Graduação,6.0,6.0,1
+2696,Analista de Dados,15,17,3,Graduação,7.1,7.6,1
+5518,Programador,17,40,8,Doutorado,9.1,3.7,0
+886,Cientista de Dados,3,17,8,Doutorado,10.0,3.1,0
+8778,Cientista de Dados,13,21,0,Pós-graduação,5.7,1.5,0
+2669,Programador,13,22,1,Doutorado,8.8,6.8,1
+6857,Programador,17,22,8,Graduação,9.8,7.3,1
+8352,Analista de Dados,7,42,6,Graduação,9.2,6.4,1
+7628,Cientista de Dados,16,46,4,Graduação,8.2,7.6,1

@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Lab Deploy na Prática</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="./static/style.css">
+</head>
+
+<div>
+    <div class="container">
+        <h1>Previsão de Preço de Carros</h1>
+        {% if result %}
+        <h3>Valor Estimado: {{result}}$</h3>
+        <a href="/">Estimar Novamente</a>
+        {% endif %}
+        {% if result == None %}
+        <form action = "/estimate" method = "POST">
+
+            <div class="form-group">
+                <div class="form-row">
+                    <div class="col">
+                        <label>Valores possíveis: 1.6 - 3.8 - 4.2</label>
+                        <input type="text" class="form-control form-control-sm" name="new_car" placeholder="Engine Size" required>
+                    </div>
+                    <div class="col">
+                        <label>Valores possíveis: 4 - 6 - 8</label>
+                        <input type="text" class="form-control form-control-sm" name="new_car" placeholder="Cylinders" required>
+                    </div>
+                    <div class="col">
+                        <label>Valores possíveis: 180 - 200</label>
+                        <input type="text" class="form-control form-control-sm" name="new_car" placeholder="Horse Power" required>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="form-row">
+                    <div class="col">
+                        <label>Milhas Por Galão na Cidade</label>
+                        <input type="text" class="form-control form-control-sm" name="new_car" placeholder="MPG City" required>
+                    </div>
+                    <div class="col">
+                        <label>Milhas Por Galão na Estrada</label>
+                        <input type="text" class="form-control form-control-sm" name="new_car" placeholder="MPG Hight" required>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="form-row">
+                    <div class="col">
+                        <label>Peso em KG</label>
+                        <input type="text" class="form-control form-control-sm" name="new_car" placeholder="Weight" required>
+                    </div>
+                    <div class="col">
+                        <label>Tamanho da Roda</label>
+                        <input type="text" class="form-control form-control-sm" name="new_car" placeholder="Wheel Base" required>
+                    </div>
+                    <div class="col">
+                        <label>Comprimento em Polegadas</label>
+                        <input type="text" class="form-control form-control-sm" name="new_car" placeholder="Length" required>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="form-row">
+                    <div class="col">
+                        <label>Montadora</label>
+                        <select class="form-control form-control-sm" name="new_car" required>
+                            <option value="acura">Acura</option>
+                            <option value="audi">Audi</option>
+                            <option value="bmw">BMW</option>
+                            <option value="buick">Buick</option>
+                            <option value="cadillac">Cadillac</option>
+                            <option value="chevrolet">Chevrolet</option>
+                            <option value="chrysler">Chrysler</option>
+                            <option value="dodge">Dodge</option>
+                            <option value="ford">Ford</option>
+                            <option value="gmc">GMC</option>
+                            <option value="honda">Honda</option>
+                            <option value="hummer">Hummer</option>
+                            <option value="hyundai">Hyundai</option>
+                            <option value="infiniti">Infiniti</option>
+                            <option value="isuzu">Isuzu</option>
+                            <option value="jaguar">Jaguar</option>
+                            <option value="jeep">Jeep</option>
+                            <option value="kia">KIA</option>
+                            <option value="land_rover">Land Rover</option>
+                            <option value="lexus">Lexus</option>
+                            <option value="lincoln">Lincoln</option>
+                            <option value="mini">MINI</option>
+                            <option value="mazda">Mazda</option>
+                            <option value="mercedes-benz">Mercedes Benz</option>
+                            <option value="mercury">Mercury</option>
+                            <option value="mitsubishi">Mitsubishi</option>
+                            <option value="nissan">Nissan</option>
+                            <option value="oldsmobile">Oldsmobile</option>
+                            <option value="pontiac">Pontiac</option>
+                            <option value="porsche">Porsche</option>
+                            <option value="saab">Saab</option>
+                            <option value="saturn">Saturn</option>
+                            <option value="scion">Scion</option>
+                            <option value="subaru">Subaru</option>
+                            <option value="suzuki">Suzuki</option>
+                            <option value="toyota">Toyota</option>
+                            <option value="volkswagen">Volkswagen</option>
+                            <option value="volvo">Volvo</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="form-row">
+                    <div class="col">
+                        <label>Body Type</label>
+                        <select class="form-control form-control-sm" name="new_car" required>
+                            <option value="hybrid">Hybrid</option>
+                            <option value="suv">SUV</option>
+                            <option value="sedan">Sedan</option>
+                            <option value="sports">Sports</option>
+                            <option value="truck">Truck</option>
+                            <option value="wagon">Wagon</option>
+                        </select>
+                    </div>
+                    <div class="col">
+                        <label>Drive Train</label>
+                        <select class="form-control form-control-sm" name="new_car" required>
+                            <option value="4wd">4WD</option>
+                            <option value="fwd">FWD</option>
+                            <option value="rwd">RWD</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <button type="submit" class="btn btn-primary">Estimar</button>
+        </form>
+        {% endif %}
+    </div>
+    </body>
+
+</html>

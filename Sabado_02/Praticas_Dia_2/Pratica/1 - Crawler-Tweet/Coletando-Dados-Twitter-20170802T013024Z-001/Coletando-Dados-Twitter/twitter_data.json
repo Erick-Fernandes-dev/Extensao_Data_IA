@@ -1,0 +1,1919 @@
+{
+    "created_at": "Wed Aug 02 01:44:48 +0000 2017",
+    "id": 892561790793650176,
+    "id_str": "892561790793650176",
+    "text": "RT @deen_john: what an awesome resource for #Javascript learners who like to learn from source code https://t.co/vwRFEUGavu by  @padolsey",
+    "source": "<a href=\"https://github.com/AlFalahTaieb\" rel=\"nofollow\">Js_100_Day_Code</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 885513434569355265,
+        "id_str": "885513434569355265",
+        "name": "JSBot",
+        "screen_name": "Taieb_Bot",
+        "location": "Raspberry PI",
+        "url": null,
+        "description": "I retweet all about #100DaysOfCode #Javascript and my mother country #Tunisia created by @Filsdelarabe",
+        "protected": false,
+        "verified": false,
+        "followers_count": 109,
+        "friends_count": 1,
+        "listed_count": 2,
+        "favourites_count": 14021,
+        "statuses_count": 23580,
+        "created_at": "Thu Jul 13 14:57:09 +0000 2017",
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "lang": "fr",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/885513954818220033/gf3Ci4dO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/885513954818220033/gf3Ci4dO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/885513434569355265/1499969529",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Aug 02 01:44:08 +0000 2017",
+        "id": 892561622153150464,
+        "id_str": "892561622153150464",
+        "text": "what an awesome resource for #Javascript learners who like to learn from source code https://t.co/vwRFEUGavu by  @padolsey",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 363464865,
+            "id_str": "363464865",
+            "name": "Deen John",
+            "screen_name": "deen_john",
+            "location": "Noida, India",
+            "url": null,
+            "description": "Movie buff,Learner. Programmer. Curious about things #FullstackJava #Javascript #Reactjs  #Nodejs #Angular",
+            "protected": false,
+            "verified": false,
+            "followers_count": 191,
+            "friends_count": 2064,
+            "listed_count": 16,
+            "favourites_count": 2881,
+            "statuses_count": 1205,
+            "created_at": "Sun Aug 28 03:53:15 +0000 2011",
+            "utc_offset": 19800,
+            "time_zone": "New Delhi",
+            "geo_enabled": true,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "91D2FA",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/888754591965167622/EPVlCaUF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/888754591965167622/EPVlCaUF_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/363464865/1501385065",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Javascript",
+                    "indices": [
+                        29,
+                        40
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/vwRFEUGavu",
+                    "expanded_url": "https://j11y.io/jquery/",
+                    "display_url": "j11y.io/jquery/",
+                    "indices": [
+                        85,
+                        108
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "padolsey",
+                    "name": "James",
+                    "id": 17107025,
+                    "id_str": "17107025",
+                    "indices": [
+                        113,
+                        122
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Javascript",
+                "indices": [
+                    44,
+                    55
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/vwRFEUGavu",
+                "expanded_url": "https://j11y.io/jquery/",
+                "display_url": "j11y.io/jquery/",
+                "indices": [
+                    100,
+                    123
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "deen_john",
+                "name": "Deen John",
+                "id": 363464865,
+                "id_str": "363464865",
+                "indices": [
+                    3,
+                    13
+                ]
+            },
+            {
+                "screen_name": "padolsey",
+                "name": "James",
+                "id": 17107025,
+                "id_str": "17107025",
+                "indices": [
+                    128,
+                    137
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1501638288578"
+}{
+    "created_at": "Wed Aug 02 01:44:48 +0000 2017",
+    "id": 892561791250771968,
+    "id_str": "892561791250771968",
+    "text": "RT @Crystal1Johnson: Ruby Bridges, the Little Black Girl Who Desegregated New Orleans Schools, Is Only 62. Let That Sink In. https://t.co/2\u2026",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 175640306,
+        "id_str": "175640306",
+        "name": "Stella\ud83d\udc97",
+        "screen_name": "ChaeLovesYou",
+        "location": "IG: slayyy.chaeee",
+        "url": null,
+        "description": "She'll get under your skin, if you let her. SC:chaelovesyou",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1564,
+        "friends_count": 1100,
+        "listed_count": 6,
+        "favourites_count": 5207,
+        "statuses_count": 57181,
+        "created_at": "Sat Aug 07 04:50:40 +0000 2010",
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "FF6699",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "B40B43",
+        "profile_sidebar_border_color": "CC3366",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/814709525936803840/5bWOIaOh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/814709525936803840/5bWOIaOh_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/175640306/1452926165",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Aug 01 18:56:07 +0000 2017",
+        "id": 892458944031055872,
+        "id_str": "892458944031055872",
+        "text": "Ruby Bridges, the Little Black Girl Who Desegregated New Orleans Schools, Is Only 62. Let That Sink In. https://t.co/2azgr1lMgl",
+        "display_text_range": [
+            0,
+            103
+        ],
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 4437233895,
+            "id_str": "4437233895",
+            "name": "Crystal Johnson",
+            "screen_name": "Crystal1Johnson",
+            "location": "Richmond, VA",
+            "url": null,
+            "description": "It is our responsibility to promote the positive things that happen in our communities.",
+            "protected": false,
+            "verified": false,
+            "followers_count": 52544,
+            "friends_count": 31514,
+            "listed_count": 1050,
+            "favourites_count": 698,
+            "statuses_count": 7692,
+            "created_at": "Thu Dec 10 12:08:01 +0000 2015",
+            "utc_offset": -14400,
+            "time_zone": "Eastern Time (US & Canada)",
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/701032700526911488/rXwMf0LO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/701032700526911488/rXwMf0LO_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4437233895/1455974257",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5144,
+        "favorite_count": 6812,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 892458899198152704,
+                    "id_str": "892458899198152704",
+                    "indices": [
+                        104,
+                        127
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DGKmo-9XkAASSEW.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DGKmo-9XkAASSEW.jpg",
+                    "url": "https://t.co/2azgr1lMgl",
+                    "display_url": "pic.twitter.com/2azgr1lMgl",
+                    "expanded_url": "https://twitter.com/Crystal1Johnson/status/892458944031055872/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 228,
+                            "h": 350,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 228,
+                            "h": 350,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 228,
+                            "h": 350,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 892458899198152704,
+                    "id_str": "892458899198152704",
+                    "indices": [
+                        104,
+                        127
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DGKmo-9XkAASSEW.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DGKmo-9XkAASSEW.jpg",
+                    "url": "https://t.co/2azgr1lMgl",
+                    "display_url": "pic.twitter.com/2azgr1lMgl",
+                    "expanded_url": "https://twitter.com/Crystal1Johnson/status/892458944031055872/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 228,
+                            "h": 350,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 228,
+                            "h": 350,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 228,
+                            "h": 350,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 892458918806474753,
+                    "id_str": "892458918806474753",
+                    "indices": [
+                        104,
+                        127
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DGKmqIAW0AEMqqL.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DGKmqIAW0AEMqqL.jpg",
+                    "url": "https://t.co/2azgr1lMgl",
+                    "display_url": "pic.twitter.com/2azgr1lMgl",
+                    "expanded_url": "https://twitter.com/Crystal1Johnson/status/892458944031055872/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 746,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 423,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 746,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "Crystal1Johnson",
+                "name": "Crystal Johnson",
+                "id": 4437233895,
+                "id_str": "4437233895",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1501638288687"
+}{
+    "created_at": "Wed Aug 02 01:44:56 +0000 2017",
+    "id": 892561822284480514,
+    "id_str": "892561822284480514",
+    "text": "#BlackGirlMagic \u2764\ufe0f https://t.co/TYYuLin0fr",
+    "display_text_range": [
+        0,
+        18
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 374764713,
+        "id_str": "374764713",
+        "name": "Olivia Cee\ud83d\udc99",
+        "screen_name": "_PrincessLI",
+        "location": "Chasing my dreams\ud83d\ude0c",
+        "url": null,
+        "description": "guardian angel protect me where ever I go and keep me safe from harm\u2764\ufe0fJohn 16:33 #blackgirlmagic \u2728 CEO in the making!",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1013,
+        "friends_count": 1804,
+        "listed_count": 7,
+        "favourites_count": 9119,
+        "statuses_count": 92669,
+        "created_at": "Fri Sep 16 22:15:19 +0000 2011",
+        "utc_offset": -18000,
+        "time_zone": "Central Time (US & Canada)",
+        "geo_enabled": true,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/483348238058008576/Fz4DHaE5.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/483348238058008576/Fz4DHaE5.jpeg",
+        "profile_background_tile": true,
+        "profile_link_color": "CC3366",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/891823462016221184/M_E8-BRz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/891823462016221184/M_E8-BRz_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/374764713/1497759232",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 892458944031055872,
+    "quoted_status_id_str": "892458944031055872",
+    "quoted_status": {
+        "created_at": "Tue Aug 01 18:56:07 +0000 2017",
+        "id": 892458944031055872,
+        "id_str": "892458944031055872",
+        "text": "Ruby Bridges, the Little Black Girl Who Desegregated New Orleans Schools, Is Only 62. Let That Sink In. https://t.co/2azgr1lMgl",
+        "display_text_range": [
+            0,
+            103
+        ],
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 4437233895,
+            "id_str": "4437233895",
+            "name": "Crystal Johnson",
+            "screen_name": "Crystal1Johnson",
+            "location": "Richmond, VA",
+            "url": null,
+            "description": "It is our responsibility to promote the positive things that happen in our communities.",
+            "protected": false,
+            "verified": false,
+            "followers_count": 52544,
+            "friends_count": 31514,
+            "listed_count": 1052,
+            "favourites_count": 698,
+            "statuses_count": 7692,
+            "created_at": "Thu Dec 10 12:08:01 +0000 2015",
+            "utc_offset": -14400,
+            "time_zone": "Eastern Time (US & Canada)",
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/701032700526911488/rXwMf0LO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/701032700526911488/rXwMf0LO_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4437233895/1455974257",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5145,
+        "favorite_count": 6817,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 892458899198152704,
+                    "id_str": "892458899198152704",
+                    "indices": [
+                        104,
+                        127
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DGKmo-9XkAASSEW.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DGKmo-9XkAASSEW.jpg",
+                    "url": "https://t.co/2azgr1lMgl",
+                    "display_url": "pic.twitter.com/2azgr1lMgl",
+                    "expanded_url": "https://twitter.com/Crystal1Johnson/status/892458944031055872/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 228,
+                            "h": 350,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 228,
+                            "h": 350,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 228,
+                            "h": 350,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 892458899198152704,
+                    "id_str": "892458899198152704",
+                    "indices": [
+                        104,
+                        127
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DGKmo-9XkAASSEW.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DGKmo-9XkAASSEW.jpg",
+                    "url": "https://t.co/2azgr1lMgl",
+                    "display_url": "pic.twitter.com/2azgr1lMgl",
+                    "expanded_url": "https://twitter.com/Crystal1Johnson/status/892458944031055872/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 228,
+                            "h": 350,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 228,
+                            "h": 350,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 228,
+                            "h": 350,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 892458918806474753,
+                    "id_str": "892458918806474753",
+                    "indices": [
+                        104,
+                        127
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DGKmqIAW0AEMqqL.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DGKmqIAW0AEMqqL.jpg",
+                    "url": "https://t.co/2azgr1lMgl",
+                    "display_url": "pic.twitter.com/2azgr1lMgl",
+                    "expanded_url": "https://twitter.com/Crystal1Johnson/status/892458944031055872/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 746,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 423,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 746,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": true,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "BlackGirlMagic",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/TYYuLin0fr",
+                "expanded_url": "https://twitter.com/crystal1johnson/status/892458944031055872",
+                "display_url": "twitter.com/crystal1johnso\u2026",
+                "indices": [
+                    19,
+                    42
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "und",
+    "timestamp_ms": "1501638296086"
+}{
+    "created_at": "Wed Aug 02 01:44:58 +0000 2017",
+    "id": 892561831218360321,
+    "id_str": "892561831218360321",
+    "text": "RT @rebel19: Ruby Bridges, the Little Black Girl Who Desegregated New Orleans Schools, Is Only 62. Let That Sink In. https://t.co/YEVOLXUQbT",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 136704032,
+        "id_str": "136704032",
+        "name": "Tina \u2665\ufe0f",
+        "screen_name": "tinaalicia70",
+        "location": null,
+        "url": null,
+        "description": "Proud Democrat-I don't tolerate racial/equality ignorance! I love our vets! \ud83c\uddfa\ud83c\uddf8#TheResistance. Waiting for The L Word Sequel! Walter White fan! I cuss a lot!",
+        "protected": false,
+        "verified": false,
+        "followers_count": 667,
+        "friends_count": 826,
+        "listed_count": 29,
+        "favourites_count": 15449,
+        "statuses_count": 7912,
+        "created_at": "Sat Apr 24 17:30:39 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/886320824076075009/0rz-mE_0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/886320824076075009/0rz-mE_0_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/136704032/1501533954",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 31 13:29:26 +0000 2017",
+        "id": 892014340966166528,
+        "id_str": "892014340966166528",
+        "text": "Ruby Bridges, the Little Black Girl Who Desegregated New Orleans Schools, Is Only 62. Let That Sink In. https://t.co/YEVOLXUQbT",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 11954462,
+            "id_str": "11954462",
+            "name": "Rebecca Carroll",
+            "screen_name": "rebel19",
+            "location": "Brooklyn",
+            "url": "http://www.rebeccasimonecarroll.com/",
+            "description": "@WNYC Editor, Special Projects | Critic-at-Large @LATimes | Host, Conversation Series | Author, books | tweets, thoughts, ideas my own | illo by @vinganapathy",
+            "protected": false,
+            "verified": false,
+            "followers_count": 10136,
+            "friends_count": 1076,
+            "listed_count": 341,
+            "favourites_count": 30422,
+            "statuses_count": 34267,
+            "created_at": "Mon Jan 07 19:08:42 +0000 2008",
+            "utc_offset": -18000,
+            "time_zone": "Central Time (US & Canada)",
+            "geo_enabled": true,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "DD2E44",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/786045693697875968/UKY-V-CK_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/786045693697875968/UKY-V-CK_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/11954462/1481147733",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7313,
+        "favorite_count": 13081,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/YEVOLXUQbT",
+                    "expanded_url": "http://bit.ly/2qlmOvK",
+                    "display_url": "bit.ly/2qlmOvK",
+                    "indices": [
+                        104,
+                        127
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/YEVOLXUQbT",
+                "expanded_url": "http://bit.ly/2qlmOvK",
+                "display_url": "bit.ly/2qlmOvK",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "rebel19",
+                "name": "Rebecca Carroll",
+                "id": 11954462,
+                "id_str": "11954462",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1501638298216"
+}{
+    "created_at": "Wed Aug 02 01:44:58 +0000 2017",
+    "id": 892561831222538240,
+    "id_str": "892561831222538240",
+    "text": "RT @Vallmeister: Ruby Bridges, the Little Black Girl Who Desegregated New Orleans Schools, Is Only 62. Let That Sink In https://t.co/ZsZXxu\u2026",
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3744024257,
+        "id_str": "3744024257",
+        "name": "B.Jean Mohr",
+        "screen_name": "BJeanMohr1",
+        "location": "Ohio CD16",
+        "url": null,
+        "description": "fmr. Dem County Chair, Liberal Democrat . #StillWithHillaryAlways #ImpeachTrumpPenceSaveUSA. # Resist #Persist. #FreePress",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1197,
+        "friends_count": 1186,
+        "listed_count": 91,
+        "favourites_count": 45297,
+        "statuses_count": 64103,
+        "created_at": "Wed Sep 23 00:27:01 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/728405659176308736/83EwGL5f_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/728405659176308736/83EwGL5f_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Aug 01 22:40:39 +0000 2017",
+        "id": 892515446766915584,
+        "id_str": "892515446766915584",
+        "text": "Ruby Bridges, the Little Black Girl Who Desegregated New Orleans Schools, Is Only 62. Let That Sink In https://t.co/ZsZXxu7C6L @watchtheyard",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 265197860,
+            "id_str": "265197860",
+            "name": "Aaron Vallely",
+            "screen_name": "Vallmeister",
+            "location": "Dublin City, Ireland",
+            "url": "http://m.huffpost.com/uk/author/aaron-vallely/",
+            "description": "| Writer | Activist | @huffpost | Human Rights, Pop Culture, Mental Health, LGBTQ Issues, & The Arts |",
+            "protected": false,
+            "verified": true,
+            "followers_count": 43030,
+            "friends_count": 2537,
+            "listed_count": 393,
+            "favourites_count": 165562,
+            "statuses_count": 42064,
+            "created_at": "Sun Mar 13 05:00:57 +0000 2011",
+            "utc_offset": -25200,
+            "time_zone": "Pacific Time (US & Canada)",
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "0099CC",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/880048521759641600/C-jstVyv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/880048521759641600/C-jstVyv_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/265197860/1501398930",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 88,
+        "favorite_count": 156,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/ZsZXxu7C6L",
+                    "expanded_url": "http://bit.ly/2qlmOvK",
+                    "display_url": "bit.ly/2qlmOvK",
+                    "indices": [
+                        103,
+                        126
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "watchtheyard",
+                    "name": "Watch The Yard",
+                    "id": 1375421239,
+                    "id_str": "1375421239",
+                    "indices": [
+                        127,
+                        140
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "Vallmeister",
+                "name": "Aaron Vallely",
+                "id": 265197860,
+                "id_str": "265197860",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1501638298217"
+}{
+    "created_at": "Wed Aug 02 01:44:58 +0000 2017",
+    "id": 892561832598134784,
+    "id_str": "892561832598134784",
+    "text": "RT @Crystal1Johnson: Ruby Bridges, the Little Black Girl Who Desegregated New Orleans Schools, Is Only 62. Let That Sink In. https://t.co/2\u2026",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2990583542,
+        "id_str": "2990583542",
+        "name": "QUEEN\ud83d\udc51",
+        "screen_name": "duhh_itsqueent",
+        "location": null,
+        "url": null,
+        "description": "Noah\ud83d\udc95",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1293,
+        "friends_count": 890,
+        "listed_count": 1,
+        "favourites_count": 4882,
+        "statuses_count": 8688,
+        "created_at": "Tue Jan 20 03:11:02 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/891394082400079877/LnonfUbk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/891394082400079877/LnonfUbk_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2990583542/1501626465",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Aug 01 18:56:07 +0000 2017",
+        "id": 892458944031055872,
+        "id_str": "892458944031055872",
+        "text": "Ruby Bridges, the Little Black Girl Who Desegregated New Orleans Schools, Is Only 62. Let That Sink In. https://t.co/2azgr1lMgl",
+        "display_text_range": [
+            0,
+            103
+        ],
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 4437233895,
+            "id_str": "4437233895",
+            "name": "Crystal Johnson",
+            "screen_name": "Crystal1Johnson",
+            "location": "Richmond, VA",
+            "url": null,
+            "description": "It is our responsibility to promote the positive things that happen in our communities.",
+            "protected": false,
+            "verified": false,
+            "followers_count": 52545,
+            "friends_count": 31513,
+            "listed_count": 1097,
+            "favourites_count": 698,
+            "statuses_count": 7692,
+            "created_at": "Thu Dec 10 12:08:01 +0000 2015",
+            "utc_offset": -14400,
+            "time_zone": "Eastern Time (US & Canada)",
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/701032700526911488/rXwMf0LO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/701032700526911488/rXwMf0LO_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4437233895/1455974257",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5147,
+        "favorite_count": 6818,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 892458899198152704,
+                    "id_str": "892458899198152704",
+                    "indices": [
+                        104,
+                        127
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DGKmo-9XkAASSEW.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DGKmo-9XkAASSEW.jpg",
+                    "url": "https://t.co/2azgr1lMgl",
+                    "display_url": "pic.twitter.com/2azgr1lMgl",
+                    "expanded_url": "https://twitter.com/Crystal1Johnson/status/892458944031055872/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 228,
+                            "h": 350,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 228,
+                            "h": 350,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 228,
+                            "h": 350,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 892458899198152704,
+                    "id_str": "892458899198152704",
+                    "indices": [
+                        104,
+                        127
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DGKmo-9XkAASSEW.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DGKmo-9XkAASSEW.jpg",
+                    "url": "https://t.co/2azgr1lMgl",
+                    "display_url": "pic.twitter.com/2azgr1lMgl",
+                    "expanded_url": "https://twitter.com/Crystal1Johnson/status/892458944031055872/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 228,
+                            "h": 350,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 228,
+                            "h": 350,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 228,
+                            "h": 350,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 892458918806474753,
+                    "id_str": "892458918806474753",
+                    "indices": [
+                        104,
+                        127
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DGKmqIAW0AEMqqL.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DGKmqIAW0AEMqqL.jpg",
+                    "url": "https://t.co/2azgr1lMgl",
+                    "display_url": "pic.twitter.com/2azgr1lMgl",
+                    "expanded_url": "https://twitter.com/Crystal1Johnson/status/892458944031055872/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 746,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 423,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 746,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "Crystal1Johnson",
+                "name": "Crystal Johnson",
+                "id": 4437233895,
+                "id_str": "4437233895",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1501638298545"
+}{
+    "created_at": "Wed Aug 02 01:45:01 +0000 2017",
+    "id": 892561843612528640,
+    "id_str": "892561843612528640",
+    "text": "How can I reverse a list in python? #python #list https://t.co/hbBTZmxaKs",
+    "source": "<a href=\"http://jarvis.ratankumar.org/\" rel=\"nofollow\">PythonQnA</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 747460774998605825,
+        "id_str": "747460774998605825",
+        "name": "PythonQnA",
+        "screen_name": "PythonQnA",
+        "location": "Bengaluru, India",
+        "url": null,
+        "description": "I tweet Python questions from stackoverflow.",
+        "protected": false,
+        "verified": false,
+        "followers_count": 710,
+        "friends_count": 64,
+        "listed_count": 276,
+        "favourites_count": 0,
+        "statuses_count": 94936,
+        "created_at": "Mon Jun 27 16:05:10 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/747461193653092352/Mz9NjeE__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/747461193653092352/Mz9NjeE__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/747460774998605825/1467044067",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "python",
+                "indices": [
+                    36,
+                    43
+                ]
+            },
+            {
+                "text": "list",
+                "indices": [
+                    44,
+                    49
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/hbBTZmxaKs",
+                "expanded_url": "https://goo.gl/Hpmw0B",
+                "display_url": "goo.gl/Hpmw0B",
+                "indices": [
+                    50,
+                    73
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1501638301171"
+}{
+    "created_at": "Wed Aug 02 01:45:01 +0000 2017",
+    "id": 892561843771846656,
+    "id_str": "892561843771846656",
+    "text": "How to compare arrays in JavaScript? #javascript #arrays #json https://t.co/rpuuraakxY",
+    "source": "<a href=\"http://jarvis.ratankumar.org/\" rel=\"nofollow\">javascriptqna</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 746962208484032512,
+        "id_str": "746962208484032512",
+        "name": "Javascript",
+        "screen_name": "JavascriptQnA",
+        "location": "Bengaluru, India",
+        "url": null,
+        "description": "I tweet Javascript questions from stackoverflow.",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1304,
+        "friends_count": 943,
+        "listed_count": 445,
+        "favourites_count": 6,
+        "statuses_count": 107470,
+        "created_at": "Sun Jun 26 07:04:03 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/746962627813773312/Vudyno6M_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/746962627813773312/Vudyno6M_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/746962208484032512/1466925871",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "javascript",
+                "indices": [
+                    37,
+                    48
+                ]
+            },
+            {
+                "text": "arrays",
+                "indices": [
+                    49,
+                    56
+                ]
+            },
+            {
+                "text": "json",
+                "indices": [
+                    57,
+                    62
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/rpuuraakxY",
+                "expanded_url": "https://goo.gl/B9G9Tu",
+                "display_url": "goo.gl/B9G9Tu",
+                "indices": [
+                    63,
+                    86
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1501638301209"
+}{
+    "created_at": "Wed Aug 02 01:45:04 +0000 2017",
+    "id": 892561855851491331,
+    "id_str": "892561855851491331",
+    "text": "\"I\u2019ve got a great role you may be interested in: Ruby on Rails Software Engineer\"\nThey've won prizes with their apps.",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 814754,
+        "id_str": "814754",
+        "name": "Jay Fallon",
+        "screen_name": "jayfallon",
+        "location": "Boston, MA",
+        "url": "http://jayfallon.net",
+        "description": "Mumblecore",
+        "protected": false,
+        "verified": false,
+        "followers_count": 970,
+        "friends_count": 447,
+        "listed_count": 107,
+        "favourites_count": 59834,
+        "statuses_count": 66919,
+        "created_at": "Tue Mar 06 11:53:44 +0000 2007",
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F1F1F1",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "282E30",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/795775348302643200/i9GrKVyo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/795775348302643200/i9GrKVyo_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/814754/1398431864",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1501638304089"
+}{
+    "created_at": "Wed Aug 02 01:45:04 +0000 2017",
+    "id": 892561856686149633,
+    "id_str": "892561856686149633",
+    "text": "RT @Crystal1Johnson: Ruby Bridges, the Little Black Girl Who Desegregated New Orleans Schools, Is Only 62. Let That Sink In. https://t.co/2\u2026",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 742504586171289600,
+        "id_str": "742504586171289600",
+        "name": "COCO\u00c1\ud83c\udf6b.\ud83c\udde7\ud83c\uddff",
+        "screen_name": "king__lilo",
+        "location": "678 \ud83d\udccd",
+        "url": null,
+        "description": "#GGC \ud83d\udc3b\ud83d\udc9a Future Pediatric Nurse \ud83d\udc69\ud83c\udffe\u200d\u2695\ufe0f\ud83c\udfe5\ud83d\udc93 \u2728Enjoying every moment of life\u2728",
+        "protected": false,
+        "verified": false,
+        "followers_count": 492,
+        "friends_count": 491,
+        "listed_count": 0,
+        "favourites_count": 8023,
+        "statuses_count": 6588,
+        "created_at": "Mon Jun 13 23:51:03 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/886696533252599809/RurCM3yr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/886696533252599809/RurCM3yr_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/742504586171289600/1500962911",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Aug 01 18:56:07 +0000 2017",
+        "id": 892458944031055872,
+        "id_str": "892458944031055872",
+        "text": "Ruby Bridges, the Little Black Girl Who Desegregated New Orleans Schools, Is Only 62. Let That Sink In. https://t.co/2azgr1lMgl",
+        "display_text_range": [
+            0,
+            103
+        ],
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 4437233895,
+            "id_str": "4437233895",
+            "name": "Crystal Johnson",
+            "screen_name": "Crystal1Johnson",
+            "location": "Richmond, VA",
+            "url": null,
+            "description": "It is our responsibility to promote the positive things that happen in our communities.",
+            "protected": false,
+            "verified": false,
+            "followers_count": 52544,
+            "friends_count": 31514,
+            "listed_count": 1053,
+            "favourites_count": 698,
+            "statuses_count": 7692,
+            "created_at": "Thu Dec 10 12:08:01 +0000 2015",
+            "utc_offset": -14400,
+            "time_zone": "Eastern Time (US & Canada)",
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/701032700526911488/rXwMf0LO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/701032700526911488/rXwMf0LO_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4437233895/1455974257",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5148,
+        "favorite_count": 6819,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 892458899198152704,
+                    "id_str": "892458899198152704",
+                    "indices": [
+                        104,
+                        127
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DGKmo-9XkAASSEW.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DGKmo-9XkAASSEW.jpg",
+                    "url": "https://t.co/2azgr1lMgl",
+                    "display_url": "pic.twitter.com/2azgr1lMgl",
+                    "expanded_url": "https://twitter.com/Crystal1Johnson/status/892458944031055872/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 228,
+                            "h": 350,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 228,
+                            "h": 350,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 228,
+                            "h": 350,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 892458899198152704,
+                    "id_str": "892458899198152704",
+                    "indices": [
+                        104,
+                        127
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DGKmo-9XkAASSEW.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DGKmo-9XkAASSEW.jpg",
+                    "url": "https://t.co/2azgr1lMgl",
+                    "display_url": "pic.twitter.com/2azgr1lMgl",
+                    "expanded_url": "https://twitter.com/Crystal1Johnson/status/892458944031055872/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 228,
+                            "h": 350,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 228,
+                            "h": 350,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 228,
+                            "h": 350,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 892458918806474753,
+                    "id_str": "892458918806474753",
+                    "indices": [
+                        104,
+                        127
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DGKmqIAW0AEMqqL.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DGKmqIAW0AEMqqL.jpg",
+                    "url": "https://t.co/2azgr1lMgl",
+                    "display_url": "pic.twitter.com/2azgr1lMgl",
+                    "expanded_url": "https://twitter.com/Crystal1Johnson/status/892458944031055872/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 746,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 423,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 746,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "Crystal1Johnson",
+                "name": "Crystal Johnson",
+                "id": 4437233895,
+                "id_str": "4437233895",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1501638304288"
+}

@@ -1,0 +1,27 @@
+codigo	descricao	codigo_secao	id	offset	item_filename
+11	SERVIÇOS  DE DESENVOLVIMENTO,  MANUTENÇÃO  E  SUSTENTAÇÃO DESOFTWARE                                                    	1	11	0	servicos.divisoes
+13	SERVIÇOS DE COMPUTAÇÃO EM NUVEM                                                                                         	1	13	0	servicos.divisoes
+14	SERVIÇOS DE TELECOMUNICAÇÃO E TELEFONIA                                                                                 	1	14	0	servicos.divisoes
+15	SERVICOS DE OUTSOURCING DE IMPRESSÃO                                                                                    	1	15	0	servicos.divisoes
+16	SERVIÇOS PARA A INFRAESTRUTURA  DE  TECNOLOGIA DA INFORMAÇÃOE COMUNICAÇÃO (TIC)                                         	1	16	0	servicos.divisoes
+17	SERVIÇOS DE  PESQUISA,  ANÁLISE  DE  DADOS  E  INDICADORES, CONSULTORIA E PROJETOS DE TIC                               	1	17	0	servicos.divisoes
+18	SERVICOS DE ARRENDAMENTO, LICENCIAMENTO DE DIREITOS E TRANS-FERENCIA DE TECNOLOGIA                                      	1	18	0	servicos.divisoes
+54	SERVIÇO DE CONSTRUÇÃO                                                                                                   	5	54	0	servicos.divisoes
+61	SERVIÇOS DO COMÉRCIO POR ATACADO                                                                                        	6	61	0	servicos.divisoes
+62	SERVIÇOS DO COMÉRCIO DE VAREJO                                                                                          	6	62	0	servicos.divisoes
+63	ALOJAMENTO,SERVIÇOS DE FORNECIMENTO DE ALIMENTOS E BEBIDAS                                                              	6	63	0	servicos.divisoes
+64	SERVIÇOS DE TRANSPORTE TERRESTRE                                                                                        	6	64	0	servicos.divisoes
+65	SERVIÇOS DE TRANSPORTE AQUÁTICO                                                                                         	6	65	0	servicos.divisoes
+66	SERVIÇOS DE TRANSPORTE AÉREO                                                                                            	6	66	0	servicos.divisoes
+67	SERVIÇOS DE TRANSPORTE AUXILIAR E DE SUPORTE                                                                            	6	67	0	servicos.divisoes
+68	SERVIÇO POSTAL E DE CORREIO                                                                                             	6	68	0	servicos.divisoes
+69	SERVIÇOS DE DISTRIBUIÇÃO DE ELETRICIDADE;DISTRIBUIÇÃO DE GÁSE DE ÁGUA ATRAVÉS DE TUBULAÇÃO                              	6	69	0	servicos.divisoes
+71	SERVIÇOS DE INTERMEDIAÇÃO FINANCEIRA,DE SEGUROS E AUXILIARES                                                            	7	71	0	servicos.divisoes
+72	SERVIÇOS IMOBILIÁRIOS                                                                                                   	7	72	0	servicos.divisoes
+73	SERVIÇOS DE LEASING OU ALUGUEL SEM OPERADOR                                                                             	7	73	0	servicos.divisoes
+80	SERVIÇOS TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO - TIC                                                                   	8	80	0	servicos.divisoes
+81	SERVIÇO DA PESQUISA E DO DESENVOLVIMENTO                                                                                	8	81	0	servicos.divisoes
+82	SERVIÇOS LEGAIS/JURÍDICOS E DE CONTABILIDADE                                                                            	8	82	0	servicos.divisoes
+83	OUTROS SERVIÇOS DE NEGÓCIOS, TÉCNICOS E PROFISSIONAIS                                                                   	8	83	0	servicos.divisoes
+84	SERVIÇOS DE RECUPERAÇÃO E DE FORNECIMENTO DE INFORMAÇÕES                                                                	8	84	0	servicos.divisoes
+85	SERVIÇOS DE SUPORTE                                                                                                     	8	85	0	servicos.divisoes

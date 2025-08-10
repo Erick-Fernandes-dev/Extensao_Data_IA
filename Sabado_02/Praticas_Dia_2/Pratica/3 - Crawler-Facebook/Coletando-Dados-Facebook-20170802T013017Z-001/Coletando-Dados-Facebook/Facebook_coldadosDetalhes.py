@@ -1,0 +1,20 @@
+# Conjunto de importações
+# Caminho base para requisitar a Graph API
+# Autor: Ricardo Roberto de Lima. - Data: 01/08/2017
+# Programa: Responsável por coletar dados da pessoa como: id, name, first_name, last_name, gender, website, cover
+import requests
+import json        
+
+base_url = "https://graph.facebook.com/"
+objeto = "me"
+access_token = "329484294160599|RICnpAHDI6MEYxmx19Vb9aqKSDg"
+#Definição dos campos que iremos coletar
+campos = "id,name,first_name,last_name,gender,website, cover"
+#A URL agora terá a variável campos
+url = "%s%s?fields=%s&access_token=%s" % (base_url, objeto, campos, access_token)
+
+#Envia a requisição
+#Armazena a resposta na variável dados
+dados = requests.get(url).json()
+#Apresenta a resposta no formato JSON identadamente
+print (json.dumps(dados, indent=4))

@@ -69,5 +69,129 @@ Se o seu curso puxar mais para o lado **matemático e teórico**, essa parte vai
 
 ---
 
-Se quiser, posso te montar **um mapa visual** mostrando todas as classes de problemas na ciência de dados e como elas se conectam, para você ter essa visão de forma mais rápida.
-Isso ajuda muito na hora de estudar.
+
+```
+Ciência de Dados
+│
+├── Aprendizado Supervisionado
+│   ├── Classificação
+│   │   ├── Diagnóstico médico (doença ou não)
+│   │   ├── Detecção de spam (spam / não spam)
+│   │   └── Reconhecimento de imagem (gato, cachorro, etc.)
+│   └── Regressão
+│       ├── Previsão de preços (imóveis, ações)
+│       ├── Estimativa de demanda
+│       └── Previsão de temperatura
+│
+├── Aprendizado Não Supervisionado
+│   ├── Agrupamento (Clustering)
+│   │   ├── Segmentação de clientes
+│   │   ├── Agrupamento de notícias por similaridade
+│   │   └── Análise de comunidades em redes sociais
+│   └── Redução de Dimensionalidade
+│       ├── PCA (Análise de Componentes Principais)
+│       └── Compressão de dados
+│
+├── Aprendizado por Reforço
+│   ├── Robótica
+│   ├── Jogos (Xadrez, Go)
+│   └── Otimização de estratégias
+│
+├── Séries Temporais
+│   ├── Previsão de vendas
+│   ├── Previsão de clima
+│   └── Detecção de anomalias
+│
+└── Outras áreas
+    ├── Processamento de Linguagem Natural (NLP)
+    │   ├── Análise de sentimentos
+    │   ├── Tradução automática
+    │   └── Chatbots
+    └── Visão Computacional
+        ├── Detecção de objetos
+        ├── Segmentação de imagens
+        └── Reconhecimento facial
+
+```
+
+
+
+Depois de **Classes de Problemas** em ciência de dados, normalmente entramos em duas áreas bem centrais: **pré-processamento de dados** e **avaliação de modelos**.
+Vou te explicar de forma estruturada.
+
+---
+
+## **1. Pré-processamento de Dados**
+
+É a fase em que pegamos os dados brutos e preparamos para que um modelo consiga aprender com qualidade.
+Dados raramente vêm “perfeitos” — eles podem estar incompletos, com ruídos, escalas diferentes, tipos misturados.
+
+### **Etapas comuns**
+
+1. **Limpeza de dados**
+
+   * Remover valores nulos ou preenchê-los (imputação).
+   * Corrigir erros de digitação ou formatos.
+   * Excluir duplicatas.
+
+2. **Transformação**
+
+   * **Normalização**: reescala os dados para um intervalo (ex.: 0 a 1).
+   * **Padronização**: ajusta para média 0 e desvio padrão 1.
+   * **Codificação de variáveis categóricas**:
+
+     * *One-Hot Encoding* (variável vira várias colunas binárias).
+     * *Label Encoding* (atribui números a categorias).
+
+3. **Redução de dimensionalidade**
+
+   * Usar PCA (*Principal Component Analysis*) ou t-SNE para reduzir número de variáveis mantendo informação relevante.
+
+4. **Feature Engineering**
+
+   * Criar novas variáveis a partir das existentes.
+   * Exemplo: de uma data, extrair “mês” ou “dia da semana” como variáveis.
+
+---
+
+## **2. Avaliação de Modelos**
+
+Depois de treinar, precisamos saber **o quão bom** é o modelo.
+
+### **Divisão de dados**
+
+* **Treino**: usado para ajustar o modelo.
+* **Validação**: usado para tunar hiperparâmetros.
+* **Teste**: usado para medir desempenho final.
+
+### **Métricas comuns**
+
+* **Classificação**
+
+  * *Acurácia*: % de acertos.
+  * *Precisão*: dos que previ como positivos, quantos eram realmente positivos.
+  * *Recall (Sensibilidade)*: dos positivos reais, quantos acertei.
+  * *F1-Score*: equilíbrio entre precisão e recall.
+  * *Matriz de confusão*: tabela que mostra acertos e erros por classe.
+
+* **Regressão**
+
+  * *MAE* (Mean Absolute Error)
+  * *MSE* (Mean Squared Error)
+  * *RMSE* (Root Mean Squared Error)
+  * *R²* (coeficiente de determinação)
+
+### **Validação cruzada**
+
+* Técnica para avaliar desempenho em múltiplas divisões do dataset.
+* Evita que o modelo dependa de um único corte dos dados.
+
+---
+
+💡 Quer que eu já te monte **um exemplo em Python** que:
+
+1. Faz **pré-processamento** (limpeza, normalização, encoding)
+2. Treina um modelo simples
+3. Avalia com métricas de classificação
+   E ainda exporta métricas pro Prometheus se quiser?
+   Isso já conecta com o que vimos antes.
